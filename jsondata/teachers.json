@@ -1,0 +1,34 @@
+[
+    {
+        "surname":"Murodullayev", 
+        "name": "Sarvar", 
+        "fathername":"Usmon o'g'li",
+        "viloyat":"Navoiy",
+        "tuman":"Xatirchi",
+        "maktab":"33-maktab",
+        "fan":"Informatika",
+        "toifa": "Mutaxassis"
+    },
+
+    {
+        "surname":"Himmatov", 
+        "name": "Shoxrux", 
+        "fathername":"Oripovich",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa": "Ikkinchi toifa"
+    },
+
+    {
+        "surname":"Abdinazarova", 
+        "name": "Shaxnoza", 
+        "fathername":"Abdinazarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa": "Birinchi toifa"
+    }
+]

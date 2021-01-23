@@ -169,8 +169,9 @@ $('.boshlash').click(() => {
 function loadtest() {
     $.getJSON(`./jsondata/${$('#fan').val()}.json`, function (tests) {
         for (let i = 1; i <= 40; i++) {
-            let l = tests.length
-            let n = Math.floor(Math.random() * l)-1
+            let l = tests.length - 1
+            let n = Math.floor(Math.random() * l)
+            console.log(n + ' ' + tests[n].savol)
             $(`#savol${i}`).text(tests[n].savol)
             let m = []
             let z = 0

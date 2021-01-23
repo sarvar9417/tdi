@@ -170,11 +170,10 @@ function loadtest() {
     $.getJSON(`./jsondata/${$('#fan').val()}.json`, function (tests) {
         for (let i = 1; i <= 40; i++) {
             let l = tests.length
-            let n = Math.floor(Math.random() * l)
+            let n = Math.floor(Math.random() * l)-1
             $(`#savol${i}`).text(tests[n].savol)
             let m = []
             let z = 0
-            console.log(i+'-savol');
             while (m.length != 4) {
                 let k = Math.floor(Math.random() * 4)
                 let s = 0
@@ -182,7 +181,6 @@ function loadtest() {
                     if (k == element) s++
                 })
                 if (s == 0) {
-                    console.log(k);
                     z++
                     if (k == 0) {
                         $(`#L${i}${z}`).append(tests[n].A)
@@ -203,7 +201,7 @@ function loadtest() {
                     m.push(k)
                 }
             }
-            tests.pop(n)
+            tests.splice(n, 1)
         }
     })
 }

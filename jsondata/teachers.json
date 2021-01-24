@@ -30,5 +30,16 @@
         "maktab":"17-maktab",
         "fan":"Informatika",
         "toifa": "Birinchi toifa"
+    },
+
+    {
+        "surname":"Abruyev",
+        "name":"Shaxboz",
+        "fathername": "Shirinboyevich",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana",
+        "maktab":"31-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
     }
 ]

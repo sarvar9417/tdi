@@ -10,7 +10,7 @@ $('#password').change(function () {
 })
 $('.open').click(function () {
     $.getJSON('./jsondata/password.json', function (data) {
-        if ($('#login').val() == data.login && $('#password').val() == data.password) {
+        if ($('#login').val() == data[0].login && $('#password').val() == data[0].password) {
             $('.head').css('display', 'none')
             $('.neck').css('display', 'block')
         } else {

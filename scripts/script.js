@@ -172,7 +172,7 @@ function loadtest() {
             let l = tests.length - 1
             let n = Math.floor(Math.random() * l)
             console.log(n + ' ' + tests[n].savol)
-            $(`#savol${i}`).text(tests[n].savol)
+            $(`#savol${i}`).append(tests[n].savol)
             let m = []
             let z = 0
             while (m.length != 4) {
@@ -184,19 +184,19 @@ function loadtest() {
                 if (s == 0) {
                     z++
                     if (k == 0) {
-                        $(`#L${i}${z}`).append(tests[n].A)
+                        $(`#L${i}${z}`).append(" " + tests[n].A)
                         $(`#T${i}${z}`).val(k)
                     }
                     if (k == 1) {
-                        $(`#L${i}${z}`).append(tests[n].B)
+                        $(`#L${i}${z}`).append(" " + tests[n].B)
                         $(`#T${i}${z}`).val(k)
                     }
                     if (k == 2) {
-                        $(`#L${i}${z}`).append(tests[n].C)
+                        $(`#L${i}${z}`).append(" " + tests[n].C)
                         $(`#T${i}${z}`).val(k)
                     }
                     if (k == 3) {
-                        $(`#L${i}${z}`).append(tests[n].D)
+                        $(`#L${i}${z}`).append(" " + tests[n].D)
                         $(`#T${i}${z}`).val(k)
                     }
                     m.push(k)
@@ -211,7 +211,7 @@ for (let i = 1; i <= 40; i++) {
     $('.question_numbers').append(`<div class="test_number" id="${i}">${i}</div>`)
 
     $('.tests').append(`<table id="test${i}" class="d-none">
-    <tr><td> <span class="number">${i}.</span>  <span id="savol${i}" class="savol">Savol</span></td></tr>
+    <tr><td> <span class="number">${i}.</span>  <span id="savol${i}" class="savol"></span></td></tr>
     <tr><td><label for="T${i}1" id="L${i}1"><input type="radio" name="answers_${i}" id="T${i}1" value ="False" class='answers'></label></td></tr>
     <tr><td><label for="T${i}2" id="L${i}2"><input type="radio" name="answers_${i}" id="T${i}2" value ="False" class='answers'></label></td></tr>
     <tr><td><label for="T${i}3" id="L${i}3"><input type="radio" name="answers_${i}" id="T${i}3" value ="False" class='answers'></label></td></tr>

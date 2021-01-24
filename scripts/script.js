@@ -73,7 +73,6 @@ $('#tuman').change(function () {
         let k = 0
         maktab.forEach(mak => {
             if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val()) {
-                console.log($('#viloyat').val(), $('#tuman').val())
                 if (teacher.maktab == mak) k++
             }
         })
@@ -171,7 +170,6 @@ function loadtest() {
         for (let i = 1; i <= 40; i++) {
             let l = tests.length - 1
             let n = Math.floor(Math.random() * l)
-            console.log(n + ' ' + tests[n].savol)
             $(`#savol${i}`).append(tests[n].savol)
             let m = []
             let z = 0

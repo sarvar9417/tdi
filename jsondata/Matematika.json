@@ -184,7 +184,7 @@
     },
 
     {
-        "savol":"Tenglamaning kichik ildizini toping: 27x(x+1)=17x^2-18",
+        "savol":"Tenglamaning kichik ildizini toping: 27x(x+1)=17x<sup>2</sup>-18",
         "A":"-1.5",
         "B":"-3",
         "C":"-2.5",
@@ -224,7 +224,7 @@
     },
 
     {
-        "savol":"Tenglamani kichik ildizini toping: <i>25x(3x+1)=50x^2+66</i>",
+        "savol":"Tenglamani kichik ildizini toping: <i>25x(3x+1)=50x<sup>2<sup>+66</i>",
         "A":"-3.2",
         "B":"-2.2",
         "C":"-8",

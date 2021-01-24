@@ -1,6 +1,6 @@
 [
     {
-        "savol":"<img src='../img/matematika.png'> Shaklning yuzini toping.",
+        "savol":"<img src='../img/matematika1.png' alt=\"matematika1\"> Shaklning yuzini toping.",
         "A":"57",
         "B":"77",
         "C":"48",
@@ -8,7 +8,7 @@
     },
 
     {
-        "savol":"Elektr energiya hisoblagichi ko'rsatkichi 1-sentabr uchun 79991 kWt &sdot; h, 1-oktabr uchun esa bu ko'rsatkich 80158 kWt&cdot h. Agar 1 kWt &sdot h elektr energiyasi uchun to'lov 250 so'mni tashkil qilsa, sentabr oyi uchun qancha pul to'lash kerak bo'ladi?",
+        "savol":"Elektr energiya hisoblagichi ko'rsatkichi 1-sentabr uchun 79991 kWt &sdot; h, 1-oktabr uchun esa bu ko'rsatkich 80158 kWt&cdot; h. Agar 1 kWt &sdot; h elektr energiyasi uchun to'lov 250 so'mni tashkil qilsa, sentabr oyi uchun qancha pul to'lash kerak bo'ladi?",
         "A":"41750 so'm",
         "B":"45550 so'm",
         "C":"50125 so'm",
@@ -41,10 +41,10 @@
 
     {
         "savol":"O'q kesimining yuzi 10 ga teng bo'lgan slindrni yon sirtining yuzini toping.",
-        "A":"20&#x3C0",
-        "B":"115&#x3C0",
-        "C":"10&#x3C0",
-        "D":"30&#x3C0"
+        "A":"20&#x3C0;",
+        "B":"115&#x3C0;",
+        "C":"10&#x3C0;",
+        "D":"30&#x3C0;"
     },
 
     {
@@ -56,7 +56,7 @@
     },
 
     {
-        "savol":"Konusning yon sirti 60&#x3C0 ga, to'la sirti 96&#x3C0 ga teng. Konusning yasovchisini toping.",
+        "savol":"Konusning yon sirti 60&#x3C0; ga, to'la sirti 96&#x3C0; ga teng. Konusning yasovchisini toping.",
         "A":"10",
         "B":"11",
         "C":"9",
@@ -88,7 +88,7 @@
     },
 
     {
-        "savol":"Slindrning yon sirti yoyilganda uning diagonali asosi tekisligi bilan 45<sup>o</sup> li burchak tashkil qiladi. Silindrning yon sirti 144&#x3C0<sup>2</sup>",
+        "savol":"Slindrning yon sirti yoyilganda uning diagonali asosi tekisligi bilan 45<sup>o</sup> li burchak tashkil qiladi. Silindrning yon sirti 144&#x3C0;<sup>2</sup>",
         "A":"6",
         "B":"8",
         "C":"4",
@@ -235,7 +235,7 @@
         "savol":"Agar tg(&alpha;+&beta;)=(9/19) va tg&alpha;=-4 bo'lsa, (&pi;/2)<&beta;<&pi;",
         "A":"&pi;+arctg5",
         "B":"8",
-        "C":"&pi-arctg5",
+        "C":"&pi;-arctg5",
         "D":"arctg5"
     },
 

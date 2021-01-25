@@ -94,7 +94,7 @@ $('#maktab').change(function () {
         let k = 0
         fan.forEach(fan => {
             if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val()) {
-                if (teacher.fan == f) k++
+                if (teacher.fan == fan) k++
             }
         })
         if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && k != 1) {

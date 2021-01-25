@@ -97,7 +97,7 @@ $('#maktab').change(function () {
                 if (teacher.fan == fan) k++
             }
         })
-        if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && k != 1) {
+        if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && k > 0) {
             fan.push(teacher.fan)
         }
     })

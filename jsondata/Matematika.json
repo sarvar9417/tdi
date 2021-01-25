@@ -32,7 +32,7 @@
     },
 
     {
-        "savol":"Asos aylanasining uzunligi <img src='../img/matematika.png'> ga, balandligi 9 sm ga teng bo'lgan konusning hajmini toping",
+        "savol":"Asos aylanasining uzunligi <img src='../img/matematika2.png' alt='matematika2'> ga, balandligi 9 sm ga teng bo'lgan konusning hajmini toping",
         "A":"144",
         "B":"48",
         "C":"16",
@@ -96,7 +96,7 @@
     },
 
     {
-        "savol":"Muntazam to'rtbiurchakli kesik piramida asoslarining tomonlari 3 va 7 cm, dioganali 10sm. Kesik piramidaning balandligi necha sm?",
+        "savol":"Muntazam to'rtbiurchakli kesik piramida asoslarining tomonlari 3 va 7 cm, dioganali 10 cm. Kesik piramidaning balandligi necha sm?",
         "A":"5&radic;2",
         "B":"12",
         "C":"5",
@@ -413,5 +413,319 @@
         "B":"35&pi;",
         "C":"20&pi;",
         "D":"25&pi;"
+    },
+
+    {
+        "savol": "Agar <img src='../img/matematika34.png' alt='matematika34'> bo'lsa, ABCD parallellogramm C uchining koordinatalari yig'indisini toping.",
+        "A": "6",
+        "B": "8",
+        "C": "7",
+        "D": "5"
+    },
+
+    {
+        "savol": "Minut millari aylanadigan doira 60 ta teng bo'laklakka bo'lingan. Har bir bo'linma orasi necha gradusga teng?",
+        "A": "6<sup>o</sup>",
+        "B": "3<sup>o</sup>",
+        "C": "5<sup>o</sup>",
+        "D": "2<sup>o</sup>"
+    },
+
+    {
+        "savol": "Kvadratdan to'g'ri burchakli to'rtburchak qirqib olindi. Qolgan qismining yuzasini toping. <img src='../img/matematika35.png' alt='matematika35'>",
+        "A": "12 cm<sup>2</sup>",
+        "B": "52 cm<sup>2</sup>",
+        "C": "15 cm<sup>2</sup>",
+        "D": "64 cm<sup>2</sup>"
+    },
+
+    {
+        "savol": "Rasmda qalin nuqtalar orqali Toshkent shahrining 2020 yilning 8-24-yanvardagi kunlik shamol tezligi ko'rsatilgan. Gozrizontal chiziq bo'ylab haftalik kunlar,Vertikal o'q bo'ylab kunlik shamol tezligi ifodalangan. Yanvar oyining rasmda tasvirlangan qaysi kunida birinchi bo'lib tezlik 1,5 mm/sek ga erishgan. <img src='../img/matematika36.png' alt='matematika36'>",
+        "A": "7,5",
+        "B": "9",
+        "C": "1,5",
+        "D": "12"
+    },
+
+    {
+        "savol": "Tenglamaning kichik ildizini toping: (10+x)(x+14)=-3",
+        "A": "-13",
+        "B": "26",
+        "C": "11",
+        "D": "-11"
+    },
+
+    {
+        "savol": "Tenglamaning kichik ildizini toping: (x+6)(x+1)=-6",
+        "A": "-4",
+        "B": "0",
+        "C": "9",
+        "D": "-8"
+    },
+
+    {
+        "savol": "Ratsional <i>a, b, c, d</i> sonlar uchun <i>a</i>lg2+<i>b</i>lg3+<i>c</i>lg5+<i>d</i>lg7=2005 bo'lsin. <i>a</i> ni toping.",
+        "A": "2005",
+        "B": "lg2005",
+        "C": "Bir qiymatli aniqlab bo'lmaydi",
+        "D": "0"
+    },
+
+    {
+        "savol": "Hikoya kitobning 216-sahifasidan boshlanib, 274-sahifasida tugaydi. Hikoya kitobning necha sahifasini egallagan?",
+        "A": "59",
+        "B": "57",
+        "C": "58",
+        "D": "60"
+    },
+
+    {
+        "savol": "Vaqt 12:00 ekanligini ko'rsatayotgan soatning soat mili 90 gradusga burilsa, soat necha bo'lgan bo'ladi?",
+        "A": "12:30",
+        "B": "15:00",
+        "C": "15:15",
+        "D": "12:15"
+    },
+
+    {
+        "savol": "Duradgorda 9 ta yog'och taxta bor edi. U bir necha taxtaning har birini 5 bo'lakka bo'lib arraladi. Shunda taxtalar soni 33 taga yetdi. Duradgor necha taxtani bo'laklarga bo'lib arraladi?",
+        "A": "6 ta",
+        "B": "5 ta",
+        "C": "4 ta",
+        "D": "7 ta"
+    },
+
+    {
+        "savol": "Yulduzcha o'rniga qanday raqam qo'yilsa tengsizlik to'g'ri bo'ladi? 0,*9>0,78",
+        "A": "7",
+        "B": "6",
+        "C": "5",
+        "D": "4"
+    },
+
+    {
+        "savol": "Uchburchakning burchalaridan biri 43<sup>o</sup> boshqasi 57<sup>o</sup> ga teng. Uchinchi burchak gradus o'lchovini toping.",
+        "A": "80",
+        "B": "14",
+        "C": "60",
+        "D": "100"
+    },
+
+    {
+        "savol": "A nuqtadan bir xil yo'nalishda bir vaqtning o'zida yuk mashinasi va yo'lovchi avtomobili chiqib ketdi. Avtomobil tezligi doimiy va yuk mashinasining tezligining 6/5 qismini tashkil qiladi. 30 daqiqadan so'ng soatiga 90 km/soat tezlik bilan motosikl harakatlana boshladi. Agar motosiklchi yuk mashinasi bilan uchrashgandan 1 soatdan keyin yengil avtomobilbilan uchrashgan bo'lsa, avtomobil tezligini toping.",
+        "A": "72",
+        "B": "64",
+        "C": "70",
+        "D": "78"
+    },
+
+    {
+        "savol": "Rasmda moddiy nuqtaning harakati tasvirlangan. AB masofadagi o'rtacha tezlikni toping. Xar bir katakchadan o'lcham sifatida foydalaning. Rasmda metr va sekundlar o'lchov sifatida olingan, javobni esa km/soatda oling. <img src='../img/matematika37.png alt='matematika37'>'",
+        "A": "6,3",
+        "B": "7",
+        "C": "6",
+        "D": "4"
+    },
+
+    {
+        "savol": "Tenglamani yeching: <img src='../img/matematika38.png' alt='matematika38'> ",
+        "A": "-1,75",
+        "B": "-1",
+        "C": "2",
+        "D": "-2,25"
+    },
+
+    {
+        "savol": "Agar x o'zgaruvchi miqdor bo'lsa, <img src='../img/matematika39.png' alt='matematika39'> ning eng katta qiymatni toping.",
+        "A": "64",
+        "B": "16",
+        "C": "32",
+        "D": "8"
+    },
+
+    {
+        "savol": "Tenglamani yeching: <img src='../img/matematika40.png' alt='matematika40'> ",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
     }
+
+
 ]

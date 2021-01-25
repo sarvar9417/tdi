@@ -41,5 +41,49 @@
         "maktab":"31-maktab",
         "fan":"Informatika",
         "toifa":"Mutaxassis"
+    },
+
+    {
+        "surname":"Isayev",
+        "name":"Gulzoda",
+        "fathername": "O'rinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa"
+    },
+
+    {
+        "surname":"Abdusalimova",
+        "name":"Maxfuza",
+        "fathername": "Ulug'bek qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
+    },
+
+    {
+        "surname":"Raxmonova",
+        "name":"Zarifa",
+        "fathername": "Qambarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa"
+    },
+
+    {
+        "surname":"Abdiyeva",
+        "name":"Shohista",
+        "fathername": "Odil qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
     }
 ]

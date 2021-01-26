@@ -92,12 +92,12 @@ $('#maktab').change(function () {
     let fan = []
     teachers.forEach(teacher => {
         let k = 0
-        fan.forEach(fan => {
+        fan.forEach(f => {
             if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val()) {
-                if (teacher.fan == fan) k++
+                if (teacher.fan == f) k++
             }
         })
-        if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && k > 0) {
+        if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && k != 1) {
             fan.push(teacher.fan)
         }
     })
@@ -108,20 +108,25 @@ $('#maktab').change(function () {
 })
 
 $('#fan').change(function () {
-    $('#toifa').empty()
-    $('#toifa').append(`<option selected>Toifangizni tanlang</option>`)
+    
     $('#name').empty()
     $('#name').append(`<option selected>Ism familiyangizni tanlang</option>`)
     teachers.forEach(teacher => {
         if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && teacher.fan == $('#fan').val()) {
             $('#name').append(`<option value="${teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername}">${teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername}</option>`)
-            $('#toifa').append(`<option value="${teacher.toifa}">${teacher.toifa}</option>`)
         }
     })
     malumotlar[3]
 })
 
 $('#name').change(() => {
+    $('#toifa').empty()
+    $('#toifa').append(`<option selected>Toifangizni tanlang</option>`)
+    teachers.forEach(teacher => {
+        if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && teacher.fan == $('#fan').val() && teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername == $('#name').val() ) {
+            $('#toifa').append(`<option value="${teacher.toifa}">${teacher.toifa}</option>`)
+        }
+    })
     malumotlar[4] = 1
 })
 

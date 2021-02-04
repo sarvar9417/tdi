@@ -127,7 +127,7 @@
     },
     
     {
-        "savol": "Likobchada olma, nok , anor, bor edi. Ali, Vali, va Soli likobchadagi mevalarni bo'lib olishdi. Quyidagi mulohazalarning faqat bittasi rostligi ma'lum: \"Ali olma olgan\", \"Vali anor olgan\", \"Soli nok olmagan\", agar Soli olma olgani ma'lum bo'lsa, u holda ularnig har biri olgan mevani aniqlang.",
+        "savol": "Likobchada olma, nok , anor, bor edi. Ali, Vali, va Soli likobchadagi mevalarni bo'lib olishdi. Quyidagi mulohazalarning faqat bittasi rostligi ma'lum: \"Ali olma olgan\", \"Vali anor olgan\", \"Soli nok olmagan\", agar Soli olma olmagani ma'lum bo'lsa, u holda ularnig har biri olgan mevani aniqlang.",
         "A": "Ali-nok, Vali-olma, Soli-anor",
         "B": "Ali-anor, Vali-olma, Soli-nok",
         "C": "Ali-olma, Vali-nok, Soli-anor",

@@ -205,19 +205,11 @@
     },
     
     {
-        "Savol": "Ikki kuchli matematik professorlar Ali va Vali talabalikdan ancha yil o'tgach uchrashib qolishibdi. Ali Validan so'rabdi: Farzandlar nechta. Vali aytibdi: 3 ta o'gil. ALi Validan so'rabdi: Farzandlaringni yoshi nechada? Vali aytibdi: Yoshlarining ko'paytmasi 36 ga teng. O'ylab turib Ali aytibdi: Axbrot kam!. Vali aytibdi: Yoshlarining yig'indisi mana shu o'tib ketayotgan avtobus nomeriga teng. O'ylab turib Ali aytibdi Axborot kam. Vali aytibdi: Kichik o'g'lim dasturlashga qiziqadi. Shundan so'ng ALi valinig farzandlari yoshini aniq aytib berdi. Valining eng katta farzandi yoshini aniqlang.",
-        "B": "12",
-        "B": "6",
-        "C": "9",
-        "D": "1"
-    },
-    
-    {
         "Savol": "Ali aytdi \"Halil 3 dan kichik ball oldi\", Vali aytdi \"Halil 4 dan kichik ball oldi\", Soli aytdi \"Halil 5 dan kichik ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
-        "B": "3",
+        "A": "4",
         "B": "2",
         "C": "5",
-        "D": "4"
+        "D": "3"
     },
     
     {

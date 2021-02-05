@@ -320,6 +320,7 @@ function endtest() {
     });
     $('.resultname').text($('#name').val() + ` (${$('#toifa').val()})`)
     $('.test_nomi1').text($('#fan').val())
+    
     $('.tugri_javob1').text(k)
     $('.ball1').text(k*2.5)
     $('.body').css('display', 'none')

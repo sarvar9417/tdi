@@ -213,7 +213,7 @@
     },
     
     {
-        "savol": "Quyidai butun sonlardan NOT(X>49) AND NOT(X<9)=Yolg'on tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+        "savol": "Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Yolg'on tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
         "A": "2, 50, 123, 66",
         "B": "49, 45, 16, 15, 42",
         "C": "50",
@@ -221,7 +221,7 @@
     },
     
     {
-        "savol": "Quyidai butun sonlardan NOT(X>49) AND NOT(X<9)=Rost tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+        "savol": "Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Rost tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
         "A": "49, 45, 16, 15, 42",
         "B": "2, 50, 123, 66",
         "C": "50",
@@ -310,7 +310,7 @@
     
     {
         "savol": "Qaysi javobda axborot tashuvchi vositalar keltirilgan? ",
-        "A": "Kitob, disk fleshka",
+        "A": "Kitob, disk, fleshka",
         "B": "Televizor, skaner",
         "C": "Telefon, kalonka",
         "D": "Ruchka, printer"

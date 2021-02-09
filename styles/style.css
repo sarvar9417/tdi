@@ -15,7 +15,17 @@
     margin: auto;
     text-align: center;
     padding: 10px;
-    color: #333333;
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container2{
+    width: 30%;
+    min-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    color: #777;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -77,35 +87,44 @@
     margin: 0 auto;
 }
 
-.neck{
-    width: 33%;
-    min-width: 400px;
-    margin: 50px auto;
+.boxing{
+    background-color: #D2D6DE;
     display: none;
 }
 
-.header, .endl{
-    background-color: mediumvioletred;
+.neck{
+    width: 32%;
+    min-width: 400px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.header{
+    background-color: #3F729B;
     border: none;
     color: white;
+    font-family: sans-serif;
+    font-size: 11pt;
     text-align: center;
     padding:10px 0;
-    font-size: 12pt;
 }
 
 .endl{
-    background-color: darkturquoise;
+    background-color: #DD4B39;
     color: white;
+    text-align: center;
 }
 
 .tanlashlar{
-    padding: 15px 0;
+    padding: 0 15px ;
+    padding-bottom: 20px;
 }
 
 .select{
     padding: 10px;
     font-size: 13pt;
-    color: #888;
+    font-family: sans-serif;
+    
 }
 
 select{
@@ -114,12 +133,26 @@ select{
 }
 
 .select select{
-        width: 50%;
+        width: 70%;
         float: right;
         border: 1px solid #AAA;
         outline: none;
-        padding: 3px 10px;
+        padding: 5px 10px;
         border-radius: 2px;
+}
+
+.center{
+    text-align: center;
+}
+
+.footerone{
+    background-color: #D2D6DE;
+    text-align:center ;
+    padding: 10px;
+
+}
+.tg{
+    padding: 15px;
 }
 
 .boshlash{
@@ -132,6 +165,7 @@ select{
     cursor: pointer;
     letter-spacing: 1px;
     outline: none;
+    text-transform: uppercase;
 }
 
 .body{

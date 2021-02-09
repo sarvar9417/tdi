@@ -12,7 +12,7 @@ $('.open').click(function () {
     $.getJSON('./jsondata/password.json', function (data) {
         if ($('#login').val() == data[0].login && $('#password').val() == data[0].password) {
             $('.head').css('display', 'none')
-            $('.neck').css('display', 'block')
+            $('.boxing').css('display', 'block')
         } else {
             $('.error').css('display', 'block')
         }
@@ -46,7 +46,7 @@ regions.forEach(viloyat => {
 })
 $('#viloyat').change(function () {
     $('#tuman').empty()
-    $('#tuman').append(`<option selected>Tumaningizni tanlang</option>`)
+    $('#tuman').append(`<option selected>--Tanglang--</option>`)
     let tuman = []
     teachers.forEach(teacher => {
         let k = 0
@@ -67,7 +67,7 @@ $('#viloyat').change(function () {
 
 $('#tuman').change(function () {
     $('#maktab').empty()
-    $('#maktab').append(`<option selected>Maktabingizni tanlang</option>`)
+    $('#maktab').append(`<option selected>--Tanglang--</option>`)
     let maktab = []
     teachers.forEach(teacher => {
         let k = 0
@@ -88,7 +88,7 @@ $('#tuman').change(function () {
 
 $('#maktab').change(function () {
     $('#fan').empty()
-    $('#fan').append(`<option selected>Faningizni tanlang</option>`)
+    $('#fan').append(`<option selected>--Tanglang--</option>`)
     let fan = []
     teachers.forEach(teacher => {
         let k = 0
@@ -110,7 +110,7 @@ $('#maktab').change(function () {
 $('#fan').change(function () {
     
     $('#name').empty()
-    $('#name').append(`<option selected>Ism familiyangizni tanlang</option>`)
+    $('#name').append(`<option selected>--Tanglang--</option>`)
     teachers.forEach(teacher => {
         if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && teacher.fan == $('#fan').val()) {
             $('#name').append(`<option value="${teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername}">${teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername}</option>`)
@@ -121,7 +121,7 @@ $('#fan').change(function () {
 
 $('#name').change(() => {
     $('#toifa').empty()
-    $('#toifa').append(`<option selected>Toifangizni tanlang</option>`)
+    $('#toifa').append(`<option selected>--Tanglang--</option>`)
     teachers.forEach(teacher => {
         if (teacher.viloyat == $('#viloyat').val() && teacher.tuman == $('#tuman').val() && teacher.maktab == $('#maktab').val() && teacher.fan == $('#fan').val() && teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername == $('#name').val() ) {
             $('#toifa').append(`<option value="${teacher.toifa}">${teacher.toifa}</option>`)
@@ -155,7 +155,7 @@ $('.boshlash').click(() => {
         ) {
             if (teacher.fan == 'Informatika' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo')
                 time = 5400
-            $('.neck').css('display', 'none')
+            $('.boxing').css('display', 'none')
             $('.body').css('display', 'block')
             $('.name').text(`${$('#name').val()} ` + ` (${$('#toifa').val()})`)
             $('.lesson').text(`Fan: ${$('#fan').val()}`)

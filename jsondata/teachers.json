@@ -85,5 +85,16 @@
         "maktab":"17-maktab",
         "fan":"Informatika",
         "toifa":"Mutaxassis"
+    },
+
+    {
+        "surname":"Sadirova",
+        "name":"Saboxat",
+        "fathername": "Baxriddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbaxor",
+        "maktab":"38-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi"
     }
 ]

@@ -120,11 +120,20 @@
     padding-bottom: 20px;
 }
 
-.select{
+.select, .passport{
     padding: 10px;
     font-size: 13pt;
     font-family: sans-serif;
     
+}
+
+.passport{
+    width: 150px;
+    padding: 5px;
+    font-size: 11pt;
+    font-family: sans-serif;
+    outline: none;
+    float: right;
 }
 
 select{

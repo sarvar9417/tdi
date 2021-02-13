@@ -55,7 +55,7 @@ $('#viloyat').change(function () {
                 k++
             }
         })
-        if (k == 0) {
+        if (k == 0 && $('#viloyat').val() == teacher.viloyat) {
             tuman.push(teacher.tuman)
         }
     })
@@ -151,10 +151,14 @@ $('.boshlash').click(() => {
             teacher.maktab == $('#maktab').val() &&
             teacher.fan == $('#fan').val() &&
             teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername == $('#name').val() &&
-            teacher.toifa == $('#toifa').val()
+            teacher.toifa == $('#toifa').val() && teacher.passport == $('#passport').val()
         ) {
-            if (teacher.fan == 'Informatika' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo')
+            if (teacher.fan == 'Informatika' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo'){
                 time = 5400
+            }
+            else {
+                    time = 3600
+            }
             $('.boxing').css('display', 'none')
             $('.body').css('display', 'block')
             $('.name').text(`${$('#name').val()} ` + ` (${$('#toifa').val()})`)

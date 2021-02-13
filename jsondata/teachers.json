@@ -1,5 +1,94 @@
 [
     {
+        "surname":"Hamdamova",
+        "name":"Vazira",
+        "fathername":"Hojiqurbonovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Kimyo",
+        "toifa":"birinchi toifa",
+        "passport":"AB1430562"
+    },
+    {
+        "surname":"Bazarova",
+        "name":"Nargiza",
+        "fathername":"Vahob qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Ingliz tili",
+        "toifa":"Mutaxassis",
+        "passport":"AA5583605"
+    },
+    {
+        "surname":"Jalolova",
+        "name":"Dildora",
+        "fathername":"Abdusalim qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Biologiya",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA2981613"
+    },
+    {
+        "surname":"Jiyanova",
+        "name":"Manzura",
+        "fathername":"Xasanovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"8-maktab",
+        "fan":"Boshlabg`ich ta'lim",
+        "toifa":"Oliy toifa",
+        "passport":"AA5221648"
+    },
+    {
+        "surname":"Jiyanova",
+        "name":"Muhayyo",
+        "fathername":"Xasanovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"21-maktab",
+        "fan":"Boshlang`ich ta'lim",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA0855143"
+    },
+    {
+        "surname":"Asliyeva",
+        "name":"Shaxnoza",
+        "fathername":"Nasriddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Kimyo",
+        "toifa":"Mutaxassis",
+        "passport":"AA6532348"
+    },
+    {
+        "surname":"Shernazarova",
+        "name":"Manzura",
+        "fathername":"Avaz qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Kimyo",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA7565260"
+    },
+    {
+        "surname":"",
+        "name":"",
+        "fathername":"",
+        "viloyat":"",
+        "tuman":"",
+        "maktab":"",
+        "fan":"",
+        "toifa":"",
+        "passport":""
+    },
+
+    {
         "surname":"Murodullayev", 
         "name": "Sarvar", 
         "fathername":"Usmon o'g'li",
@@ -7,7 +96,8 @@
         "tuman":"Xatirchi",
         "maktab":"33-maktab",
         "fan":"Boshlang`ich ta`lim",
-        "toifa": "Mutaxassis"
+        "toifa": "Mutaxassis",
+        "passport":"AA9201672"
     },
 
     {

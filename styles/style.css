@@ -90,6 +90,7 @@
 .boxing{
     background-color: #D2D6DE;
     display: none;
+    height: 100vh;
 }
 
 .neck{

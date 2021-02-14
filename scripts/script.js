@@ -153,7 +153,7 @@ $('.boshlash').click(() => {
             teacher.surname + ' ' + teacher.name + ' ' + teacher.fathername == $('#name').val() &&
             teacher.toifa == $('#toifa').val() && teacher.passport == $('#passport').val()
         ) {
-            if (teacher.fan == 'Informatika' || teacher.fan == 'Biologiya' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo'){
+            if (teacher.fan == 'Informatika' || teacher.fan == 'Biologiya   ' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo'){
                 time = 5400
             }
             else {

@@ -326,11 +326,14 @@ label{
 }   
 
 .content_box{
-    width: 700px;
+    width: 50%;
     margin: 10% auto;
+    min-width: 400px;
     background-color: white;
-    height: 50%;
+    height: initial;
+    padding: 20px;
     border-radius: 10px;
+    text-align: center;
 }
 
 .text{
@@ -344,9 +347,9 @@ label{
     border: none;
     padding: 15px;
     cursor: pointer;
-    margin-left: 20%;
     outline: none;
     font-size: 13pt;
+    margin: 10px;
 }
 
 .no{

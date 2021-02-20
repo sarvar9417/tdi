@@ -413,7 +413,8 @@
         "C": "4 ta",
         "D": "1 ta "},
     
-        {"savol": "MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
+        {
+            "savol": "MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
         "A": "A1=-6, B1=15, C1=12",
         "B": "A1=-4, B1=9, C1=7",
         "C": "A1=3, B1=6, C1=18",

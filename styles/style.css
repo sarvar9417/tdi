@@ -96,7 +96,7 @@
     height: 100vh;
     min-height: 600px;
     min-width: 450px;
-    display: block;
+    display: none;
 }
 
 .neck{

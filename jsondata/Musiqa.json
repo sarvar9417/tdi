@@ -56,25 +56,11 @@
        "D":"sumbut"
     },
     {
-       "savol":"Qirg'iz musiqasidagi mashxur doston turkumi?",
-       "A":"Alpomish",
-       "B":"Oshiq g'arib va shoxsanam",
-       "C":"Manas",
-       "D":"Go'ro'g'li"
-    },
-    {
        "savol":"Budda dini marosimini tasvirlovchi asarning kelib chiqishi va nomi?",
        "A":"Yaponiyada 'Noo'",
        "B":"Yaponiyada'Bagaku'",
        "C":"Koreyada 'Bogaku'",
        "D":"Yaponiyada 'Kabuki'"
-    },
-    {
-       "savol":"Qozoq xalqida qo'shiqlar qanday nomlanadi?",
-       "A":"An va olan ",
-       "B":"An va jir",
-       "C":"Jir",
-       "D":"Olan va jir"
     },
     {
        "savol":"Sharq mumtoz musiqasi bir biri bilan qaysi janir orqali uzviy bog'liq hisoblanadi?",
@@ -119,25 +105,11 @@
        "D":"Cholg'u musiqasi"
     },
     {
-       "savol":"Birinchi musulmon musiqashunosi?",
-       "A":"Urmaviy",
-       "B":"Al-Kindiy",
-       "C":"Fuzuliy",
-       "D":"Kaykovus"
-    },
-    {
        "savol":"Mazurka nima?",
        "A":"Uch hissali rus xalq raqsi",
        "B":"Ikki hissali polyak raqsi",
        "C":"Uch hissali polyak raqsi ",
        "D":"Ikki xissali nems raqsi"
-    },
-    {
-       "savol":"Musiqa haqida qaysi allomalarimiz mulohazalar bildirgan?",
-       "A":"Farobiy,Ibn Sino,A.Navoiy",
-       "B":"Farobiy,Urmaviy",
-       "C":"Urmaviy",
-       "D":"Farobiy, Ibn Sino"
     },
     {
        "savol":"Musiqashunos olim Komil Xorazmiyning og'li, ishining davomchisi....",
@@ -259,13 +231,6 @@
        "D":"1936 yilda Muhtor Ashrafiy tomonidan"
     },
     {
-       "savol":"Klavsin asbobi qanday turdagi asbob?",
-       "A":"Torli klavishli tirnama asbob",
-       "B":"Torli asbob",
-       "C":"Torli klavishli asbob",
-       "D":"Torli urma asbob"
-    },
-    {
        "savol":"Fuga nima?",
        "A":"Polifonik shaklida tuzilgan musiqa asari",
        "B":"Orkestr ijrosi uchun musiqiy asar",
@@ -278,13 +243,6 @@
        "B":"Jorj Bize",
        "C":"Iosif Gaydin",
        "D":"F. Shopen"
-    },
-    {
-       "savol":"R. Vagner musiqa tahririga qaysi sifatlari bilan kirgan?",
-       "A":"Opera islohotchisi",
-       "B":"Musiqa drama asoschisi",
-       "C":"Opera islohotchisi va musiqiy drama asoschisi sifatida",
-       "D":"Opera yaratuvchisi"
     },
     {
        "savol":"Rekvelm so'zi nima ma'noni anglatadi?",
@@ -383,20 +341,6 @@
        "B":"V.A. Uspenskiy va Radjabiy",
        "C":"Urmaviy",
        "D":"V.A. Uspenskiy"
-    },
-    {
-       "savol":"Klavikord asbobi qanday turdagi asbob?",
-       "A":"Torli urma klavishli",
-       "B":"Torli klavishli",
-       "C":"Urma zarbli",
-       "D":"Klavishli"
-    },
-    {
-       "savol":"Musiqada alteratsiya belgilari qaysilar?",
-       "A":"Bemalol, Bekar, Diyez",
-       "B":"Bekar, bemol, pauza",
-       "C":"Diyez, bemol, forte",
-       "D":"Bemol, bekar, piano"
     },
     {
        "savol":"Motsartning so'ngi simfoniyasi nima deb nomlanadi?",
@@ -635,13 +579,6 @@
        "B":"Surxandaryo-Qashqadaryo",
        "C":"Xorazm",
        "D":"Buxoro Samarqand"
-    },
-    {
-       "savol":"O'zbek xalq musiqasining asosi?",
-       "A":"Usul",
-       "B":"Kuy",
-       "C":"Milliy qo'shiqlar",
-       "D":"Usul va ohang"
     },
     {
        "savol":"Motsart yoshligidagi kontert safari davrida qanday nom oldi?",

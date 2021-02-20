@@ -299,23 +299,11 @@
         "C": "3",
         "D": "27"
     },
-    {"savol": "Excel ish kitoni sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
-        "A": "List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
-        "B": "Fayl menyusidan переместит/скопироват buyrug'i orqali",
-        "C": "List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
-        "D": "Vid menyusidan переместит/скопироват buyrug'i orqali"},
-    
         {"savol": "Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
         "A": "Eksponentsial",
         "B": "Finans",
         "C": "Pullik",
-        "D": "Umumiy"},
-    
-        {"savol": "Qaysi javobda kimpyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
-        "A": "Turli disklar va tarmoqdan foydalanish",
-        "B": "Bemor odam kompyuterdan foydalanishi",
-        "C": "Man badagi elektr tokini ko'payib yoki kamayib ketishi",
-        "D": "Kompyuterni iflos holda saqlash"},	
+        "D": "Umumiy"},     
     
         {"savol": "'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
         "A": "Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",

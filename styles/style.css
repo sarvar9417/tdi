@@ -93,7 +93,7 @@
 
 .boxing{
     background-color: #D2D6DE;
-    height: 100vh;
+    height: initial;
     min-height: 600px;
     min-width: 450px;
     display: none;
@@ -308,7 +308,7 @@ label{
 
 .prev, .next{
     margin-left: 5px;
-    padding: 10px 40px;
+    padding: 10px 30px;
     display: inline-block;
     background-color: #3C8DBC;
     color: white;

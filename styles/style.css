@@ -6,12 +6,14 @@
 .head{
     background-color: #D2D6DE;
     height: 100vh;
+    min-height: 600px;
+    min-width: 450px;
     display: block;
 }
 
 .container{
     width: 30%;
-    min-width: 400px;
+    min-width: 330px;
     margin: auto;
     text-align: center;
     padding: 10px;
@@ -21,7 +23,7 @@
 
 .container2{
     width: 30%;
-    min-width: 400px;
+    min-width: 330;
     margin: auto;
     text-align: center;
     padding: 10px;
@@ -30,6 +32,7 @@
 }
 
 .uzvm{
+    width: 100%;
     font-size: 14pt;
     color: #333333;
     margin: 2px;

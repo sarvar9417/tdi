@@ -54,14 +54,7 @@
       "B":"Olti xonali sonlarni o'qish va yozish",
       "C":"Besh-olti xonali sonlarni o'qish va yozish",
       "D":"Millionlar sinflarini hosil qilish"
-   },
-   {
-      "savol":"Vaqtga oid tasavvurlarni tarkib toptirish (yil, oy,  hafta) nima yordamida amalga oshiriladi",
-      "C":"Soat modeli yordamida",
-      "B":"Quyosh va soat yordamida ",
-      "A":"Tabel-kalendar yordamida",
-      "D":"Yil, hafta yordamida"
-   },
+   },   
    {
       "savol":"Ona tili metodikasining metodologik asosini nima tashkil etadi?",
       "C":"Tilning mavjudligi",
@@ -264,14 +257,7 @@
       "B":"Bitta",
       "C":"Beshta",
       "D":"Oltita"
-   },
-   {
-      "savol":"Boshlang`ich sinflarda matematika o'qitish metodikasi kontsentrik tuzilish necha bosqichdan iborat?",
-      "D":"1 ta",
-      "A":"4 ta",
-      "C":"2 ta",
-      "B":"3 ta"
-   },
+   },   
    {
       "savol":"5 km lik masofaga yugurish bo'yicha o'tkazilayotgan viloyat birinchiligida qatnashayotgan o'quvchilar soni 240 nafar iborat. Har bir ishtirokchining tartib soni 1 dan 240 gacha nomerlab chiqish uchun nechta raqam kerak bo'ladi?",
       "A":"612",

@@ -23,7 +23,7 @@
 
 .container2{
     width: 30%;
-    min-width: 330;
+    min-width: 330px;
     margin: auto;
     text-align: center;
     padding: 10px;
@@ -54,8 +54,9 @@
 }
 
 .login, .password{
+    box-sizing: border-box;
     display: block;
-    width: 95%;
+    width: 100%;
     margin-bottom: 15px;
     padding: 8px 10px;
     outline: none;
@@ -92,8 +93,10 @@
 
 .boxing{
     background-color: #D2D6DE;
-    display: none;
-    height: 100%;
+    height: 100vh;
+    min-height: 600px;
+    min-width: 450px;
+    display: block;
 }
 
 .neck{
@@ -132,7 +135,7 @@
 }
 
 .passport{
-    width: 150px;
+    width: 120px;
     padding: 5px;
     font-size: 11pt;
     font-family: sans-serif;

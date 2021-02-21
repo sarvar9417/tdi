@@ -328,7 +328,7 @@
         "maktab":"20-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passport":"AA3963265"
+        "passpor":"AA3963265"
     },
     {
         "surname":"Sharopova",
@@ -361,6 +361,17 @@
         "maktab":"26-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB9014205s"
+        "passpor":"AB9014205"
+    },
+    {
+        "surname":"Ikromova",
+        "name":"Feruza",
+        "fathername":"",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"17-maktab",
+        "fan":"Ona tili",
+        "toifa":"Ikkinchi toifa",
+        "passpor":"AB0187289"
     }
 ]

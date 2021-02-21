@@ -350,7 +350,7 @@
         "maktab":"223-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Mutaxassis",
-        "passport":"AA2677840"
+        "passpor":"AA2677840"
     },
     {
         "surname":"Boboxonova",
@@ -373,5 +373,27 @@
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
         "passport":"AB0187289"
+    },
+    {
+        "surname":"Quziyeva",
+        "name":"Nasiba",
+        "fathername":"Nasruddunovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"29-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA2114359"
+    },
+    {
+        "surname":"Quziyeva",
+        "name":"Nasiba",
+        "fathername":"Nasruddunovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"29-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA2114359"
     }
 ]

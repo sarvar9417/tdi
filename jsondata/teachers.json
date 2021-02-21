@@ -386,14 +386,25 @@
         "passport":"AA2114359"
     },
     {
-        "surname":"Quziyeva",
-        "name":"Nasiba",
-        "fathername":"Nasruddunovna",
+        "surname":"Mahamatova",
+        "name":"Gulnoza",
+        "fathername":"Halilovna",
         "viloyat":"Navoiy",
         "tuman":"Karmana tumani",
-        "maktab":"29-maktab",
+        "maktab":"22-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passport":"AA2114359"
+        "passport":"AA2421266"
+    },
+    {
+        "surname":"Bozorova",
+        "name":"Saodat",
+        "fathername":"Faxriddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"26-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis",
+        "passport":"AA8682182"
     }
 ]

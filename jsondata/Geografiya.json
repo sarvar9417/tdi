@@ -1,20 +1,20 @@
 [
    {
-      "savol":"<img src='../img/geo1.jpg' alt='geo1'>  Ushbu rasmda sariq bilan qanday hududlar ko'rsatilgan",
+      "savol":"<img src=\"../img/geo1.jpg\" alt=\"geo1\">  Ushbu rasmda sariq bilan qanday hududlar ko'rsatilgan",
       "C":"tropik savannalar",
       "B":"ekstraid zonalar",
       "A":"cho'llar chalacho'llar",
       "D":"gumid zonalar"
    },
    {
-      "savol":"<img src='../img/geo2.jpg' alt='geo2'>  ushbu xaritada A va B harflar bilan qaysi dengizga tegishli qo'ltiqlar ko'rsatilgan ",
+      "savol":"<img src=\"../img/geo2.jpg\" alt=\"geo2\">  ushbu xaritada A va B harflar bilan qaysi dengizga tegishli qo'ltiqlar ko'rsatilgan ",
       "D":"shimoliy ",
       "B":"boltiq",
       "C":"kara",
       "A":"norvegiya"
    },
    {
-      "savol":"<img src='../img/geo3.jpg' alt='geo3'>  ushbu xaritada Kuba oroli qaysi harf bilan ko'rsatilgan? ",
+      "savol":"<img src=\"../img/geo3.jpg\" alt=\"geo3\">  ushbu xaritada Kuba oroli qaysi harf bilan ko'rsatilgan? ",
       "A":"D",
       "B":"F",
       "C":"E",
@@ -119,49 +119,49 @@
       "D":"vyetnam"
    },
    {
-      "savol":"<img src='../img/geo7.jpg' alt='geo7'>  rasmda 2 raqami bilan relyefningqanday shakli ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo7.jpg\" alt=\"geo7\">  rasmda 2 raqami bilan relyefningqanday shakli ko'rsatilgan?",
       "C":"terrasa",
       "B":"surilma",
       "A":"gorst",
       "D":"graben"
    },
    {
-      "savol":"<img src='../img/geo8.jpg' alt='geo8'>  ushbu rasmda 2 va 4 raqamlari bilan relyefning qanday shakllari ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo8.jpg\" alt=\"geo8\">  ushbu rasmda 2 va 4 raqamlari bilan relyefning qanday shakllari ko'rsatilgan?",
       "D":"pasttekislik va yassitog'lilik",
       "B":"qirlar va yassitog'lar",
       "C":"qirg'oq va pasttekislik",
       "A":"pasttekislik va qirlar"
    },
    {
-      "savol":"<img src='../img/geo9.jpg' alt='geo9'>  ushbu rasmda ko'rsatilgan qaysi birining geografik uzunligi eng katta ",
+      "savol":"<img src=\"../img/geo9.jpg\" alt=\"geo9\">  ushbu rasmda ko'rsatilgan qaysi birining geografik uzunligi eng katta ",
       "A":"16",
       "B":"8",
       "C":"5",
       "D":"12"
    },
    {
-      "savol":"<img src='../img/geo10.jpg' alt='geo10'>  Ushbu rasmda hududining katta qismini muhofaza etadigan hudud egallagan obyekt qaysi son bilan ko'rsatilgan",
+      "savol":"<img src=\"../img/geo10.jpg\" alt=\"geo10\">  Ushbu rasmda hududining katta qismini muhofaza etadigan hudud egallagan obyekt qaysi son bilan ko'rsatilgan",
       "A":"3",
       "B":"5",
       "C":"9",
       "D":"1"
    },
    {
-      "savol":"<img src='../img/geo11.jpg' alt='geo11'>  fin qo'ltig'i ushbu xaraada qaysi harf bilan ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo11.jpg\" alt=\"geo11\">  fin qo'ltig'i ushbu xaraada qaysi harf bilan ko'rsatilgan?",
       "C":"A",
       "B":"D",
       "A":"B",
       "D":"C"
    },
    {
-      "savol":"<img src='../img/geo12.jpg' alt='geo12'>  janubiy yarimsharning subtropik iqlim mintaqasi ushbu xaritada qaysi harf bilan ko'rsatilgan? ",
+      "savol":"<img src=\"../img/geo12.jpg\" alt=\"geo12\">  janubiy yarimsharning subtropik iqlim mintaqasi ushbu xaritada qaysi harf bilan ko'rsatilgan? ",
       "B":"H",
       "A":"L",
       "C":"E",
       "D":"B"
    },
    {
-      "savol":"<img src='../img/geo13.jpg' alt='geo13'>  ushbu xaritada qaysi harf bilan \"qirg'oqsiz dendiz\" ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo13.jpg\" alt=\"geo13\">  ushbu xaritada qaysi harf bilan \"qirg'oqsiz dendiz\" ko'rsatilgan?",
       "B":"F",
       "A":"C",
       "C":"A",
@@ -189,7 +189,7 @@
       "D":"chorva mollari sug'orish, tuz qazib olish"
    },
    {
-      "savol":"<img src='../img/geo14.jpg' alt='geo14'>  ushbu rasmda 3 raqami bilan ufqning qaysi tomoni ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo14.jpg\" alt=\"geo14\">  ushbu rasmda 3 raqami bilan ufqning qaysi tomoni ko'rsatilgan?",
       "B":"shimoliy",
       "A":"janubiy",
       "C":"janubi-sharq",
@@ -231,21 +231,21 @@
       "D":"Sloveniya"
    },
    {
-      "savol":"<img src='../img/geo15.jpg' alt='geo15'> Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan",
+      "savol":"<img src=\"../img/geo15.jpg\" alt=\"geo15\"> Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan",
       "B":"K nuqta",
       "A":"M nuqta",
       "C":"J nuqta",
       "D":"F nuqta"
    },
    {
-      "savol":"<img src='../img/geo18.jpg' alt='geo18'>  Shimoliy yarimsharning subtropik iqlimi ushbu xaritada qaysi harf bilan ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo18.jpg\" alt=\"geo18\">  Shimoliy yarimsharning subtropik iqlimi ushbu xaritada qaysi harf bilan ko'rsatilgan?",
       "B":"B",
       "A":"E",
       "C":"L",
       "D":"F"
    },
    {
-      "savol":"<img src='../img/geo19.jpg' alt='geo19'> Ushbu rasmda berilgan nuqtalarning qaysi biri Axxagar tog'ligini ko'rsatib turibdi?",
+      "savol":"<img src=\"../img/geo19.jpg\" alt=\"geo19\"> Ushbu rasmda berilgan nuqtalarning qaysi biri Axxagar tog'ligini ko'rsatib turibdi?",
       "C":"C",
       "B":"B",
       "A":"D",
@@ -308,7 +308,7 @@
       "D":"326 m"
    },
    {
-      "savol":"<img src='../img/geo20.jpg' alt='geo20'> Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan?",
+      "savol":"<img src=\"../img/geo20.jpg\" alt=\"geo20\"> Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan?",
       "B":"K nuqta",
       "A":"F nuqta",
       "C":"M nuqta",
@@ -329,7 +329,7 @@
       "D":"Tabiat zonalari xaritalari"
    },
    {
-      "savol":"<img src='../img/geo21.jpg' alt='geo21'> Rasmda 2 raqami bilan relyefning qanday shakli ko'rsatilgan?",
+      "savol":"<img src=\"../img/geo21.jpg\" alt=\"geo21\"> Rasmda 2 raqami bilan relyefning qanday shakli ko'rsatilgan?",
       "A":"Gorst",
       "B":"Surilma",
       "C":"Greben",
@@ -392,14 +392,14 @@
       "D":"624,5 m"
    },
    {
-      "savol":"<img src='../img/geo25.jpg' alt='geo25'> Rasmda ko'rsatilgan qaysi davlatlar And mamlakatlari qatorigan kiradi?",
+      "savol":"<img src=\"../img/geo25.jpg\" alt=\"geo25\"> Rasmda ko'rsatilgan qaysi davlatlar And mamlakatlari qatorigan kiradi?",
       "D":"3,4,5",
       "B":"1,2,3",
       "C":"9,6,8",
       "A":"5,6,7"
    },
    {
-      "savol":"<img src='../img/geo26.jpg' alt='geo26'>  Ushbu davlatning eng yirik shahrida qancha aholi yashaydi (2018-yil)?",
+      "savol":"<img src=\"../img/geo26.jpg\" alt=\"geo26\">  Ushbu davlatning eng yirik shahrida qancha aholi yashaydi (2018-yil)?",
       "A":"13 mln kishi",
       "B":"21 mln kishi",
       "C":"18 mln kishi",

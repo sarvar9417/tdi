@@ -1016,10 +1016,21 @@
         "name":"Barno",
         "fathername":"Qobilovna",
         "viloyat":"Toshkent",
-        "tuman":"Oqqo`rg`ob tumani",
+        "tuman":"Oqqo`rg`o tumani",
         "maktab":"1-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
         "passpor":"AA0879627"
+    },
+    {
+        "surname":"Berdanova",
+        "name":"Serexan",
+        "fathername":"Qobilovna",
+        "viloyat":"Qoraqalpog`iston",
+        "tuman":"Kegeyli tumani",
+        "maktab":"9-IDUM",
+        "fan":"Ingliz tili",
+        "toifa":"Birinchi toifa",
+        "passport":"KA0062632"
     }
 ]

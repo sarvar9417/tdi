@@ -966,5 +966,28 @@
         "fan":"Informatika",
         "toifa": "Ikkinchi toifa",
         "passport":"AA1688914"
+    },
+    {
+        "surname":"Maxkamova",
+        "name":"Nurxon",
+        "fathername":"Karimovna",
+        "viloyat":"Navoiy",
+        "tuman":"Uchquduq tumani",
+        "maktab":"10-maktab",
+        "fan":"Informatika",
+        "toifa":"Birinchi toifa",
+        "passport":"AA2652406"
+    },
+    ,
+    {
+        "surname":"Yunusova",
+        "name":"Dilnoza",
+        "fathername":"Mametsharipovna",
+        "viloyat":"Toshkent",
+        "tuman":"Yunusobod tumani",
+        "maktab":"51-DIUM",
+        "fan":"Tarix",
+        "toifa":"Mutaxassis",
+        "passport":"АА5040245"
     }
 ]

@@ -1,5 +1,60 @@
 [
     {
+        "surname":"Yusupova",
+        "name":"Hakima",
+        "fathername":"Amonovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Mutaxassis",
+        "passport":""
+    },
+    {
+        "surname":"Ungarova",
+        "name":"Mehriniso",
+        "fathername":"Haitovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Mutaxassis",
+        "passport":""
+    },
+    {
+        "surname":"Usarova",
+        "name":"Dilafro`z",
+        "fathername":"Salohiddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Birinchi toifa",
+        "passport":""
+    },
+    {
+        "surname":"Adizova",
+        "name":"Malohat",
+        "fathername":"Ibodullayevna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Birinchi toifa",
+        "passport":""
+    },
+    {
+        "surname":"Sayfullayeva",
+        "name":"Saodat",
+        "fathername":"Sayfullayevna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Birinchi toifa",
+        "passport":""
+    },
+    {
         "surname":"Axmedova",
         "name":"Shaxlo",
         "fathername":"Samatovna",
@@ -9,7 +64,8 @@
         "fan":"Ingliz tili",
         "toifa":"Ikkinchi toifa",
         "passport":""
-    },{
+    },
+    {
         "surname":"Tilovova",
         "name":"Shalola",
         "fathername":"Djurayevna",

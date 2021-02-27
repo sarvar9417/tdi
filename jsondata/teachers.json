@@ -1109,5 +1109,26 @@
         "fan":"Tarix",
         "toifa":"Ikkinchi toifa",
         "passport":""
+    },
+    {
+        "surname":"Aliqulova",
+        "name":"Feruza",
+        "fathername":"Xazratqulovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"21-maktab",
+        "fan":"Matematika",
+        "toifa":"Birinchi toifa",
+        "passport":"AA3286697"
+    },{
+        "surname":"Bazarova",
+        "name":"Tamara",
+        "fathername":"Jaxonovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"21-maktab",
+        "fan":"Matematika",
+        "toifa":"Birinchi toifa",
+        "passport":"AA0799070"
     }
 ]

@@ -397,5 +397,40 @@
         "B":"5-6",
         "C":"3-4",
         "D":"100"
+    },
+    {
+        "savol":"\"Axborot tizimi\" nima?",
+        "A":"belgilangan maqsadga erishish uchun axborotlarni uzatish , qayta ishlash va saqlash uchun qo`llaniladigan usullar, shaxslar va vositalarning o`zaro bog`langan shakli",
+        "B":"axborotlarni bir ko`rinishdan ikkinchi mutlaqo yangi ko`rinishga keltiruvchi ma'lumotlarni to`plash, qayta ishlash va uzatishning vosita va usullari majmuasidan foydalanish jarayonidir",
+        "C":"qo`yilayotgan maqsadga erishish borasida barcha harakatlar yig`indisi",
+        "D":"kompyuterning barcha asosiy va qo`shimcha qurilmalarining yig`indisi"
+    },
+    {
+        "savol":"Informatika o`rganadigan asosiy ashyoni aniqlang.",
+        "A":"axborot",
+        "B":"dastur",
+        "C":"kompyuter",
+        "D":"algoritm"
+    },
+    {
+        "savol":"Axborotga oid bit atamasi qanday so`z yoki so`zlardan hosil qilingan?",
+        "A":"bitmap",
+        "B":"bigenners information technology",
+        "C":"binary digit",
+        "D":"bank information technology"
+    },
+    {
+        "savol":"Disk va fleshkalar ma’lumotlarni … uchun xizmat qiladi.",
+        "A":"saqlash",
+        "B":"uzatish",
+        "C":"izlash",
+        "D":"qayta ishlash"
+    },
+    {
+        "savol":"Kodlashning ''Alifboni surish usuli''dan birinchi bo`lib foydalangan shaxs nomi to'g'ri berilgan qatorni aniqlang.",
+        "A":"Yuliy Sezar",
+        "B":"Lisandro",
+        "C":"Samuel Morze",
+        "D":"Al-Farobiy"
     }
 ]

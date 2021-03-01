@@ -1,5 +1,76 @@
 [
     {
+        "surname":"Abdinazarova",
+        "name": "Shaxnoza",
+        "fathername":"Abdinazarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa": "Birinchi toifa",
+        "passport":""
+    }
+    ,
+    {
+        "surname":"Isayev",
+        "name":"Gulzoda",
+        "fathername": "O`rinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa",
+        "passport":""
+    },
+
+    {
+        "surname":"Abdusalimova",
+        "name":"Maxfuza",
+        "fathername": "Ulug`bek qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis",
+        "passport":""
+    },
+
+    {
+        "surname":"Raxmonova",
+        "name":"Zarifa",
+        "fathername": "Qambarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa",
+        "passport":""
+    },
+
+    {
+        "surname":"Abdiyeva",
+        "name":"Shohista",
+        "fathername": "Odil qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis",
+        "passport":""
+    },
+
+    {
+        "surname": "Sadirova",
+        "name": "Saboxat",
+        "fathername": "Baxriddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbaxor",
+        "maktab":"38-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi",
+        "passport":""
+    },
+    {
         "surname":"Karimova",
         "name":"Feruza",
         "fathername":"Xolovna",
@@ -96,7 +167,7 @@
         "maktab":"12-maktab",
         "fan":"Biologiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA6728461"
+        "passport":"AA6728461"
     },
     {
         "surname":"Svonova",
@@ -107,7 +178,7 @@
         "maktab":"18-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA6475502"
+        "passport":"AA6475502"
     },
     {
         "surname":"Allamurodova",
@@ -118,7 +189,7 @@
         "maktab":"16-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Mutaxassis",
-        "passpor":"AB3066745"
+        "passport":"AB3066745"
     },
     {
         "surname":"Xudoyqulova",
@@ -129,7 +200,7 @@
         "maktab":"42-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1701832"
+        "passport":"AA1701832"
     },
     {
         "surname":"Temirova",
@@ -173,7 +244,7 @@
         "maktab":"3-maktab",
         "fan":"Informatika",
         "toifa":"Mutaxassis",
-        "passpor":"AA1891355"
+        "passport":"AA1891355"
     },
     {
         "surname":"Abduxalilova",
@@ -184,7 +255,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA6124567"
+        "passport":"AA6124567"
     },
     {
         "surname":"Davrenova",
@@ -195,7 +266,7 @@
         "maktab":"21-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA7583626"
+        "passport":"AA7583626"
     },
     {
         "surname":"Botirova",
@@ -206,7 +277,7 @@
         "maktab":"15-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA0934837"
+        "passport":"AA0934837"
     },
     {
         "surname":"Qobilova",
@@ -217,7 +288,7 @@
         "maktab":"16-AFCHUIM",
         "fan":"Matematika",
         "toifa":"Birinchi toifa",
-        "passpor":"AA3499834"
+        "passport":"AA3499834"
     },
     {
         "surname":"Boltabayeva",
@@ -228,7 +299,7 @@
         "maktab":"34-maktab",
         "fan":"Informatika",
         "toifa":"Mutaxassis",
-        "passpor":"AB2505102"
+        "passport":"AB2505102"
     },
     {
         "surname":"Ergasheva",
@@ -239,7 +310,7 @@
         "maktab":"6-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Oliy toifa",
-        "passpor":"AA1553415"
+        "passport":"AA1553415"
     },
     {
         "surname":"Mavlonova",
@@ -250,7 +321,7 @@
         "maktab":"20-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA9227223"
+        "passport":"AA9227223"
     },
     {
         "surname":"Mamajonova",
@@ -261,7 +332,7 @@
         "maktab":"20-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA0916759"
+        "passport":"AA0916759"
     },
     {
         "surname":"Saydaxmedova",
@@ -272,7 +343,7 @@
         "maktab":"29-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA3087904"
+        "passport":"AA3087904"
     },
     {
         "surname":"Axmedova",
@@ -283,7 +354,7 @@
         "maktab":"29-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA2257494"
+        "passport":"AA2257494"
     },
     {
         "surname":"Umarova",
@@ -294,7 +365,7 @@
         "maktab":"29-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA2914120"
+        "passport":"AA2914120"
     },
     {
         "surname":"Yusupova",
@@ -305,7 +376,7 @@
         "maktab":"12-maktab",
         "fan":"Ingliz tili",
         "toifa":"Mutaxassis",
-        "passpor":"AB5538754"
+        "passport":"AB5538754"
     },
     {
         "surname":"Raxmonova",
@@ -316,7 +387,7 @@
         "maktab":"24-maktab",
         "fan":"Biologiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1309728"
+        "passport":"AA1309728"
     },
     {
         "surname":"Kalniyazova",
@@ -327,7 +398,7 @@
         "maktab":"53-maktab",
         "fan":"Geografiya",
         "toifa":"Birinchi toifa",
-        "passpor":"KA0199869"
+        "passport":"KA0199869"
     },
     {
         "surname":"Rajabova",
@@ -338,7 +409,7 @@
         "maktab":"3-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1442934"
+        "passport":"AA1442934"
     },
     {
         "surname":"Ibadullayeva",
@@ -349,7 +420,7 @@
         "maktab":"22-maktab",
         "fan":"Ona tili",
         "toifa":"Birinchi toifa",
-        "passpor":"AB5384219"
+        "passport":"AB5384219"
     },
     {
         "surname":"Isakova",
@@ -360,7 +431,7 @@
         "maktab":"17-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA3932289"
+        "passport":"AA3932289"
     },
     {
         "surname":"Imomnazarova",
@@ -371,7 +442,7 @@
         "maktab":"44-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB6623466"
+        "passport":"AB6623466"
     },
     {
         "surname":"Axmedova",
@@ -382,7 +453,7 @@
         "maktab":"20-maktab",
         "fan":"Geografiya",
         "toifa":"Mutaxassis",
-        "passpor":"AB7961570"
+        "passport":"AB7961570"
     },
     {
         "surname":"Mirzaraximova",
@@ -393,7 +464,7 @@
         "maktab":"20-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA0954524"
+        "passport":"AA0954524"
     },
     {
         "surname":"Rajabov",
@@ -404,7 +475,7 @@
         "maktab":"20-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA3963265"
+        "passport":"AA3963265"
     },
     {
         "surname":"Sharopova",
@@ -426,7 +497,7 @@
         "maktab":"223-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Mutaxassis",
-        "passpor":"AA2677840"
+        "passport":"AA2677840"
     },
     {
         "surname":"Boboxonova",
@@ -437,7 +508,7 @@
         "maktab":"26-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB9014205"
+        "passport":"AB9014205"
     },
     {
         "surname":"Kromova",
@@ -459,7 +530,7 @@
         "maktab":"29-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2114359"
+        "passport":"AA2114359"
     },
     {
         "surname":"Mahamatova",
@@ -470,7 +541,7 @@
         "maktab":"22-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2421266"
+        "passport":"AA2421266"
     },
     {
         "surname":"Bozorova",
@@ -481,7 +552,7 @@
         "maktab":"26-maktab",
         "fan":"Informatika",
         "toifa":"Mutaxassis",
-        "passpor":"AA8682182"
+        "passport":"AA8682182"
     },
     {
         "surname":"Ro`ziqulova",
@@ -492,7 +563,7 @@
         "maktab":"222-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB0150110"
+        "passport":"AB0150110"
     },
     {
         "surname":"Shukurov",
@@ -503,7 +574,7 @@
         "maktab":"15-maktab",
         "fan":"Matematika",
         "toifa":"Mutaxassis",
-        "passpor":"AA2759564"
+        "passport":"AA2759564"
     },
     {
         "surname":"Bozorboyeva",
@@ -514,7 +585,7 @@
         "maktab":"218-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB0711434"
+        "passport":"AB0711434"
     },
     {
         "surname":"Jalolova",
@@ -525,7 +596,7 @@
         "maktab":"17-maktab",
         "fan":"Biologiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2981613"
+        "passport":"AA2981613"
     },
     {
         "surname":"Shodmonova",
@@ -536,7 +607,7 @@
         "maktab":"1-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB2100978"
+        "passport":"AB2100978"
     },
     {
         "surname":"Muhammedova",
@@ -547,7 +618,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Oliy",
-        "passpor":"AA2840971"
+        "passport":"AA2840971"
     },
     {
         "surname":"Asadova",
@@ -558,7 +629,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1422643"
+        "passport":"AA1422643"
     },
     {
         "surname":"Xalilova",
@@ -569,7 +640,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA6849956"
+        "passport":"AA6849956"
     },
     {
         "surname":"Kamolova",
@@ -580,7 +651,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1678201"
+        "passport":"AA1678201"
     },
     {
         "surname":"Tillayeva",
@@ -591,7 +662,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1518908"
+        "passport":"AA1518908"
     },
     {
         "surname":"Avulova",
@@ -602,7 +673,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1397431"
+        "passport":"AA1397431"
     },
     {
         "surname":"Kamolova",
@@ -613,7 +684,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1066126"
+        "passport":"AA1066126"
     },
     {
         "surname":"Saidova",
@@ -624,7 +695,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1397428"
+        "passport":"AA1397428"
     },
     {
         "surname":"Xoliqova",
@@ -635,7 +706,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Birinchi toifa",
-        "passpor":"AA0832058"
+        "passport":"AA0832058"
     },
     {
         "surname":"Ostonova",
@@ -646,7 +717,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1518866"
+        "passport":"AA1518866"
     },
     {
         "surname":"Jumayeva",
@@ -657,7 +728,7 @@
         "maktab":"1-maktab",
         "fan":"Matematika",
         "toifa":"Birinchi toifa",
-        "passpor":"AA4671494"
+        "passport":"AA4671494"
     },
     {
         "surname":"Yavkochtiyeva",
@@ -668,7 +739,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1442981"
+        "passport":"AA1442981"
     },
     {
         "surname":"Muhammadiyeva",
@@ -679,7 +750,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`iFch ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA2986149"
+        "passport":"AA2986149"
     },
     {
         "surname":"Ro`ziyeva",
@@ -690,7 +761,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1396145"
+        "passport":"AA1396145"
     },
     {
         "surname":"Hamroyeva",
@@ -701,7 +772,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
-        "passpor":"AA1397526"
+        "passport":"AA1397526"
     },
     {
         "surname":"Namozovna",
@@ -712,18 +783,18 @@
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA4670773"
+        "passport":"AA4670773"
     },
     {
         "surname":"Xolova",
-        "name":"Ma'mura",
+        "name":"Ma`mura",
         "fathername":"Ramazonovna",
         "viloyat":"Navoiy",
         "tuman":"Qiziltepa tumani",
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA5651210"
+        "passport":"AA5651210"
     },
     {
         "surname":"Saidova",
@@ -734,7 +805,7 @@
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2908886"
+        "passport":"AA2908886"
     },
     {
         "surname":"Fayzullayeva",
@@ -745,7 +816,7 @@
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1233503"
+        "passport":"AA1233503"
     },
     {
         "surname":"Mirzayeva",
@@ -756,7 +827,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1381309"
+        "passport":"AA1381309"
     },
     {
         "surname":"Muhammadiyeva",
@@ -767,7 +838,7 @@
         "maktab":"1-maktab",
         "fan":"Tarix",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1684976"
+        "passport":"AA1684976"
     },
     {
         "surname":"Karimova",
@@ -778,7 +849,7 @@
         "maktab":"1-maktab",
         "fan":"Kimyo",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA519027"
+        "passport":"AA519027"
     },
     {
         "surname":"Toshova",
@@ -789,7 +860,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2895306"
+        "passport":"AA2895306"
     },
     {
         "surname":"Abduloyeva",
@@ -800,7 +871,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA7058598"
+        "passport":"AA7058598"
     },
     {
         "surname":"Sharopova",
@@ -811,7 +882,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1474756"
+        "passport":"AA1474756"
     },
     {
         "surname":"Yadgorova",
@@ -822,7 +893,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA8859326"
+        "passport":"AA8859326"
     },
     {
         "surname":"Turayeva",
@@ -833,7 +904,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1397487"
+        "passport":"AA1397487"
     },
     {
         "surname":"Nazarova",
@@ -844,7 +915,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA7144360"
+        "passport":"AA7144360"
     },
     {
         "surname":"Muxamedova",
@@ -855,7 +926,7 @@
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA7058513"
+        "passport":"AA7058513"
     },
     {
         "surname":"Sharopova",
@@ -866,7 +937,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB1956910"
+        "passport":"AB1956910"
     },
     {
         "surname":"Sharopova",
@@ -877,18 +948,18 @@
         "maktab":"1-maktab",
         "fan":"Informatika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1728250"
+        "passport":"AA1728250"
     },
     {
         "surname":"Toshpo`latova",
         "name":"Muazzam",
-        "fathername":"Sa'dullayevna",
+        "fathername":"Sa`dullayevna",
         "viloyat":"Navoiy",
         "tuman":"Qiziltepa tumani",
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA0738068"
+        "passport":"AA0738068"
     },
     {
         "surname":"Raximova",
@@ -899,7 +970,7 @@
         "maktab":"1-maktab",
         "fan":"Matematika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA2911986"
+        "passport":"AA2911986"
     },
     {
         "surname":"Yuldasheva",
@@ -910,7 +981,7 @@
         "maktab":"1-maktab",
         "fan":"Matematika",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA0738068"
+        "passport":"AA0738068"
     },
     {
         "surname":"Adizova",
@@ -921,7 +992,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA1381342"
+        "passport":"AA1381342"
     },
     {
         "surname":"Rajabov",
@@ -932,7 +1003,7 @@
         "maktab":"1-maktab",
         "fan":"Geografiya",
         "toifa":"Mutaxassis",
-        "passpor":"AA5578491"
+        "passport":"AA5578491"
     },
     {
         "surname":"Aslonova",
@@ -943,7 +1014,7 @@
         "maktab":"1-maktab",
         "fan":"Ona tili",
         "toifa":"Mutaxassis",
-        "passpor":"AA3022726"
+        "passport":"AA3022726"
     },
     {
         "surname":"Raxmonov",
@@ -954,7 +1025,7 @@
         "maktab":"1-maktab",
         "fan":"Matematika",
         "toifa":"Mutaxassis",
-        "passpor":"AA6609395"
+        "passport":"AA6609395"
     },
     {
         "surname":"Salimova",
@@ -965,7 +1036,7 @@
         "maktab":"1-maktab",
         "fan":"Tarix",
         "toifa":"Mutaxassis",
-        "passpor":"AA2065141"
+        "passport":"AA2065141"
     },
     {
         "surname":"Teshayev",
@@ -976,7 +1047,7 @@
         "maktab":"1-maktab",
         "fan":"Tarix",
         "toifa":"Mutaxassis",
-        "passpor":"AC2564748"
+        "passport":"AC2564748"
     },
     {
         "surname":"Najmiddinova",
@@ -987,7 +1058,7 @@
         "maktab":"1-maktab",
         "fan":"Tarix",
         "toifa":"Mutaxassis",
-        "passpor":"AA7149580"
+        "passport":"AA7149580"
     },
     {
         "surname":"Jalilova",
@@ -998,7 +1069,7 @@
         "maktab":"1-maktab",
         "fan":"Ingliz tili",
         "toifa":"Mutaxassis",
-        "passpor":"AA2986148"
+        "passport":"AA2986148"
     },
     {
         "surname":"Hamroyev",
@@ -1009,7 +1080,7 @@
         "maktab":"1-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Mutaxassis",
-        "passpor":"AB4950592"
+        "passport":"AB4950592"
     },
     {
         "surname":"Aslonov",
@@ -1020,7 +1091,7 @@
         "maktab":"1-maktab",
         "fan":"Matematika",
         "toifa":"Mutaxassis",
-        "passpor":"AB4435242"
+        "passport":"AB4435242"
     },
     {
         "surname":"Himmatov",
@@ -1042,7 +1113,7 @@
         "maktab":"10-maktab",
         "fan":"Informatika",
         "toifa":"Birinchi toifa",
-        "passpor":"AA2652406"
+        "passport":"AA2652406"
     },
     {
         "surname":"Yunusova",
@@ -1053,7 +1124,7 @@
         "maktab":"51-DIUM",
         "fan":"Tarix",
         "toifa":"Mutaxassis",
-        "passpor":"AA5040245"
+        "passport":"AA5040245"
     },
     {
         "surname":"Xudoyorova",
@@ -1064,7 +1135,7 @@
         "maktab":"9-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AB2866447"
+        "passport":"AB2866447"
     },
     {
         "surname":"Usmonova",
@@ -1075,7 +1146,7 @@
         "maktab":"97-maktab",
         "fan":"Ingliz tili",
         "toifa":"Birinchi toifa",
-        "passpor":"AA5198693"
+        "passport":"AA5198693"
     },
     {
         "surname":"Sultonova",
@@ -1086,7 +1157,7 @@
         "maktab":"1-maktab",
         "fan":"Geografiya",
         "toifa":"Ikkinchi toifa",
-        "passpor":"AA0879627"
+        "passport":"AA0879627"
     },
     {
         "surname":"Berdanova",

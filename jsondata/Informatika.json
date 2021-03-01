@@ -140,7 +140,7 @@
         "D":"saqlashdan"
     },
     {
-        "savol":"Protsessorning vazifasi axborotlarni ... iboratdir",
+        "savol":"Protsessorning vazifasi axborotlarni ... iboratdir.",
         "A":"qayta ishlashdan",
         "B":"uzatishdan",
         "C":"saqlashdan",
@@ -162,7 +162,7 @@
     },
     {
         "savol":"Kodlashning asosiy usullari berilgan qatorni aniqlang.",
-        "A":"Raqamli kodlash, belgili kodlash, garfik kodlash",
+        "A":"Raqamli kodlash, belgili kodlash, grafik kodlash",
         "B":"O`rin almashtirish, alifboni surish",
         "C":"O`rin almashtirish, alifboni surish, Morze kodlash usuli",
         "D":"Shifrlash va deshifrlash"
@@ -308,7 +308,7 @@
         "D":"iMac"
     },
     {
-        "savol":"iPhone va iPad qurilmalri uchun ishlab chiqilgan OT ni ko`rsating",
+        "savol":"iPhone va iPad qurilmalari uchun ishlab chiqilgan OT ni ko`rsating",
         "A":"iOS",
         "B":"Windows",
         "C":"Android",
@@ -414,9 +414,9 @@
     },
     {
         "savol":"Axborotga oid bit atamasi qanday so`z yoki so`zlardan hosil qilingan?",
-        "A":"bitmap",
+        "C":"bitmap",
         "B":"bigenners information technology",
-        "C":"binary digit",
+        "A":"binary digit",
         "D":"bank information technology"
     },
     {

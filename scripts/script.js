@@ -30,7 +30,7 @@ $.getJSON('./jsondata/teachers.json', function (data) {
     teachers = data
 })
 
-let regions = ['Andijon', 'Buxoro', 'Farg`ona', 'Jizzax', 'Namangan', 'Navoiy', 'Qashqadaryo', 'Qoraqalpog`iston', 'Samarqand', 'Sirdaryo', 'Surxondaryo', 'Toshkent', 'Xorazm']
+let regions = ['Andijon', 'Buxoro', 'Fargona', 'Jizzax', 'Namangan', 'Navoiy', 'Qashqadaryo', 'Qoraqalpog`iston', 'Samarqand', 'Sirdaryo', 'Surxondaryo', 'Toshkent', 'Xorazm']
 let malumotlar = [0, 0, 0, 0, 0, 0, 0]
 let time = 3600
 let answers = []

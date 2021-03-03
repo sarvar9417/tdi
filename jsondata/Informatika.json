@@ -1,436 +1,394 @@
 [
     {
-        "savol":"Kompyuter uchun zarur bo'lgan asosiy qismlar birikmalarini to`g`ri belgilang?",
-        "A":"Hardware, Software, Brainware",
-        "B":"Monitor, Klaviatura, Tizimli blok",
-        "C":"Hardware, Dasturiy ta'minot",
-        "D":"Nazariy, Amaliy, Umumiy"
+      "savol":"Excel ish kitobi sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
+      "A":"List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
+      "B":"Fayl menyusidan переместит/скопироват buyrug'i orqali",
+      "C":"List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
+      "D":"Vid menyusidan переместит/скопироват buyrug'i orqali"
     },
     {
-        "savol":"Axborot-bu ...",
-        "A":"inson sezgi organlari orqali atrof-muhitdan olingan turli ma'lumotlar",
-        "B":"kompyuter qayta ishlay olmaydigan har qanday turdagi ma'lumot",
-        "C":"ma'lumotlarning bir turga mansub birikmasi",
-        "D":"faqatgina inson sezgi orqanlari orqali qabul qila oladigan ma'lumotlar"
+      "savol":" Vali 9 lik sanoq sistemasidagi sonlarni 6 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan sonlar 12 ta bo'lsa, so'ngi sonni.",
+      "A":"18",
+      "B":"20",
+      "C":"21",
+      "D":"17"
     },
     {
-        "savol":"Monitordan foydalanuvchi ko`zigacha bo`lgan masofa qanchani tashkil etishi lozim?",
-        "A":"50-60 sm dan kam bo`lmasligi kerak",
-        "B":"50-60 sm dan oshmasligi kerak",
-        "C":"20 sm tashkil etishi kerak",
-        "D":"90-120 sm oralig`ida bo`lishi kerak"
+      "savol":" Vali 16 lik sanoq sistemasidagi sonlarni F dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 23 ta bo'lsa, oxirgi raqamni aniqlang.",
+      "A":"A",
+      "B":"B",
+      "C":"9",
+      "D":"C"
     },
     {
-        "savol":"Informatika faniga berilgan eng to`g`ri ta`rifni belgilang.",
-        "A":"kompyuter va kommunikatsion texnologiyalar yordamida axborotni katta tezlikda izlash, to`plash, qayta ishlash va uzatish usullarini o`rgatuvchi fan",
-        "B":"kompyuter, uning texnik va dasturiy ta`minoti haqida ma`lumot beruvchi fan",
-        "C":"ilm-fan, texnika hamda boshqa sohalarda kompyuter texnikasini qo`llash usullarini o`rgatuvchi fan",
-        "D":"kompyuter texnikasini qo`llash asoslari haqidagi fan"
+      "savol":"Ali tomonlari 1101(2) va 101(2) bo'lgan to'g'ri to'rtburchakli xona polini bo'yayotgan edi. Xonaning tomoni 111(2) bo'lgan kvadrat qismiga bo'yoq yetmay qoldi. Ali bo'yagan joyni yuzasini aniqlang.",
+      "A":"10000",
+      "B":"10101",
+      "C":"10010",
+      "D":"10011"
     },
     {
-        "savol":"Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
-        "A":"qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, aqliy ta’minot yoki intellekt",
-        "B":"qattiq qism yoki texnik ta’minot, protsessor qurilmasi, aqliy ta’minot yoki intellekt",
-        "C":"qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, OS va uning yordamchi dasturlari",
-        "D":"texnik ta’minot, dasturiy ta’minot, grafik ta’minot"
+      "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 0 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 46 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
+      "A":"1110",
+      "B":"10111",
+      "C":"10001",
+      "D":"110"
     },
     {
-        "savol":"Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
-        "A":"Hardware, Software, Brainware",
-        "B":"Hardware, Software",
-        "C":"Asosiy va qo`shimcha qurilmalar",
-        "D":"Asosiy va qo`shimcha qurilmalar va dasturiy ta`minot"
+      "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 55 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
+      "A":"10011",
+      "B":"10000",
+      "C":"110111",
+      "D":"11111"
     },
     {
-        "savol":"Insonning asosiy sezgi retseptorlari to`g`ri va to`liq berilgan javobni aniqlang.",
-        "A":"Ko`rish, eshitish, ta`m bilish, hid bilish, teri sezgisi",
-        "B":"Ko`rish, eshitish, ta`m bilish, teri sezgisi",
-        "C":"Ko`z, quloq, burun, til",
-        "D":"Ko`z, quloq, burun, qo`l va oyoqlar"
+      "savol":"MS Wordda hujjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi.",
+      "A":"CTRL+HOME",
+      "B":"CTRL+Up",
+      "C":"CTRL+PAGEUP",
+      "D":"CTRL+ENTER"
     },
     {
-        "savol":"Inson axborotlarning ... % ni ko`rish orqali qabul qiladi.",
-        "A":"90",
-        "B":"9",
-        "C":"1",
-        "D":"10"
+      "savol":"Shunday natural N(2) sonni topingki, 127(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+      "A":"1000000",
+      "B":"1111111",
+      "C":"1010010",
+      "D":"101110"
     },
     {
-        "savol":"Inson axborotlarning ... % ni eshitish orqali qabul qiladi.",
-        "A":"9",
-        "B":"90",
-        "C":"1",
-        "D":"80"
+      "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi raqamni aniqlang.",
+      "A":"4",
+      "B":"0",
+      "C":"2",
+      "D":"3"
     },
     {
-        "savol":"Axborot bu - ... .",
-        "A":"inson sezgi organlari orqali atrof-muhitdan olingan turli ma’lumotlar",
-        "B":"insonlar atrof muhitga tarqatadigan xabarlar",
-        "C":"televideniya orqali yetkaziladigan ma`lumotlar",
-        "D":"ma`lumotlarning bog`langan shakli"
+      "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi sonni aniqlang.",
+      "A":"24",
+      "B":"20",
+      "C":"22",
+      "D":"17"
     },
     {
-        "savol":"... bu - inson faoliyatining turli sohalarida axborotlarni izlash, to`plash, saqlash, qayta ishlash va uzatish jarayonida ishlatiladigan usullar va texnik vositalar",
-        "A":"Axborot texnologiyalari",
-        "B":"Internet",
-        "C":"Kompyuter",
-        "D":"Aloqa vositalari"
+      "savol":"Soli chorak davomida 10(3), 12(3), 11(3), 11(3), 10(3), 12(3), 12(3), 10(3), 11(3) baholar oldi. Ustozi uning chorak bahosiga shu baholarning o'rta arifmatigini qo'ydi, Solining chorak bahosini 2lik sanoq sistemasida aniqlang.",
+      "A":"100",
+      "B":"101",
+      "C":"11.5",
+      "D":"11"
     },
     {
-        "savol":"Informatika faniga qachon asos solingan?",
-        "A":"XX asrning 50-yillarida",
-        "B":"XX asrning 40-yillarida",
-        "C":"1946-yilda",
-        "D":"1977-yillarda"
+      "savol":"Shunday natural N(2) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+      "A":"11000",
+      "B":"10011",
+      "C":"1111",
+      "D":"111101"
     },
     {
-        "savol":"Informatika atamasi Fransuzcha qanday so`zlarning birikmasidan tashkil topgan?",
-        "A":"Informatique+Automatique",
-        "B":"Information+Automatique",
-        "C":"Information+Automatics",
-        "D":"Informatique+Automatics"
+      "savol":"Shunday natural N(10) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+      "A":"24",
+      "B":"20",
+      "C":"32",
+      "D":"12"
     },
     {
-        "savol":"Informatika uchun asosiy ashyo nima?",
-        "A":"Axborot",
-        "B":"Kompyuter",
-        "C":"Inson",
-        "D":"Xotira"
+      "savol":"Quyida berilgan ifoda natijasidagi 1 raqamlari sonini aniqlang: 10111*10111+10*10",
+      "A":"2",
+      "B":"3",
+      "C":"4",
+      "D":"5"
     },
     {
-        "savol":"Maxsus belgilar yordamida axborotni bir ko`rinishdan boshqa qulayroq ko`rinishga o`tkazish jarayoni qanday ataladi",
-        "A":"Kodlash",
-        "B":"Shifrlash",
-        "C":"Arxivlash",
-        "D":"Uzatish"
+      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
+      "A":"8",
+      "B":"9",
+      "C":"10",
+      "D":"11"
     },
     {
-        "savol":"Axborotni bir ko`rinishdan ikkinchi ko`rinishga o`tkazish jarayoni qanday ataldi?",
-        "A":"Kodlash",
-        "B":"Shifrlash",
-        "C":"Arxivlash",
-        "D":"Uzatish"
+      "savol":"Ali aytdi \"Halil 2dan katta ball oldi\", Vali aytdi \"Halil 3 dan katta ball oldi\", Soli aytdi \"Halil 4 dan katta ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
+      "A":"3",
+      "B":"2",
+      "C":"5",
+      "D":"4"
     },
     {
-        "savol":"Dekodlash jarayoni qanday jarayon?",
-        "A":"Kodlangan axborotni asl holiga qaytarish jarayoni",
-        "B":"Axborotni maxfiy saqlash uchun kodlash jarayoni",
-        "C":"Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
-        "D":"Kodlangan axborotni buzish jarayoni"
+      "savol":"Likobchada olma, nok , anor, bor edi. Ali, Vali, va Soli likobchadagi mevalarni bo'lib olishdi. Quyidagi mulohazalarning faqat bittasi rostligi ma'lum: \"Ali olma olgan\", \"Vali anor olgan\", \"Soli nok olmagan\", agar Soli olma olmagani ma'lum bo'lsa, u holda ularnig har biri olgan mevani aniqlang.",
+      "A":"Ali-nok, Vali-olma, Soli-anor",
+      "B":"Ali-anor, Vali-olma, Soli-nok",
+      "C":"Ali-olma, Vali-nok, Soli-anor",
+      "D":"Ali-olma, Vali-anor, Soli-nok"
     },
     {
-        "savol":"Shifrlash jarayoniga berilgan to`g`ri ta`rifni ko`rsating.",
-        "B":"Kodlangan axborotni asl holiga qaytarish jarayoni",
-        "A":"Axborotni maxfiy saqlash uchun kodlash jarayoni",
-        "C":"Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
-        "D":"Kodlangan axborotni buzish jarayoni"
+      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng katta butun sonni aniqlang: NOT(x<=15) AND (x<20)",
+      "A":"19",
+      "B":"15",
+      "C":"16",
+      "D":"20"
     },
     {
-        "savol":"Shifrlash usullarni bilan shug`ullanuvchi fan qanday ataladi?",
-        "A":"Kriptografiya",
-        "B":"Kibernetika",
-        "C":"Informatika",
-        "D":"Infografika"
+      "savol":"Ali, Vali va Soli imtihonda 3 xil ball olishdi: 3 yoki 4 yoki 5. Quyidagi mulohazalardan faqat bittasi rostligi ma'lum. \"Ali 3 ball olgan\", \"Vali 5 ball olgan\", \"Soli 4 ball olmagan\". Agar Ali 4 ball olmagani ma'lum bo'lsa. U holda o'quvchilar olgan ballarni aniqlang.",
+      "A":"Ali-5 ball, Vali-4 ball, Soli-3 ball",
+      "B":"Ali-5 ball, Vali-3 ball, Soli-4 ball",
+      "C":"Ali-3 ball, Vali-4 ball, Soli-5 ball",
+      "D":"Ali-3 ball, Vali-5 ball, Soli-4 ball"
     },
     {
-        "savol":"Monitorlarning vazifasi axborotlarni ... iboratdir",
-        "A":"uzatishdan",
-        "B":"qabul qilishdan",
-        "C":"qayta ishlashdan",
-        "D":"saqlashdan"
+      "savol":"Qaysi javobda kompyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
+      "A":"Turli disklar va tarmoqdan foydalanish",
+      "B":"Bemor odam kompyuterdan foydalanishi",
+      "C":"Man badagi elektr tokini ko'payib yoki kamayib ketishi",
+      "D":"Kompyuterni iflos holda saqlash"
     },
     {
-        "savol":"Protsessorning vazifasi axborotlarni ... iboratdir.",
-        "A":"qayta ishlashdan",
-        "B":"uzatishdan",
-        "C":"saqlashdan",
-        "D":"qabul qilishdan"
+      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
+      "A":"10",
+      "B":"9",
+      "C":"8",
+      "D":"11"
     },
     {
-        "savol":"Nuqta(.) va tire(-) lardan foydalangan holda kodlash usuli qanday ataladi?",
-        "A":"Morze kodlash usuli",
-        "B":"Lisandro kodlash usuli",
-        "C":"Sezar kodlash usuli",
-        "D":"o`rin almashtirish usuli"
+      "savol":"Wordda jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
+      "A":"Maket-Obyedineniye-Obyedinit yacheyki - buyrug'i tanlanadi",
+      "B":"MAket-Viravneniye - buyrug'i tanlanadi",
+      "C":"Maket-Stroki i Stolbsi-Udalit - buyrug'i tanlanadi",
+      "D":"Konstruktor-Stili tablits - buyrug'i tanlanadi"
     },
     {
-        "savol":"Kodlashning asosiy usullarni nechta",
-        "A":"3 ta",
-        "B":"2 ta",
-        "C":"4 ta",
-        "D":"5 ta"
+      "savol":"Ma'lumotlar ombori nima?",
+      "A":"Biror predmet sohasidan olingan aniq obyektlar haqida aniq ma'lumotlar to'plami",
+      "B":"Ma'lumotlat ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi",
+      "C":"Bu ma'lumotlar saqlanadigan fayl",
+      "D":"Ma'lumotlar bilan to'ldirilgan ixtiyoriy jadval"
     },
     {
-        "savol":"Kodlashning asosiy usullari berilgan qatorni aniqlang.",
-        "A":"Raqamli kodlash, belgili kodlash, grafik kodlash",
-        "B":"O`rin almashtirish, alifboni surish",
-        "C":"O`rin almashtirish, alifboni surish, Morze kodlash usuli",
-        "D":"Shifrlash va deshifrlash"
+      "savol":"Fayllar nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z alr saqlanadigan diskdagi maxsus joyga ... deyiladi?",
+      "A":"Katalog",
+      "B":"Yorliq",
+      "C":"Menyu",
+      "D":"Dastur"
     },
     {
-        "savol":"Yuliy Sezar axorotlarni maxfiy saqlashda kodlashnig qanday turidan foydalangan?",
-        "A":"Alifboni surish",
-        "B":"O`rin almashtirish",
-        "C":"Morze kodlash usulidn",
-        "D":"O`rniga qo`yish"
+      "savol":"Ali aytdi: Ikkilik sanoq sistemasida ketma-ket kelgan 3 ta natural sonning o'rta arifmetigi natural son bo'ladi. Vali aytdi: Uchlik sanoq sistemasida ketma ket kelgan 4 ta natural sonning o'rta arifmetigi natural son bo'ladi. Ular aytgan mulohazalarning mantiqiy natijasini  aniqlang.",
+      "A":"Ali=yolg'on, Vali=rost",
+      "B":"Ali=rost, Vali-rost",
+      "C":"Ali=rost, Vali=yolg'on",
+      "D":"Ali=yolg'on, Vali=yolg'on"
     },
     {
-        "savol":"Binar sonlarga qanday belgilar kiradi",
-        "A":"1 va 0 raqamlari",
-        "B":"0 dan 9 gacha bo`lgan raqamlar",
-        "C":"0 dan 9gacha raqamlar va A, B, C, D, F harflari",
-        "D":"Alifbo harflari"
+      "savol":"Quyidagi Ifoda natijasi rost bo'ladigan eng kichik butun sonni aniqlang: NOT(X<=43) AND NOT(X sonida ikkita bir xil raqam qatnashmagan)",
+      "A":"44",
+      "B":"45",
+      "C":"55",
+      "D":"43"
     },
     {
-        "savol":"Axborot o`lchov birligining kompyuter xotirasidagi eng kichik o`lchov birligi qanday ataladi?",
-        "A":"bit",
-        "B":"bayt",
-        "C":"kilobayt",
-        "D":"petabayt"
+      "savol":"Ali aytdi \"Halil 3 dan kichik ball oldi\", Vali aytdi \"Halil 4 dan kichik ball oldi\", Soli aytdi \"Halil 5 dan kichik ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
+      "A":"4",
+      "B":"2",
+      "C":"5",
+      "D":"3"
     },
     {
-        "savol":"Kompyuter xotirasidagi 4 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
-        "A":"16 ta",
-        "B":"4 ta",
-        "C":"32 ta",
-        "D":"2 ta"
+      "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Yolg'on tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+      "A":"2, 50, 123, 66",
+      "B":"49, 45, 16, 15, 42",
+      "C":"50",
+      "D":"2"
     },
     {
-        "savol":"Rarzryad atamasi nimani ifodalaydi?",
-        "A":"kompyuter xotirasidagi bir bitni",
-        "B":"0 dan 9 gacha bo`lgan biror raqamni",
-        "C":"alifbo harflarni",
-        "D":"ASCII jadvalidagi belgilarni"
+      "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Rost tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+      "A":"49, 45, 16, 15, 42",
+      "B":"2, 50, 123, 66",
+      "C":"50",
+      "D":"2"
     },
     {
-        "savol":"Kompyuter xotirasidagi 8 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
-        "A":"256 ta",
-        "B":"258 ta",
-        "C":"8 ta",
-        "D":"1024 ta"
+      "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan chaproqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
+      "A":"sariq",
+      "B":"yashil",
+      "C":"qizil",
+      "D":"aniqlab bo'lmaydi"
     },
     {
-        "savol":"1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 2 xonali sonlarni yozish mumkin",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"4 ta",
-        "D":"9 ta"
+      "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan o'ngroqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
+      "A":"yashil",
+      "B":"sariq",
+      "C":"qizil",
+      "D":"aniqlab bo'lmaydi"
     },
     {
-        "savol":"1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 3 xonali sonlarni yozish mumkin",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"4 ta",
-        "D":"9 ta"
+      "savol":"Arxiv fayl nima? Bu - ...",
+      "A":"bir yoki bir nechta fayllarning zichlangan holda yagona faylga birlashtirilishi",
+      "B":"arxivlashning bir turi",
+      "C":"arxiv dasturi joylashgan papkadagi fayl",
+      "D":"maxsus papka bo'lib unda fayllar saqlanadi."
     },
     {
-        "savol":"Maxfiy kodli kalitni ochish uchun jinoyatchiga kodning 3, 7, 9 raqamlari ma’lum. Lekin u kod kombinatsiyasini eslab qolmagan. Kalitni ochish uchun jinoyatchi qancha kombinatsiyani tekshirib ko`rishi kerak?",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"2 ta",
-        "D":"5 ta"
+      "savol":"Muayyan asosga ega sanoq sistemasida 12 soni 110 shaklida yoziladi. Ushbu asosni ko`rsating. ",
+      "A":" 3",
+      "B":" 2",
+      "C":" 4",
+      "D":" 5"
     },
     {
-        "savol":"Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
-        "A":"6 xil",
-        "B":"3 xil",
-        "C":"5 xil",
-        "D":"4 xil"
+      "savol":"  126 sonini ikkilik yozuvdagi muhim nollari nechta?",
+      "A":" 1",
+      "B":" 0",
+      "C":" 2",
+      "D":" 3"
     },
     {
-        "savol":"Olim, Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
-        "A":"24 xil",
-        "B":"125 xil",
-        "C":"16 xil",
-        "D":"6 xil"
+      "savol":"MS Wordda WordArt ni ishga tushirish uchun ... ",
+      "A":"VStavka obyektidan WordArt buyrug'i tanalanadi",
+      "B":"Fayl obyektidan WordArt buyrug'i tanalanadi",
+      "C":"Dizayn obyektidan WordArt buyrug'i tanalanadi",
+      "D":"Parametri stranitsa obyektidan WordArt buyrug'i tanalanadi"
     },
     {
-        "savol":"Qayiqda suzish bo`yicha musobaqada qatnashish uchun bir nechta jamoa tayyorgarlik ko`rdi. Hakamlar hay’ati a’zolari musobaqa paytida jamoalarni adashtirib qo`ymaslik uchun yelkanlarni turli ranglarga bo`yashni maslahat berishdi. Agar har bir qayiqda 3tadan yelkan bo`lib yelkanlar faqatgina qizil, yashil, ko`k ranglarda bo`yalgan bo`lsa, musobaqada nechta jamoa ishtirok etgan?",
-        "A":"6 ta",
-        "B":"8 ta",
-        "C":"4 ta",
-        "D":"3 ta"
+      "savol":"Ali aytdi: \"Ikkilik sanoq sistemasida ketma ket kelgan 4 ta natural sonning yig'indisi 11(2) ga bo'lganda natural son bo'ladi\", Vali aytdi: \"Uchlik sanoq sistemasida ketma-ket kelgan 6 ta natural sonning yig'indisini 10(3) ga bo'lganda natural son hosil bo'ladi\". Ularning mulohazalrining mantiqiy natijasini aniqlang. Qavslar ichida sanoq sistemasining asosi berilgan. ",
+      "A":"Ali=yolg'on, Vali=rost",
+      "B":"Ali=yolg'on, Vali=yolg'on",
+      "C":"Ali=rost, Vali=yolg'on",
+      "D":"Ali=rost, Vali=rost"
     },
     {
-        "savol":"Kompyuter xotirasidagi ma’lumotlarni qog`ozga chop etib beruvchi qurilma  qanday ataladi?",
-        "A":"Printer",
-        "B":"Skaner",
-        "C":"Web kamera",
-        "D":"Monitor"
+      "savol":"MS Excel. A1=3 va B1=4 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AF1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
+      "A":"34",
+      "B":"41",
+      "C":"3",
+      "D":"27"
     },
     {
-        "savol":"Printer qurilmalarning qanday turlari mavjud?",
-        "A":"Purkagichli, lazerli, matritsali",
-        "B":"Purkagichli, matritsali, nusxalovchi",
-        "C":"Lazerli va pukagichli",
-        "D":"Rangli va rangsiz"
+      "savol":"MS Excel. A1=5 va B1=6 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AC1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
+      "A":"33",
+      "B":"40",
+      "C":"3",
+      "D":"27"
     },
     {
-        "savol":"Qog`ozdagi matn yoki tasvirni kompyuter xotirasiga kirituvchi qurilma qanday nomlanadi?",
-        "A":"Skaner",
-        "B":"Printer",
-        "C":"Monitor",
-        "D":"CPU"
+      "savol":"Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
+      "A":"Eksponentsial",
+      "B":"Finans",
+      "C":"Pullik",
+      "D":"Umumiy"
     },
     {
-        "savol":"Ekranning joriy holarini bufer xotiraga olish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi?",
-        "A":"PrtSc/SysRq",
-        "B":"Ctrl+C",
-        "C":"Insert",
-        "D":"Ctrl+P"
+      "savol":"'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
+      "A":"Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",
+      "B":"Maket-Viravneniye buyrug'i tanlanadi",
+      "C":"Konstruktor-Stili tablits buyrug'i tanlanadi",
+      "D":"Maket-Stroki i stolbsi-Udalit buyrug'i tanlanadi"
     },
     {
-        "savol":"Interfeys nima?",
-        "A":"Dasturning ekrandagi ko`rinishi",
-        "B":"Dasturning boshqarish menyulari",
-        "C":"Kompyuterlarning dasturiy ta`minoti",
-        "D":"Operatsion sistemani boshqaruvchi dastur"
+      "savol":"MS Excel  jadvallarida ustun sarlovhasiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+      "A":"Sichqoncha bosilgan ustun ajraladi",
+      "B":"Sichqoncha bosilgan ustin bosmaga chiqariladi",
+      "C":"Xech qanday o'zgarish bo'lmaydi",
+      "D":"Sichqoncha bosilgan ustun o'chiriladi"
     },
     {
-        "savol":"Faqatgina operatsion sistemalar berilgan javobni aniqlang.",
-        "A":"Linux, Unix, MacOS, Windows, DOS",
-        "B":"MS Office, Windows, Linux",
-        "C":"Paint.Net, MS Office, NOD32",
-        "D":"Linux, Unix, MS Office"
+      "savol":"Excel ish kitobida kamida necha sahifa list bo'lishi mumkin?",
+      "A":"1 ta",
+      "B":"Istalgancha",
+      "C":"2 ta",
+      "D":"3 ta"
     },
     {
-        "savol":"Windows OS nig birinchi naqli qachon ishlab chqilgan?",
-        "A":"1985-yilda",
-        "B":"1994-yilda",
-        "C":"1993-yilda",
-        "D":"2012-yilda"
+      "savol":"Elektron jadvalning A1 katakchasiga 10 yozilgan, B1 katakchaga =A1/2, C1 katakchaga =СУММ(A1:B1)*2 kiritilgan. C1 Katakchadagi qiymatni aniqlang.",
+      "A":"30",
+      "B":"10",
+      "C":"20",
+      "D":"15"
     },
     {
-        "savol":"Google koorporatsiyasi tomonidan ishlab chiqilgan OT berilgan javobni aniqlang.",
-        "A":"Android",
-        "B":"Windows",
-        "C":"iOS",
-        "D":"iMac"
+      "savol":"MS Excel. A1 katakdagi sonni B1 katakdagi 0 dan farqli songa karrali yoki karrali emasligini aniqlovchi formulani ko'rsating.",
+      "A":"=ЕСЛИ(ОСТАТ(A1;B1)=0; \"Karrali\"; \"Karrali emas\") ",
+      "B":"=ЕСЛИ(A1-B1=B1*ЦЕЛОЕ(A1/B1); \"Karrali\"; \"Karrali emas\")",
+      "C":"=ЕСЛИ(A1-B1*ЦЕЛОЕ(A1/B1)=0; \"Karrali\"; \"Karrali emas\")",
+      "D":"=ЕСЛИ(ОСТАТ(A1;B1)<>0; \"Karrali\"; \"Karrali emas\")"
     },
     {
-        "savol":"iPhone va iPad qurilmalari uchun ishlab chiqilgan OT ni ko`rsating",
-        "A":"iOS",
-        "B":"Windows",
-        "C":"Android",
-        "D":"iMac"
+      "savol":"Ma'lumotlar ombori nima?",
+      "A":"Biror predmet sohasidan olingan aniq obyektlar haqidagi ma'lumotlar to'plami",
+      "B":"Bu ma'lumotlar saqlanadigan fayl",
+      "C":"Ma'lumotlar bilan to'ltirilgan ixtiyoriy jadval",
+      "D":"Ma'lumotlar ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi"
     },
     {
-        "savol":"Bloknot dasturida yaratilgan fayllar qanday kengaytmada bo'ladi?",
-        "A":".txt",
-        "B":".docx",
-        "C":".bmp",
-        "D":".accdb"
+      "savol":"MS Excel  jadvallarida satr tartib raqamiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+      "A":"Sichqoncha bosilgan satr ajraladi",
+      "B":"Sichqoncha bosilgan satr bosmaga chiqariladi",
+      "C":"Xech qanday o'zgarish bo'lmaydi",
+      "D":"Sichqoncha bosilgan satr o'chiriladi"
     },
     {
-        "savol":"Ma'lumotlar kompyuterda qanday ko'rinishda saqlanadi?",
-        "A":"fayllar ko'rinishida",
-        "B":"papkalar ko'rinishida",
-        "C":"matn ko'rinishida",
-        "D":"garfik ko'rinishda"
+      "savol":"A1 va B1 taklarga mos ravishda 10 va 12 sonlari kiritilgan. Agar C1 katakka =(A1+B1)/2 va d1 katakka =EСЛИ(КОРEНъ(C1)>8);A1+C1;B1+C1) formulalari kiritilsa D1 katkdagi qiymatni aniqlang.",
+      "A":"23",
+      "B":"22",
+      "C":"21",
+      "D":"24"
     },
     {
-        "savol":".accdb kengaymali fayllar qaysi dastur yordamida hosil qilinadi?",
-        "D":"MS Word",
-        "B":"MS Excel",
-        "C":"Photoshop",
-        "A":"MS Accsess"
+      "savol":"Wordda hijjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi?",
+      "A":"CTRL+Home",
+      "B":"CTRL+PageUP",
+      "C":"CRTL+Up",
+      "D":"CTRL+Down"
     },
     {
-        "savol":"Quyidagi ko'rsatilgan javoblardan qaysi biri MS Office dasturlar paketiga kirmaydi?",
-        "A":"Photoshop",
-        "B":"Excel",
-        "C":"Publisher",
-        "D":"Outlook"
+      "savol":"Wordda CTRL+A klavishlar kombinatsiyasi nima vazifani bajaradi?",
+      "A":"Hujjatning hammasini belgilaydi",
+      "B":"Hujjatni chop etish",
+      "C":"NUsxa olish",
+      "D":"Qidirish oynasini ochish"
     },
     {
-        "savol":"Sizda ikkita gap bor. <br> 1. 2-gap rost <br>  2. 1-gap yolg'on <br> Bu ikkita gapning qaysi biri rost, yolg'onligini aniq bilmaysiz, lekin mantiqan o'ylab ko'rib 1-gapni rost yoki yolg'onligini toping!",
-        "A":"aniqlab bo'lamaydi",
-        "B":"rost",
-        "C":"yolg'on",
-        "D":"malohazalar to'liq emas"
+      "savol":"Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
+      "A":"http",
+      "B":"www",
+      "C":"ftp",
+      "D":"dns"
     },
     {
-        "savol":"Siz xazinalar oroliga tushib qoldingiz va u yerda 3 ta sandiqqa duch keldingiz. Ularning birida xazina yashiringan va ularning har birida quyidagicha yozuvlar bor. <br>   1. Xazina shu sandiqda <br> 2. Xazina bu sandiqda emas <br> 3. Xazina 1-sandiqda emas <br> Siz bilasizki, bu gaplarning yoki hammasi yolg'on, yoki faqat bittasi rost. Xazina qaysi sandiqda ekanligini toping. ",
-        "A":"2-sandiqda",
-        "B":"1-sandiqda",
-        "C":"3-sandiqda",
-        "D":"xazina mavjud emas"
+      "savol":"Printer nima?",
+      "A":"Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
+      "B":"Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
+      "C":"Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
+      "D":"Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
     },
     {
-        "savol":"Ritsarlar va Jokerlar orolida Ritsarlar faqat rost, Jokerlar faqat yolg'on gapirishadi. Siz orolda ikkita odamni uchratdingiz: A va B. Ular sizga shunday deyishdi: <br> A: \"B joker\" <br> B: \"A ham, men ham joker emasman\" <br> Ular birini kim ekanligini yaxshi bilishadi. Yuqoridagi gaplardan foydalanib, ularning qaysi biri Ritsar, qaysi biri Joker ekanligini aniqlang.",
-        "A":"A-ritsar, B-Joker",
-        "B":"A-Joker, B-Ritsar",
-        "C":"Ikkalasi ham Ritsar",
-        "D":"Ikkalasi ham Joker"
+      "savol":"MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
+      "A":"12",
+      "B":"15",
+      "C":"18",
+      "D":"9"
     },
     {
-        "savol":"Modemning tezligi 8388608 bit/sekund bo`lsa, 1 Megabayt axborotni qancha vaqtda uzata oladi?",
-        "A":"1 sekund",
-        "B":"1 soat",
-        "C":"0.1 soat",
-        "D":"100 min"
+      "savol":"MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
+      "A":"Grafik",
+      "B":"Matnli",
+      "C":"Raqamli",
+      "D":"Sana va Vaqt"
     },
     {
-        "savol":"MS Word dasturida qat'iy probel qanday klavishlar majmuasi yordamida qo'yiladi?",
-        "A":"Ctrl+Shift+Probel",
-        "B":"Alt+Shift+Probel",
-        "C":"Ctrl+Alt+(-)",
-        "D":"Ctrl+Alt+Probel"
+      "savol":"Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.lar saqlanadigan diskdagi maxsus joyga ... deyiladi.",
+      "A":"katalog",
+      "B":"menyu",
+      "C":"yorliq",
+      "D":"dastur"
     },
     {
-        "savol":"MS Word dasturida hujjatlarga o'zgartirish kiritish jarayoni qanday ataladi?",
-        "A":"tahrirlash",
-        "B":"formatlash",
-        "C":"yaratish",
-        "D":"nusxalash"
+      "savol":" MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
+      "A":"3 ta",
+      "B":"2 ta",
+      "C":"4 ta",
+      "D":"1 ta "
     },
     {
-        "savol":"MS Word dasturida matnning tashqi ko'rinishini o'zgartirish amallari qanday ataladi",
-        "A":"formatlash",
-        "B":"tahrirlash",
-        "C":"nusxa olish",
-        "D":"shifrlash"
-    },
-    {
-        "savol":"Kompyuterda fayl yoki papka nomlari ... tadan oshmaydigan belgilar ketma ketligidan iborat bo'ladi?",
-        "A":"255",
-        "B":"5-6",
-        "C":"3-4",
-        "D":"100"
-    },
-    {
-        "savol":"\"Axborot tizimi\" nima?",
-        "A":"belgilangan maqsadga erishish uchun axborotlarni uzatish , qayta ishlash va saqlash uchun qo`llaniladigan usullar, shaxslar va vositalarning o`zaro bog`langan shakli",
-        "B":"axborotlarni bir ko`rinishdan ikkinchi mutlaqo yangi ko`rinishga keltiruvchi ma'lumotlarni to`plash, qayta ishlash va uzatishning vosita va usullari majmuasidan foydalanish jarayonidir",
-        "C":"qo`yilayotgan maqsadga erishish borasida barcha harakatlar yig`indisi",
-        "D":"kompyuterning barcha asosiy va qo`shimcha qurilmalarining yig`indisi"
-    },
-    {
-        "savol":"Informatika o`rganadigan asosiy ashyoni aniqlang.",
-        "A":"axborot",
-        "B":"dastur",
-        "C":"kompyuter",
-        "D":"algoritm"
-    },
-    {
-        "savol":"Axborotga oid bit atamasi qanday so`z yoki so`zlardan hosil qilingan?",
-        "C":"bitmap",
-        "B":"bigenners information technology",
-        "A":"binary digit",
-        "D":"bank information technology"
-    },
-    {
-        "savol":"Disk va fleshkalar ma’lumotlarni … uchun xizmat qiladi.",
-        "A":"saqlash",
-        "B":"uzatish",
-        "C":"izlash",
-        "D":"qayta ishlash"
-    },
-    {
-        "savol":"Kodlashning ''Alifboni surish usuli''dan birinchi bo`lib foydalangan shaxs nomi to'g'ri berilgan qatorni aniqlang.",
-        "A":"Yuliy Sezar",
-        "B":"Lisandro",
-        "C":"Samuel Morze",
-        "D":"Al-Farobiy"
+      "savol":"MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
+      "A":"A1=-6, B1=15, C1=12",
+      "B":"A1=-4, B1=9, C1=7",
+      "C":"A1=3, B1=6, C1=18",
+      "D":"A1=7, B1=7, C1=7"
     }
-]
+ ]

@@ -1,5 +1,16 @@
 [
     {
+        "surname":"Mirzayeva",
+        "name": "Nigora",
+        "fathername":"Yerkinbayevna",
+        "viloyat":"Toshkent",
+        "tuman":"Uchtepa tumani",
+        "maktab":"81-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa": "Ikkinchi toifa",
+        "passport":"AA3939980"
+    },
+    {
         "surname":"Shukurova",
         "name": "Dilorom",
         "fathername":"Xolmo`minovna",

@@ -1,5 +1,16 @@
 [
     {
+        "surname":"Haitmetov",
+        "name": "Shokir",
+        "fathername":"Zokirjonovich",
+        "viloyat":"Sirdaryo",
+        "tuman":"Sirdaryo tumani",
+        "maktab":"14-maktab",
+        "fan":"Tarix",
+        "toifa": "Birinchi toifa",
+        "passport":"AB0475601"
+    },
+    {
         "surname":"Ibragimova",
         "name": "Nilufar",
         "fathername":"Islamovna",

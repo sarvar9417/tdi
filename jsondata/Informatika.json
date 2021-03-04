@@ -230,88 +230,116 @@
         "C":"Sardor",
         "D":"Kamol"
     },
-    {"savol": " 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
-        "A": "3DDA",
-        "B": "3DAA",
-        "C": "3DDD",
-        "D": "3DDDA"},
+    {
+        "savol":"axborot almashish real vaqtda olib boriladigan internetdagi muloqot qanday nomlanadi",
+        "A":"Chat",
+        "B":"Forum",
+        "C":"Pochta",
+        "D":"Kanal"
+    }
+    ,
+    {
+        "savol":"web saytda administrator tomonidan kiritilgan mavzu asosida suhbat olib borish tizimi qanday ataladi?",
+        "A":"Forum",
+        "B":"Chat",
+        "C":"Pochta",
+        "D":"Telefoniya"
+    }
+    ,
+    {
+        "savol":"MS Wordda jadvalning ajratilgan ustuni klaviatura orqali qanday o‘chiriladi?",
+        "A":"ALT + DELETE klavishlar kombinatsiyasini bosish orqali",
+        "B":"BACKSPACE klavishini bosish orqali",
+        "C":"DELETE klavishini bosish orqali",
+        "D":"ENTER klavishini bosish orqali"
+    }
+    ,
+    {
+        "savol":"Quyidagi kod natijasini ko‘rsating: x = 70 // 4 % (3 + 2) ** 4 + 15//2 print(x)",
+        "A":"24",
+        "B":"15",
+        "C":"25",
+        "D":"16"
+    }
+    ,
+    {
+        "savol":"Jumlani to‘ldiring: ________________ -  o‘quv materiallarini turli usllarda uzatish (15 turdagi interfaol vosita), bilimlarni tekshirish va o‘zlashtirish monitoringini yuritish uchun mo‘ljallangan platforma.",
+        "A":"Moodle",
+        "B":"Djoomla",
+        "C":"Skype",
+        "D":"Khan Academy"
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
 
-        {
-            "savol":"Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
-            "A":"http",
-            "B":"www",
-            "C":"ftp",
-            "D":"dns"
-          },
-          {
-            "savol":"Printer nima?",
-            "A":"Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
-            "B":"Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
-            "C":"Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
-            "D":"Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
-          },
-          {
-            "savol":"MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
-            "A":"12",
-            "B":"15",
-            "C":"18",
-            "D":"9"
-          },
-          {
-            "savol":"MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
-            "A":"Grafik",
-            "B":"Matnli",
-            "C":"Raqamli",
-            "D":"Sana va Vaqt"
-          },
-          {
-            "savol":"Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.lar saqlanadigan diskdagi maxsus joyga ... deyiladi.",
-            "A":"katalog",
-            "B":"menyu",
-            "C":"yorliq",
-            "D":"dastur"
-          },
-          {
-            "savol":" MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
-            "A":"3 ta",
-            "B":"2 ta",
-            "C":"4 ta",
-            "D":"1 ta "
-          },
-          {
-            "savol":"MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
-            "A":"A1=-6, B1=15, C1=12",
-            "B":"A1=-4, B1=9, C1=7",
-            "C":"A1=3, B1=6, C1=18",
-            "D":"A1=7, B1=7, C1=7"
-          },
-          {"savol": " ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
-            "A": "so`z",
-            "B": "satr",
-            "C": "matn",
-            "D": "gap"},
-        
-            {"savol": " Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
-            "A": "hujjat",
-            "B": "matn",
-            "C": "loyiha",
-            "D": "satr"},
-        
-            {"savol": " MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
-            "A": "matn",
-            "B": "gap",
-            "C": "satr",
-            "D": "hujjat"},
-        
-            {"savol": " Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
-            "A": "satr",
-            "B": "gap",
-            "C": "matn",
-            "D": "hoshiya"},
-        
-            {"savol": " Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
-            "A": "hoshiya",
-            "B": "abzas",
-            "C": "satr",
-            "D": "bo`sh joy"}
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
+    ,
+    {
+        "savol":"",
+        "A":"",
+        "B":"",
+        "C":"",
+        "D":""
+    }
 ]

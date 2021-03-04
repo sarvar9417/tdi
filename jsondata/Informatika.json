@@ -1,394 +1,317 @@
 [
     {
-      "savol":"Excel ish kitobi sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
-      "A":"List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
-      "B":"Fayl menyusidan переместит/скопироват buyrug'i orqali",
-      "C":"List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
-      "D":"Vid menyusidan переместит/скопироват buyrug'i orqali"
+        "savol":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish qanday ataladi",
+        "A":"SMM",
+        "B":"LMS",
+        "C":"CMS",
+        "D":"CMM"
     },
     {
-      "savol":" Vali 9 lik sanoq sistemasidagi sonlarni 6 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan sonlar 12 ta bo'lsa, so'ngi sonni.",
-      "A":"18",
-      "B":"20",
-      "C":"21",
-      "D":"17"
+        "savol":"Ijmoiy media nima?",
+        "A":"Ko‘plab faol foydalanuvchilarga ega internet platforma.",
+        "B":"Marketing faoliyatini amalga oshirish mumkin bo'lgan web sayt",
+        "C":"Bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+        "D":"o‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi “o‘zak dastur"
     },
     {
-      "savol":" Vali 16 lik sanoq sistemasidagi sonlarni F dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 23 ta bo'lsa, oxirgi raqamni aniqlang.",
-      "A":"A",
-      "B":"B",
-      "C":"9",
-      "D":"C"
+        "savol":"SMM nima?",
+        "A":"Marketing faoliyatining ijtimoiy mediada amalga oshirilishi",
+        "B":"Ijtimoiy tarmoqlar boshqaruvchisi",
+        "C":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+        "D":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir"
     },
     {
-      "savol":"Ali tomonlari 1101(2) va 101(2) bo'lgan to'g'ri to'rtburchakli xona polini bo'yayotgan edi. Xonaning tomoni 111(2) bo'lgan kvadrat qismiga bo'yoq yetmay qoldi. Ali bo'yagan joyni yuzasini aniqlang.",
-      "A":"10000",
-      "B":"10101",
-      "C":"10010",
-      "D":"10011"
+        "savol":"Kontent nima?",
+        "A":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+        "B":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+        "C":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish faoliyati",
+        "D":"Ko‘plab faol foydalanuvchilarga ega internet platforma"
     },
     {
-      "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 0 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 46 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
-      "A":"1110",
-      "B":"10111",
-      "C":"10001",
-      "D":"110"
+        "savol":"SMM da mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli         yuqori bo‘lgan shaxslar",
+        "A":"Maqsadli auditoriya",
+        "B":"Kontent",
+        "C":"Platforma",
+        "D":"Brend"
     },
     {
-      "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 55 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
-      "A":"10011",
-      "B":"10000",
-      "C":"110111",
-      "D":"11111"
+        "savol":"Brend nima?",
+        "A":"bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+        "B":"maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+        "C":"ko‘plab faol foydalanuvchilarga ega internet platforma",
+        "D":"marketing faoliyatining ijtimoiy mediada amalga oshirilishi"
     },
     {
-      "savol":"MS Wordda hujjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi.",
-      "A":"CTRL+HOME",
-      "B":"CTRL+Up",
-      "C":"CTRL+PAGEUP",
-      "D":"CTRL+ENTER"
+        "savol":"O‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi ''o‘zak dastur'' qanday ataladi?",
+        "A":"Platforma",
+        "B":"Kontent",
+        "C":"Brend",
+        "D":"SMM"
     },
     {
-      "savol":"Shunday natural N(2) sonni topingki, 127(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
-      "A":"1000000",
-      "B":"1111111",
-      "C":"1010010",
-      "D":"101110"
+        "savol":"Mark Suckerberg hamda Eduardo Saverin asos solgan ijtimoiy tarmoq nomi to`g`ri berilgan qatorni aniqlang.",
+        "A":"Facebook",
+        "B":"Instagram",
+        "C":"Google",
+        "D":"YouTube"
     },
     {
-      "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi raqamni aniqlang.",
-      "A":"4",
-      "B":"0",
-      "C":"2",
-      "D":"3"
+        "savol":"Facebook ijtimoiy tarmog`iga qachon asos solingan?",
+        "A":"2004-yilda",
+        "B":"2012-yilda",
+        "C":"1999-yilda",
+        "D":"2006-yilda"
     },
     {
-      "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi sonni aniqlang.",
-      "A":"24",
-      "B":"20",
-      "C":"22",
-      "D":"17"
+        "savol":"Quyidagi javoblarda ko`rsatilganlardan qaysi biri asosan videoroliklar platformasi hisoblanadi? ",
+        "A":"YouTube",
+        "B":"Facebook",
+        "C":"OK",
+        "D":"Google"
     },
     {
-      "savol":"Soli chorak davomida 10(3), 12(3), 11(3), 11(3), 10(3), 12(3), 12(3), 10(3), 11(3) baholar oldi. Ustozi uning chorak bahosiga shu baholarning o'rta arifmatigini qo'ydi, Solining chorak bahosini 2lik sanoq sistemasida aniqlang.",
-      "A":"100",
-      "B":"101",
-      "C":"11.5",
-      "D":"11"
+        "savol":"Onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘ini to`g`ri ko`rsating.",
+        "A":"Telegram",
+        "B":"Instagram",
+        "C":"Youtube",
+        "D":"Facebook"
     },
     {
-      "savol":"Shunday natural N(2) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
-      "A":"11000",
-      "B":"10011",
-      "C":"1111",
-      "D":"111101"
+        "savol":"Facebook bu - ?",
+        "A":"xabarlashish va marketing faoliyatini yurituvchi ijtimoiy tarmoq",
+        "B":"onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘i",
+        "C":"foto va videolarni ulashish uchun mo‘ljallangan tarmoq",
+        "D":"ko‘plab interfaol foydalanuvchilarga ega videoroliklar platformasi"
     },
     {
-      "savol":"Shunday natural N(10) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
-      "A":"24",
-      "B":"20",
-      "C":"32",
-      "D":"12"
+        "savol":"Koreys tilidan tarjima qilinganda ``uchta yulduz`` ma`nosini beradigan brend nomini to`g`ri ko`rsating.",
+        "A":"Samsung",
+        "B":"Apple",
+        "C":"Google",
+        "D":"Instagram"
     },
     {
-      "savol":"Quyida berilgan ifoda natijasidagi 1 raqamlari sonini aniqlang: 10111*10111+10*10",
-      "A":"2",
-      "B":"3",
-      "C":"4",
-      "D":"5"
+        "savol":"Lotinchadan tarjima qilnganda 100 ta noldan iborat birlik sonni anglatuvchi so'zni to`g`ri ko`rsating",
+        "A":"Google",
+        "B":"Samsung",
+        "C":"Apple",
+        "D":"Instagram"
     },
     {
-      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
-      "A":"8",
-      "B":"9",
-      "C":"10",
-      "D":"11"
+        "savol":"Internet tarmog‘ida ijtimoiy media marketingni yurituvchi shaxs qanday ataladi.",
+        "A":"SMM mutaxassisi",
+        "B":"CMS mutaxassisi",
+        "C":"LMS mutaxassisi",
+        "D":"CMM mutaxassisi"
     },
     {
-      "savol":"Ali aytdi \"Halil 2dan katta ball oldi\", Vali aytdi \"Halil 3 dan katta ball oldi\", Soli aytdi \"Halil 4 dan katta ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
-      "A":"3",
-      "B":"2",
-      "C":"5",
-      "D":"4"
+        "savol":"O‘zaro ma’lumotlar almashish imkoniyatiga ega kompyuter yoki qurilmalar guruhi qanday ataladi?",
+        "A":"Tarmoq",
+        "B":"Internet",
+        "C":"Tizim",
+        "D":"Provayder"
     },
     {
-      "savol":"Likobchada olma, nok , anor, bor edi. Ali, Vali, va Soli likobchadagi mevalarni bo'lib olishdi. Quyidagi mulohazalarning faqat bittasi rostligi ma'lum: \"Ali olma olgan\", \"Vali anor olgan\", \"Soli nok olmagan\", agar Soli olma olmagani ma'lum bo'lsa, u holda ularnig har biri olgan mevani aniqlang.",
-      "A":"Ali-nok, Vali-olma, Soli-anor",
-      "B":"Ali-anor, Vali-olma, Soli-nok",
-      "C":"Ali-olma, Vali-nok, Soli-anor",
-      "D":"Ali-olma, Vali-anor, Soli-nok"
+        "savol":"Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega mutaxassis — xodim qanday ataladi?",
+        "A":"Admin",
+        "B":"Foydalanuvchi",
+        "C":"Mehmon foydalanuvchi",
+        "D":"Dasturchi"
     },
     {
-      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng katta butun sonni aniqlang: NOT(x<=15) AND (x<20)",
-      "A":"19",
-      "B":"15",
-      "C":"16",
-      "D":"20"
+        "savol":"Quyidagi ko'rsatilganlardan qaysi biri internetda ishlashni ta'minlovchi dastur emas?",
+        "A":"AppStore",
+        "B":"Safari",
+        "C":"Google Chrome",
+        "D":"Opera"
     },
     {
-      "savol":"Ali, Vali va Soli imtihonda 3 xil ball olishdi: 3 yoki 4 yoki 5. Quyidagi mulohazalardan faqat bittasi rostligi ma'lum. \"Ali 3 ball olgan\", \"Vali 5 ball olgan\", \"Soli 4 ball olmagan\". Agar Ali 4 ball olmagani ma'lum bo'lsa. U holda o'quvchilar olgan ballarni aniqlang.",
-      "A":"Ali-5 ball, Vali-4 ball, Soli-3 ball",
-      "B":"Ali-5 ball, Vali-3 ball, Soli-4 ball",
-      "C":"Ali-3 ball, Vali-4 ball, Soli-5 ball",
-      "D":"Ali-3 ball, Vali-5 ball, Soli-4 ball"
+        "savol":"Quyidagilardan qaysi biri internetda ishlashni ta'minlovchi dastur?",
+        "A":"Safari",
+        "B":"AppStore",
+        "C":"Play Market",
+        "D":"Yandex Browser"
     },
     {
-      "savol":"Qaysi javobda kompyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
-      "A":"Turli disklar va tarmoqdan foydalanish",
-      "B":"Bemor odam kompyuterdan foydalanishi",
-      "C":"Man badagi elektr tokini ko'payib yoki kamayib ketishi",
-      "D":"Kompyuterni iflos holda saqlash"
+        "savol":"Axborot resursi yoki tizimiga berilgan, ularni internet jahon axborot tarmog‘ida identifikasiyalash uchun xizmat qiladigan noyob nom qanday ataladi?",
+        "A":"Domen",
+        "B":"Ip manzil",
+        "C":"Identifikatsiya",
+        "D":"Autentifikatsiya"
     },
     {
-      "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
-      "A":"10",
-      "B":"9",
-      "C":"8",
-      "D":"11"
+        "savol":"foydalanuvchilarga elektron xabarlar almashish imkoniyatini beradigan xizmat turi bu - ... ?",
+        "A":"elektron pochta",
+        "B":"ijtimoiy tarmoq",
+        "C":"telegram",
+        "D":"instagram"
     },
     {
-      "savol":"Wordda jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
-      "A":"Maket-Obyedineniye-Obyedinit yacheyki - buyrug'i tanlanadi",
-      "B":"MAket-Viravneniye - buyrug'i tanlanadi",
-      "C":"Maket-Stroki i Stolbsi-Udalit - buyrug'i tanlanadi",
-      "D":"Konstruktor-Stili tablits - buyrug'i tanlanadi"
+        "savol":"Web-sahifalarni yaratishda keng qo‘llaniladigan tilni ko`rsating.",
+        "A":"HTML",
+        "B":"Python",
+        "C":"CSS",
+        "D":"JavaScript"
     },
     {
-      "savol":"Ma'lumotlar ombori nima?",
-      "A":"Biror predmet sohasidan olingan aniq obyektlar haqida aniq ma'lumotlar to'plami",
-      "B":"Ma'lumotlat ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi",
-      "C":"Bu ma'lumotlar saqlanadigan fayl",
-      "D":"Ma'lumotlar bilan to'ldirilgan ixtiyoriy jadval"
+        "savol":"Tarmoq yoki kompyuterga kirish uchun ruxsat beruvchi foydalanuvchi ism yoki taxallusi qanday ataladi?",
+        "A":"login",
+        "B":"parol",
+        "C":"elekron pochta",
+        "D":"autentifikatsiya"
     },
     {
-      "savol":"Fayllar nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z alr saqlanadigan diskdagi maxsus joyga ... deyiladi?",
-      "A":"Katalog",
-      "B":"Yorliq",
-      "C":"Menyu",
-      "D":"Dastur"
+        "savol":"Ma’lumotlar bazasi nima?",
+        "A":"elektron hisoblash mashinalari yordamida qidirib topilishi va qayta ishlanishi mumkin bo‘lgan tarzda tartibga solingan va aniq qoidalar asosida tashkil qilingan ma’lumotlar to‘plami",
+        "B":"mijoz kompyuterlarning so‘rovlariga javob beruvchi, yangilangan ma’lumotlarni qabul qiluvchi, bazadan foydalanishga ruxsat beruvchi va h. k. vazifalarni bajaruvchi server",
+        "C":"ma’lumotlarni yig‘ib, kompyuterga kiritish jarayoni. Jarayon avtomatik tarzda yoki qo‘l mehnati bilan amalga oshiriladi",
+        "D":"rasmiylashtirilgan, ya’ni uzatish, izohlash va qayta ishlash uchun mos shaklda taqdim etilgan axborot"
     },
     {
-      "savol":"Ali aytdi: Ikkilik sanoq sistemasida ketma-ket kelgan 3 ta natural sonning o'rta arifmetigi natural son bo'ladi. Vali aytdi: Uchlik sanoq sistemasida ketma ket kelgan 4 ta natural sonning o'rta arifmetigi natural son bo'ladi. Ular aytgan mulohazalarning mantiqiy natijasini  aniqlang.",
-      "A":"Ali=yolg'on, Vali=rost",
-      "B":"Ali=rost, Vali-rost",
-      "C":"Ali=rost, Vali=yolg'on",
-      "D":"Ali=yolg'on, Vali=yolg'on"
+        "savol":"Qurilmani tarmoqqa ulanmagan holda ishlash tartibi qanday ataladi?",
+        "A":"offlayn",
+        "B":"online",
+        "C":"tizimli",
+        "D":"tizimdan tashqari"
     },
     {
-      "savol":"Quyidagi Ifoda natijasi rost bo'ladigan eng kichik butun sonni aniqlang: NOT(X<=43) AND NOT(X sonida ikkita bir xil raqam qatnashmagan)",
-      "A":"44",
-      "B":"45",
-      "C":"55",
-      "D":"43"
+        "savol":"Qurilmani tarmoqqa ulangan holda ishlash tartibi qanday ataladi?",
+        "A":"online",
+        "B":"offline",
+        "C":"tizimli",
+        "D":"tizmdan tashqari"
     },
     {
-      "savol":"Ali aytdi \"Halil 3 dan kichik ball oldi\", Vali aytdi \"Halil 4 dan kichik ball oldi\", Soli aytdi \"Halil 5 dan kichik ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
-      "A":"4",
-      "B":"2",
-      "C":"5",
-      "D":"3"
+        "savol":"Yagona maqsad yo‘lida bir vaqtning o‘zida ham yaxlit, ham o‘zaro bog‘langan tarzda faoliyat ko‘rsatadigan bir necha turdagi elementlar majmuasi qanday ataladi",
+        "A":"Tizim",
+        "B":"Web-sayt",
+        "C":"Platforma",
+        "D":"Content"
     },
     {
-      "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Yolg'on tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
-      "A":"2, 50, 123, 66",
-      "B":"49, 45, 16, 15, 42",
-      "C":"50",
-      "D":"2"
+        "savol":"Javed Karim, Chad Hurley va Steve Chen tomonidan ishlab chiqilgan platforma nomini ko`rsating.",
+        "A":"YouTube",
+        "B":"Telegram",
+        "C":"Instagram",
+        "D":"Facebook"
     },
     {
-      "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Rost tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
-      "A":"49, 45, 16, 15, 42",
-      "B":"2, 50, 123, 66",
-      "C":"50",
-      "D":"2"
+        "savol":"Tayyor shablonli tuzilmalar, ma’lumotlarni kiritish va dizayn ishlariga mo‘ljallangan funksiyalar to‘plamidan iborat platforma qanday ataladi?",
+        "A":"CMS",
+        "B":"SMM",
+        "C":"LMS",
+        "D":"CMM"
     },
     {
-      "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan chaproqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
-      "A":"sariq",
-      "B":"yashil",
-      "C":"qizil",
-      "D":"aniqlab bo'lmaydi"
+        "savol":"Tarkibini ko‘rib chiqish, tahrirlash, o‘zgartirish, unga qo‘shimchalar kiritish mumkin bo'lmagan platformalar qanday ataladi?",
+        "A":"Yopiq kodli platforma",
+        "B":"Ochiq kodli platforma",
+        "C":"CMS platformalari",
+        "D":"Wordpress"
     },
     {
-      "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan o'ngroqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
-      "A":"yashil",
-      "B":"sariq",
-      "C":"qizil",
-      "D":"aniqlab bo'lmaydi"
+        "savol":"Sayt uchun joy ajratib beruvchi xizmat turi nima deyiladi?",
+        "A":"Hosting",
+        "B":"Domen",
+        "C":"Provayder",
+        "D":"Promount"
     },
     {
-      "savol":"Arxiv fayl nima? Bu - ...",
-      "A":"bir yoki bir nechta fayllarning zichlangan holda yagona faylga birlashtirilishi",
-      "B":"arxivlashning bir turi",
-      "C":"arxiv dasturi joylashgan papkadagi fayl",
-      "D":"maxsus papka bo'lib unda fayllar saqlanadi."
+        "savol":"1. O'tgan yil davomida Abdullajon Hoshimjondan ko'ra ko'p kino ko'rdi <br> 2. Hoshimjon esa Akbarjondan ko'ra kam kino ko'rdi <br> 3. Akbarjon Abdullajondan ko'ra ko'p kino ko'rdi. Agar birinchi ikkita gap rost ekanligi aniq bo'lsa, 3-gapni rost, yolg'on ekanligini aniqlang!",
+        "A":"Aniqlab bo`lmaydi",
+        "B":"Rost",
+        "C":"Yolg`on",
+        "D":""
     },
     {
-      "savol":"Muayyan asosga ega sanoq sistemasida 12 soni 110 shaklida yoziladi. Ushbu asosni ko`rsating. ",
-      "A":" 3",
-      "B":" 2",
-      "C":" 4",
-      "D":" 5"
+        "savol":"4 ta bola bog'ichi bo'shab ketgan it ortidan quvishmoqda. Sardor shundoqqina it orqasida yugurmoqda, Jamol uning orqasida, Jalol esa Jamolning ortida yugurmoqda. Kamol itning to'g'risidan yugurib kelgan payt, it va bolalar uning oldidan o'tib ketib qolishdi, shunda u ham burilib safga qo'shildi. Kamol Jamolning ortida yugurishni boshladi. Sardor tezlashib, itning o'ng tarafiga o'tib oldi. Jalol ham tezlashib itning chap tarafiga o'tib oldi. Endi kim itning orqasida yugurmoqda?",
+        "A":"Jamol",
+        "B":"Jalol",
+        "C":"Sardor",
+        "D":"Kamol"
     },
-    {
-      "savol":"  126 sonini ikkilik yozuvdagi muhim nollari nechta?",
-      "A":" 1",
-      "B":" 0",
-      "C":" 2",
-      "D":" 3"
-    },
-    {
-      "savol":"MS Wordda WordArt ni ishga tushirish uchun ... ",
-      "A":"VStavka obyektidan WordArt buyrug'i tanalanadi",
-      "B":"Fayl obyektidan WordArt buyrug'i tanalanadi",
-      "C":"Dizayn obyektidan WordArt buyrug'i tanalanadi",
-      "D":"Parametri stranitsa obyektidan WordArt buyrug'i tanalanadi"
-    },
-    {
-      "savol":"Ali aytdi: \"Ikkilik sanoq sistemasida ketma ket kelgan 4 ta natural sonning yig'indisi 11(2) ga bo'lganda natural son bo'ladi\", Vali aytdi: \"Uchlik sanoq sistemasida ketma-ket kelgan 6 ta natural sonning yig'indisini 10(3) ga bo'lganda natural son hosil bo'ladi\". Ularning mulohazalrining mantiqiy natijasini aniqlang. Qavslar ichida sanoq sistemasining asosi berilgan. ",
-      "A":"Ali=yolg'on, Vali=rost",
-      "B":"Ali=yolg'on, Vali=yolg'on",
-      "C":"Ali=rost, Vali=yolg'on",
-      "D":"Ali=rost, Vali=rost"
-    },
-    {
-      "savol":"MS Excel. A1=3 va B1=4 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AF1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
-      "A":"34",
-      "B":"41",
-      "C":"3",
-      "D":"27"
-    },
-    {
-      "savol":"MS Excel. A1=5 va B1=6 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AC1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
-      "A":"33",
-      "B":"40",
-      "C":"3",
-      "D":"27"
-    },
-    {
-      "savol":"Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
-      "A":"Eksponentsial",
-      "B":"Finans",
-      "C":"Pullik",
-      "D":"Umumiy"
-    },
-    {
-      "savol":"'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
-      "A":"Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",
-      "B":"Maket-Viravneniye buyrug'i tanlanadi",
-      "C":"Konstruktor-Stili tablits buyrug'i tanlanadi",
-      "D":"Maket-Stroki i stolbsi-Udalit buyrug'i tanlanadi"
-    },
-    {
-      "savol":"MS Excel  jadvallarida ustun sarlovhasiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
-      "A":"Sichqoncha bosilgan ustun ajraladi",
-      "B":"Sichqoncha bosilgan ustin bosmaga chiqariladi",
-      "C":"Xech qanday o'zgarish bo'lmaydi",
-      "D":"Sichqoncha bosilgan ustun o'chiriladi"
-    },
-    {
-      "savol":"Excel ish kitobida kamida necha sahifa list bo'lishi mumkin?",
-      "A":"1 ta",
-      "B":"Istalgancha",
-      "C":"2 ta",
-      "D":"3 ta"
-    },
-    {
-      "savol":"Elektron jadvalning A1 katakchasiga 10 yozilgan, B1 katakchaga =A1/2, C1 katakchaga =СУММ(A1:B1)*2 kiritilgan. C1 Katakchadagi qiymatni aniqlang.",
-      "A":"30",
-      "B":"10",
-      "C":"20",
-      "D":"15"
-    },
-    {
-      "savol":"MS Excel. A1 katakdagi sonni B1 katakdagi 0 dan farqli songa karrali yoki karrali emasligini aniqlovchi formulani ko'rsating.",
-      "A":"=ЕСЛИ(ОСТАТ(A1;B1)=0; \"Karrali\"; \"Karrali emas\") ",
-      "B":"=ЕСЛИ(A1-B1=B1*ЦЕЛОЕ(A1/B1); \"Karrali\"; \"Karrali emas\")",
-      "C":"=ЕСЛИ(A1-B1*ЦЕЛОЕ(A1/B1)=0; \"Karrali\"; \"Karrali emas\")",
-      "D":"=ЕСЛИ(ОСТАТ(A1;B1)<>0; \"Karrali\"; \"Karrali emas\")"
-    },
-    {
-      "savol":"Ma'lumotlar ombori nima?",
-      "A":"Biror predmet sohasidan olingan aniq obyektlar haqidagi ma'lumotlar to'plami",
-      "B":"Bu ma'lumotlar saqlanadigan fayl",
-      "C":"Ma'lumotlar bilan to'ltirilgan ixtiyoriy jadval",
-      "D":"Ma'lumotlar ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi"
-    },
-    {
-      "savol":"MS Excel  jadvallarida satr tartib raqamiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
-      "A":"Sichqoncha bosilgan satr ajraladi",
-      "B":"Sichqoncha bosilgan satr bosmaga chiqariladi",
-      "C":"Xech qanday o'zgarish bo'lmaydi",
-      "D":"Sichqoncha bosilgan satr o'chiriladi"
-    },
-    {
-      "savol":"A1 va B1 taklarga mos ravishda 10 va 12 sonlari kiritilgan. Agar C1 katakka =(A1+B1)/2 va d1 katakka =EСЛИ(КОРEНъ(C1)>8);A1+C1;B1+C1) formulalari kiritilsa D1 katkdagi qiymatni aniqlang.",
-      "A":"23",
-      "B":"22",
-      "C":"21",
-      "D":"24"
-    },
-    {
-      "savol":"Wordda hijjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi?",
-      "A":"CTRL+Home",
-      "B":"CTRL+PageUP",
-      "C":"CRTL+Up",
-      "D":"CTRL+Down"
-    },
-    {
-      "savol":"Wordda CTRL+A klavishlar kombinatsiyasi nima vazifani bajaradi?",
-      "A":"Hujjatning hammasini belgilaydi",
-      "B":"Hujjatni chop etish",
-      "C":"NUsxa olish",
-      "D":"Qidirish oynasini ochish"
-    },
-    {
-      "savol":"Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
-      "A":"http",
-      "B":"www",
-      "C":"ftp",
-      "D":"dns"
-    },
-    {
-      "savol":"Printer nima?",
-      "A":"Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
-      "B":"Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
-      "C":"Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
-      "D":"Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
-    },
-    {
-      "savol":"MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
-      "A":"12",
-      "B":"15",
-      "C":"18",
-      "D":"9"
-    },
-    {
-      "savol":"MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
-      "A":"Grafik",
-      "B":"Matnli",
-      "C":"Raqamli",
-      "D":"Sana va Vaqt"
-    },
-    {
-      "savol":"Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.lar saqlanadigan diskdagi maxsus joyga ... deyiladi.",
-      "A":"katalog",
-      "B":"menyu",
-      "C":"yorliq",
-      "D":"dastur"
-    },
-    {
-      "savol":" MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
-      "A":"3 ta",
-      "B":"2 ta",
-      "C":"4 ta",
-      "D":"1 ta "
-    },
-    {
-      "savol":"MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
-      "A":"A1=-6, B1=15, C1=12",
-      "B":"A1=-4, B1=9, C1=7",
-      "C":"A1=3, B1=6, C1=18",
-      "D":"A1=7, B1=7, C1=7"
-    }
- ]
+    {"savol": " 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
+        "A": "3DDA",
+        "B": "3DAA",
+        "C": "3DDD",
+        "D": "3DDDA"},
+
+        {
+            "savol":"Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
+            "A":"http",
+            "B":"www",
+            "C":"ftp",
+            "D":"dns"
+          },
+          {
+            "savol":"Printer nima?",
+            "A":"Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
+            "B":"Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
+            "C":"Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
+            "D":"Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
+          },
+          {
+            "savol":"MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
+            "A":"12",
+            "B":"15",
+            "C":"18",
+            "D":"9"
+          },
+          {
+            "savol":"MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
+            "A":"Grafik",
+            "B":"Matnli",
+            "C":"Raqamli",
+            "D":"Sana va Vaqt"
+          },
+          {
+            "savol":"Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.lar saqlanadigan diskdagi maxsus joyga ... deyiladi.",
+            "A":"katalog",
+            "B":"menyu",
+            "C":"yorliq",
+            "D":"dastur"
+          },
+          {
+            "savol":" MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
+            "A":"3 ta",
+            "B":"2 ta",
+            "C":"4 ta",
+            "D":"1 ta "
+          },
+          {
+            "savol":"MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
+            "A":"A1=-6, B1=15, C1=12",
+            "B":"A1=-4, B1=9, C1=7",
+            "C":"A1=3, B1=6, C1=18",
+            "D":"A1=7, B1=7, C1=7"
+          },
+          {"savol": " ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
+            "A": "so`z",
+            "B": "satr",
+            "C": "matn",
+            "D": "gap"},
+        
+            {"savol": " Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
+            "A": "hujjat",
+            "B": "matn",
+            "C": "loyiha",
+            "D": "satr"},
+        
+            {"savol": " MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
+            "A": "matn",
+            "B": "gap",
+            "C": "satr",
+            "D": "hujjat"},
+        
+            {"savol": " Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
+            "A": "satr",
+            "B": "gap",
+            "C": "matn",
+            "D": "hoshiya"},
+        
+            {"savol": " Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
+            "A": "hoshiya",
+            "B": "abzas",
+            "C": "satr",
+            "D": "bo`sh joy"}
+]

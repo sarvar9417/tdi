@@ -754,7 +754,7 @@
     }
     ,
     {
-        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png alt='inf1'>",
+        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png' alt='inf1'>",
         "A":"0, 0, 1, 0",
         "B":"0, 1, 1, 1",
         "C":"1, 0, 0, 0",

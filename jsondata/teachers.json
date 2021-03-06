@@ -1312,5 +1312,71 @@
         "fan":"Matematika",
         "toifa":"Birinchi toifa",
         "passport":"AA0799070"
+    },
+    {
+        "surname":"Sharipova",
+        "name":"Dilnoza",
+        "fathername":"Muhiddinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"2-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA7705479"
+    },
+    {
+        "surname":"Muminova",
+        "name":"Nigora",
+        "fathername":"Adashevna",
+        "viloyat":"Navoiy",
+        "tuman":"Zarafshon shahar",
+        "maktab":"8-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA1654877"
+    },
+    {
+        "surname":"Suyunova",
+        "name":"Guliston",
+        "fathername":"Miltiqboyevna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"8-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Birinchi toifa",
+        "passport":"AA2100422"
+    },
+    {
+        "surname":"Jasur",
+        "name":"Xalilov",
+        "fathername":"Shimsiddinovich",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"23-maktab",
+        "fan":"Ingliz tili",
+        "toifa":"Birinchi toifa",
+        "passport":"AA4261122"
+    },
+    {
+        "surname":"Toshpo`latova",
+        "name":"Kamola",
+        "fathername":"Axmadovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"16-maktab",
+        "fan":"Matematika",
+        "toifa":"Birinchi toifa",
+        "passport":"AA3987472"
+    },
+    {
+        "surname":"Jumayeva",
+        "name":"Munira",
+        "fathername":"Mirzaqulovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"22-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA3212315"
     }
 ]

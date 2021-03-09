@@ -1380,14 +1380,36 @@
         "passport":"AA3212315"
     },
     {
-        "surname":"Botirova",
-        "name":"Saodat",
-        "fathername":"",
+        "surname":"Cho`tboyeva",
+        "name":"Xurshida",
+        "fathername":"Maxmudovna",
         "viloyat":"Navoiy",
-        "tuman":"Navoiy shahar",
-        "maktab":"17-maktab",
-        "fan":"Musiqa",
-        "toifa":"Ikkinchi toifa",
-        "passport":""
+        "tuman":"Karmana tumani",
+        "maktab":"20-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Birinchi toifa",
+        "passport":"АА6574944"
+    },
+    {
+        "surname":"Tosheva",
+        "name":"Dilnoza",
+        "fathername":"Kadirovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"20-maktab",
+        "fan":"Tarix",
+        "toifa":"Mutaxassis",
+        "passport":"AC1508788"
+    },
+    {
+        "surname":"Abduxoliqova",
+        "name":"Mohira",
+        "fathername":"Abdumo`minovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"2-maktab",
+        "fan":"Ona tili",
+        "toifa":"Mutaxassis",
+        "passport":"AA1681542"
     }
 ]

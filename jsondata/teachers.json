@@ -1411,5 +1411,27 @@
         "fan":"Ona tili",
         "toifa":"Mutaxassis",
         "passport":"AA1681542"
+    },
+    {
+        "surname":"Urisbaeva",
+        "name":"Aynura",
+        "fathername":"Aldamuratovna",
+        "viloyat":"Navoiy",
+        "tuman":"Konimex tumani",
+        "maktab":"27-maktab",
+        "fan":"Tarix",
+        "toifa":"Mutaxassis",
+        "passport":"AA1337975"
+    },
+    {
+        "surname":"Bijanova",
+        "name":"Klara",
+        "fathername":"Shaxbanovna",
+        "viloyat":"Navoiy",
+        "tuman":"Konimex tumani",
+        "maktab":"6-maktab",
+        "fan":"Geografiya",
+        "toifa":"Mutaxassis",
+        "passport":"AA3050093"
     }
 ]

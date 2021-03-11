@@ -1,47 +1,47 @@
 [
     {
-        "surname":"Eshonqulova",
-        "name": "Nilufar",
+        "surname":"Xushboyeva",
+        "name": "Xurshida",
         "fathername":"",
-        "viloyat":"Qashqadaryo",
-        "tuman":"Qarshi shahri",
+        "viloyat":"Samarqand",
+        "tuman":"Paxtachi",
+        "maktab":"6-maktab",
+        "fan":"Matematika",
+        "toifa": "Birinchi toifa",
+        "passport":"AB8329536"
+    },
+    {
+        "surname":"Ismatovaa",
+        "name": "Muazam",
+        "fathername":"Muzafarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Matematika",
+        "toifa": "Ikkinchi toifa",
+        "passport":"AA7622603"
+    },
+    {
+        "surname":"Xudayarova",
+        "name": "Oygul",
+        "fathername":"Mamaraimovna",
+        "viloyat":"Surxondaryo",
+        "tuman":"Termiz shahri",
         "maktab":"9-maktab",
-        "fan":"Boshlang`ich ta`lim",
+        "fan":"Geografiya",
         "toifa": "Ikkinchi toifa",
-        "passport":"AB9170272"
+        "passport":"AB2866447"
     },
     {
-        "surname":"Xasanova",
-        "name": "Xolidaxon",
-        "fathername":"Muxammadovna",
-        "viloyat":"Fargona",
-        "tuman":"Marg`ilon tumani",
-        "maktab":"10-maktab",
-        "fan":"Tarix",
-        "toifa": "Ikkinchi toifa",
-        "passport":"AA6708124"
-    },
-    {
-        "surname":"Isroilova",
-        "name": "Gulzora",
-        "fathername":"Ulug`bekovna",
-        "viloyat":"Fargona",
-        "tuman":"Farg`ona tumani",
-        "maktab":"55-maktab",
-        "fan":"Tarix",
-        "toifa": "Ikkinchi toifa",
-        "passport":""
-    },
-    {
-        "surname":"Maxmudova",
-        "name": "Surayyo",
-        "fathername":"Djamaletdinovna",
+        "surname":"Pulatova",
+        "name": "Nodira",
+        "fathername":"Baxodirovna",
         "viloyat":"Toshkent",
-        "tuman":"Uchtepa tumani",
-        "maktab":"81-maktab",
+        "tuman":"Yangihayot tumani",
+        "maktab":"8-maktab",
         "fan":"Boshlang`ich ta`lim",
-        "toifa": "Ikkinchi toifa",
-        "passport":"AA9101509"
+        "toifa": "Birinchi toifa",
+        "passport":"AA9007840"
     },
     {
         "surname":"Haitmetov",
@@ -77,15 +77,15 @@
         "passport":"AA3939980"
     },
     {
-        "surname":"Shukurova",
-        "name": "Dilorom",
-        "fathername":"Xolmo`minovna",
+        "surname":"Sabirova",
+        "name": "Barnoxon",
+        "fathername":"Ubaydullayevna",
         "viloyat":"Toshkent",
-        "tuman":"Uchtepa tumani",
-        "maktab":"81-maktab",
-        "fan":"Boshlang`ich ta`lim",
+        "tuman":"Toshkent tumani",
+        "maktab":"30-maktab",
+        "fan":"Musiqa",
         "toifa": "Birinchi toifa",
-        "passport":"AA2516519"
+        "passport":"AA1532744"
     },
     {
         "surname":"Abdinazarova",
@@ -281,15 +281,15 @@
         "passport":"AA6475502"
     },
     {
-        "surname":"Allamurodova",
-        "name":"Fazilat",
-        "fathername":"Saydullayevna",
+        "surname":"Mahkamova",
+        "name":"Mohinur",
+        "fathername":"Sharif qizi",
         "viloyat":"Jizzax",
-        "tuman":"Zomin tumani",
-        "maktab":"16-maktab",
+        "tuman":"Gallarol tumani",
+        "maktab":"3-maktab",
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Mutaxassis",
-        "passport":"AB3066745"
+        "passport":"AC2401704"
     },
     {
         "surname":"Xudoyqulova",
@@ -466,17 +466,6 @@
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Birinchi toifa",
         "passport":"AA2914120"
-    },
-    {
-        "surname":"Yusupova",
-        "name":"Mohida",
-        "fathername":"",
-        "viloyat":"Surxondaryo",
-        "tuman":"Termiz shahri",
-        "maktab":"12-maktab",
-        "fan":"Ingliz tili",
-        "toifa":"Mutaxassis",
-        "passport":"AB5538754"
     },
     {
         "surname":"Raxmonova",
@@ -1225,17 +1214,6 @@
         "fan":"Tarix",
         "toifa":"Mutaxassis",
         "passport":"AA5040245"
-    },
-    {
-        "surname":"Xudoyorova",
-        "name":"Oygul",
-        "fathername":"Mamaraimovna",
-        "viloyat":"Surxondaryo",
-        "tuman":"Termiz shahari",
-        "maktab":"9-maktab",
-        "fan":"Geografiya",
-        "toifa":"Ikkinchi toifa",
-        "passport":"AB2866447"
     },
     {
         "surname":"Usmonova",

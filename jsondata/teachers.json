@@ -1387,11 +1387,11 @@
         "tuman":"Karmana tumani",
         "maktab":"20-maktab",
         "fan":"Boshlang`ich ta`lim",
-        "toifa":"Ikkinchi toifa",
+        "toifa":"Mutaxassis",
         "passport":"АА6574944"
     },
     {
-        "surname":"Tosheva",
+        "surname":"Toshova",
         "name":"Dilnoza",
         "fathername":"Kadirovna",
         "viloyat":"Navoiy",
@@ -1433,5 +1433,38 @@
         "fan":"Geografiya",
         "toifa":"Mutaxassis",
         "passport":"AA3050093"
+    },
+    {
+        "surname":"Farmonova",
+        "name":"Dilnavoz",
+        "fathername":"Erkinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana tumani",
+        "maktab":"20-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA1843643"
+    },
+    {
+        "surname":"Na`jimova",
+        "name":"Feruza",
+        "fathername":"Sa`dullayevna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"10-maktab",
+        "fan":"Ingliz tili",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA6690394"
+    },
+    {
+        "surname":"Yo`ldosheva",
+        "name":"Zeboxon",
+        "fathername":"Juraqulovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"10-maktab",
+        "fan":"Ingliz tili",
+        "toifa":"Birinchi toifa",
+        "passport":"AA6269526"
     }
 ]

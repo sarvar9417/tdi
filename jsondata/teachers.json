@@ -1499,7 +1499,26 @@
         "fan":"Informatika",
         "toifa":"Mutaxassis",
         "passport":""
-    }
-
-
-]
+    },
+    {
+        "surname":"Haqnazarova",
+        "name":"Sanjidabonu",
+        "fathername":"Haqnazarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"5-maktab",
+        "fan":"Informatika",
+        "toifa":"Birinchi toifa",
+        "passport":"AB9512051"
+    },
+    {
+        "surname":"Qurbonova",
+        "name":"Nozima",
+        "fathername":"Abdugafforovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navbahor tumani",
+        "maktab":"38-maktab",
+        "fan":"Matematika",
+        "toifa":"Birinchi toifa",
+        "passport":"AA0782780"
+    }]

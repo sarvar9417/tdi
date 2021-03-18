@@ -1,1564 +1,1906 @@
 [
     {
-        "savol":"Kompyuter uchun zarur bo'lgan asosiy qismlar  birikmalarini to`g`ri belgilang?",
-        "A":"Hardware, Software, Brainware",
-        "B":"Monitor, Klaviatura, Tizimli blok",
-        "C":"Hardware, Dasturiy ta'minot",
-        "D":"Nazariy, Amaliy, Umumiy"
+      "savol": "Kompyuter uchun zarur bo'lgan asosiy qismlar  birikmalarini to`g`ri belgilang?",
+      "A": "Hardware, Software, Brainware",
+      "B": "Monitor, Klaviatura, Tizimli blok",
+      "C": "Hardware, Dasturiy ta'minot",
+      "D": "Nazariy, Amaliy, Umumiy"
     },
     {
-        "savol":"Axborot-bu ...",
-        "A":"inson sezgi organlari orqali atrof-muhitdan olingan turli ma'lumotlar",
-        "B":"kompyuter qayta ishlay olmaydigan har qanday turdagi ma'lumot",
-        "C":"ma'lumotlarning bir turga mansub birikmasi",
-        "D":"faqatgina inson sezgi orqanlari orqali qabul qila oladigan ma'lumotlar"
+      "savol": "Axborot-bu ...",
+      "A": "inson sezgi organlari orqali atrof-muhitdan olingan turli ma'lumotlar",
+      "B": "kompyuter qayta ishlay olmaydigan har qanday turdagi ma'lumot",
+      "C": "ma'lumotlarning bir turga mansub birikmasi",
+      "D": "faqatgina inson sezgi orqanlari orqali qabul qila oladigan ma'lumotlar"
     },
     {
-        "savol":"Monitordan foydalanuvchi ko`zigacha bo`lgan masofa qanchani tashkil etishi lozim?",
-        "A":"50-60 sm dan kam bo`lmasligi kerak",
-        "B":"50-60 sm dan oshmasligi kerak",
-        "C":"20 sm tashkil etishi kerak",
-        "D":"90-120 sm oralig`ida bo`lishi kerak"
+      "savol": "Monitordan foydalanuvchi ko`zigacha bo`lgan masofa qanchani tashkil etishi lozim?",
+      "A": "50-60 sm dan kam bo`lmasligi kerak",
+      "B": "50-60 sm dan oshmasligi kerak",
+      "C": "20 sm tashkil etishi kerak",
+      "D": "90-120 sm oralig`ida bo`lishi kerak"
     },
     {
-        "savol":"Informatika faniga berilgan eng to`g`ri ta`rifni belgilang.",
-        "A":"kompyuter va kommunikatsion texnologiyalar yordamida axborotni katta tezlikda izlash, to`plash, qayta ishlash va uzatish usullarini o`rgatuvchi fan",
-        "B":"kompyuter, uning texnik va dasturiy ta`minoti haqida ma`lumot beruvchi fan",
-        "C":"ilm-fan, texnika hamda boshqa sohalarda kompyuter texnikasini qo`llash usullarini o`rgatuvchi fan",
-        "D":"kompyuter texnikasini qo`llash asoslari haqidagi fan"
+      "savol": "Informatika faniga berilgan eng to`g`ri ta`rifni belgilang.",
+      "A": "kompyuter va kommunikatsion texnologiyalar yordamida axborotni katta tezlikda izlash, to`plash, qayta ishlash va uzatish usullarini o`rgatuvchi fan",
+      "B": "kompyuter, uning texnik va dasturiy ta`minoti haqida ma`lumot beruvchi fan",
+      "C": "ilm-fan, texnika hamda boshqa sohalarda kompyuter texnikasini qo`llash usullarini o`rgatuvchi fan",
+      "D": "kompyuter texnikasini qo`llash asoslari haqidagi fan"
     },
     {
-        "savol":"Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
-        "A":"qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, aqliy ta’minot yoki intellekt",
-        "B":"qattiq qism yoki texnik ta’minot, protsessor qurilmasi, aqliy ta’minot yoki intellekt",
-        "C":"qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, OS va uning yordamchi dasturlari",
-        "D":"texnik ta’minot, dasturiy ta’minot, grafik ta’minot"
+      "savol": "Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
+      "A": "qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, aqliy ta’minot yoki intellekt",
+      "B": "qattiq qism yoki texnik ta’minot, protsessor qurilmasi, aqliy ta’minot yoki intellekt",
+      "C": "qattiq qism yoki texnik ta’minot, yumshoq qism yoki dasturiy ta’minot, OS va uning yordamchi dasturlari",
+      "D": "texnik ta’minot, dasturiy ta’minot, grafik ta’minot"
     },
     {
-        "savol":"Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
-        "A":"Hardware, Software, Brainware",
-        "B":"Hardware, Software",
-        "C":"Asosiy va qo`shimcha qurilmalar",
-        "D":"Asosiy va qo`shimcha qurilmalar va dasturiy ta`minot"
+      "savol": "Kompyuter qanday asosiy qismlar birligi sifatida qaraladi?",
+      "A": "Hardware, Software, Brainware",
+      "B": "Hardware, Software",
+      "C": "Asosiy va qo`shimcha qurilmalar",
+      "D": "Asosiy va qo`shimcha qurilmalar va dasturiy ta`minot"
     },
     {
-        "savol":"Insonning asosiy sezgi retseptorlari to`g`ri va to`liq berilgan javobni aniqlang.",
-        "A":"Ko`rish, eshitish, ta`m bilish, hid bilish, teri sezgisi",
-        "B":"Ko`rish, eshitish, ta`m bilish, teri sezgisi",
-        "C":"Ko`z, quloq, burun, til",
-        "D":"Ko`z, quloq, burun, qo`l va oyoqlar"
+      "savol": "Insonning asosiy sezgi retseptorlari to`g`ri va to`liq berilgan javobni aniqlang.",
+      "A": "Ko`rish, eshitish, ta`m bilish, hid bilish, teri sezgisi",
+      "B": "Ko`rish, eshitish, ta`m bilish, teri sezgisi",
+      "C": "Ko`z, quloq, burun, til",
+      "D": "Ko`z, quloq, burun, qo`l va oyoqlar"
     },
     {
-        "savol":"Inson axborotlarning ... % ni ko`rish orqali qabul qiladi.",
-        "A":"90",
-        "B":"9",
-        "C":"1",
-        "D":"10"
+      "savol": "Inson axborotlarning ... % ni ko`rish orqali qabul qiladi.",
+      "A": "90",
+      "B": "9",
+      "C": "1",
+      "D": "10"
     },
     {
-        "savol":"Inson axborotlarning ... % ni eshitish orqali qabul qiladi.",
-        "A":"9",
-        "B":"90",
-        "C":"1",
-        "D":"80"
+      "savol": "Inson axborotlarning ... % ni eshitish orqali qabul qiladi.",
+      "A": "9",
+      "B": "90",
+      "C": "1",
+      "D": "80"
     },
     {
-        "savol":"Axborot bu - ... .",
-        "A":"inson sezgi organlari orqali atrof-muhitdan olingan turli ma’lumotlar",
-        "B":"insonlar atrof muhitga tarqatadigan xabarlar",
-        "C":"televideniya orqali yetkaziladigan ma`lumotlar",
-        "D":"ma`lumotlarning bog`langan shakli"
+      "savol": "Axborot bu - ... .",
+      "A": "inson sezgi organlari orqali atrof-muhitdan olingan turli ma’lumotlar",
+      "B": "insonlar atrof muhitga tarqatadigan xabarlar",
+      "C": "televideniya orqali yetkaziladigan ma`lumotlar",
+      "D": "ma`lumotlarning bog`langan shakli"
     },
     {
-        "savol":"... bu - inson faoliyatining turli sohalarida axborotlarni izlash, to`plash, saqlash, qayta ishlash va uzatish jarayonida ishlatiladigan usullar va texnik vositalar",
-        "A":"Axborot texnologiyalari",
-        "B":"Internet",
-        "C":"Kompyuter",
-        "D":"Aloqa vositalari"
+      "savol": "... bu - inson faoliyatining turli sohalarida axborotlarni izlash, to`plash, saqlash, qayta ishlash va uzatish jarayonida ishlatiladigan usullar va texnik vositalar",
+      "A": "Axborot texnologiyalari",
+      "B": "Internet",
+      "C": "Kompyuter",
+      "D": "Aloqa vositalari"
     },
     {
-        "savol":"Informatika faniga qachon asos solingan?",
-        "A":"XX asrning 50-yillarida",
-        "B":"XX asrning 40-yillarida",
-        "C":"1946-yilda",
-        "D":"1977-yillarda"
+      "savol": "Informatika faniga qachon asos solingan?",
+      "A": "XX asrning 50-yillarida",
+      "B": "XX asrning 40-yillarida",
+      "C": "1946-yilda",
+      "D": "1977-yillarda"
     },
     {
-        "savol":"Informatika atamasi Fransuzcha qanday so`zlarning birikmasidan tashkil topgan?",
-        "A":"Informatique+Automatique",
-        "B":"Information+Automatique",
-        "C":"Information+Automatics",
-        "D":"Informatique+Automatics"
+      "savol": "Informatika atamasi Fransuzcha qanday so`zlarning birikmasidan tashkil topgan?",
+      "A": "Informatique+Automatique",
+      "B": "Information+Automatique",
+      "C": "Information+Automatics",
+      "D": "Informatique+Automatics"
     },
     {
-        "savol":"Informatika uchun asosiy ashyo nima?",
-        "A":"Axborot",
-        "B":"Kompyuter",
-        "C":"Inson",
-        "D":"Xotira"
+      "savol": "Informatika uchun asosiy ashyo nima?",
+      "A": "Axborot",
+      "B": "Kompyuter",
+      "C": "Inson",
+      "D": "Xotira"
     },
     {
-        "savol":"Maxsus belgilar yordamida axborotni bir ko`rinishdan boshqa qulayroq ko`rinishga o`tkazish jarayoni qanday ataladi",
-        "A":"Kodlash",
-        "B":"Shifrlash",
-        "C":"Arxivlash",
-        "D":"Uzatish"
+      "savol": "Maxsus belgilar yordamida axborotni bir ko`rinishdan boshqa qulayroq ko`rinishga o`tkazish jarayoni qanday ataladi",
+      "A": "Kodlash",
+      "B": "Shifrlash",
+      "C": "Arxivlash",
+      "D": "Uzatish"
     },
     {
-        "savol":"Axborotni bir ko`rinishdan ikkinchi ko`rinishga o`tkazish jarayoni qanday ataldi?",
-        "A":"Kodlash",
-        "B":"Shifrlash",
-        "C":"Arxivlash",
-        "D":"Uzatish"
+      "savol": "Axborotni bir ko`rinishdan ikkinchi ko`rinishga o`tkazish jarayoni qanday ataldi?",
+      "A": "Kodlash",
+      "B": "Shifrlash",
+      "C": "Arxivlash",
+      "D": "Uzatish"
     },
     {
-        "savol":"Dekodlash jarayoni qanday jarayon?",
-        "A":"Kodlangan axborotni asl holiga qaytarish jarayoni",
-        "B":"Axborotni maxfiy saqlash uchun kodlash jarayoni",
-        "C":"Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
-        "D":"Kodlangan axborotni buzish jarayoni"
+      "savol": "Dekodlash jarayoni qanday jarayon?",
+      "A": "Kodlangan axborotni asl holiga qaytarish jarayoni",
+      "B": "Axborotni maxfiy saqlash uchun kodlash jarayoni",
+      "C": "Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
+      "D": "Kodlangan axborotni buzish jarayoni"
     },
     {
-        "savol":"Shifrlash jarayoniga berilgan to`g`ri ta`rifni ko`rsating.",
-        "B":"Kodlangan axborotni asl holiga qaytarish jarayoni",
-        "A":"Axborotni maxfiy saqlash uchun kodlash jarayoni",
-        "C":"Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
-        "D":"Kodlangan axborotni buzish jarayoni"
+      "savol": "Shifrlash jarayoniga berilgan to`g`ri ta`rifni ko`rsating.",
+      "B": "Kodlangan axborotni asl holiga qaytarish jarayoni",
+      "A": "Axborotni maxfiy saqlash uchun kodlash jarayoni",
+      "C": "Axborotni maxfiyligini oshirish uchun qayta kodlash jarayoni",
+      "D": "Kodlangan axborotni buzish jarayoni"
     },
     {
-        "savol":"Shifrlash usullarni bilan shug`ullanuvchi fan qanday ataladi?",
-        "A":"Kriptografiya",
-        "B":"Kibernetika",
-        "C":"Informatika",
-        "D":"Infografika"
+      "savol": "Shifrlash usullarni bilan shug`ullanuvchi fan qanday ataladi?",
+      "A": "Kriptografiya",
+      "B": "Kibernetika",
+      "C": "Informatika",
+      "D": "Infografika"
     },
     {
-        "savol":"Monitorlarning vazifasi axborotlarni ... iboratdir",
-        "A":"uzatishdan",
-        "B":"qabul qilishdan",
-        "C":"qayta ishlashdan",
-        "D":"saqlashdan"
+      "savol": "Monitorlarning vazifasi axborotlarni ... iboratdir",
+      "A": "uzatishdan",
+      "B": "qabul qilishdan",
+      "C": "qayta ishlashdan",
+      "D": "saqlashdan"
     },
     {
-        "savol":"Protsessorning vazifasi axborotlarni ... iboratdir.",
-        "A":"qayta ishlashdan",
-        "B":"uzatishdan",
-        "C":"saqlashdan",
-        "D":"qabul qilishdan"
+      "savol": "Protsessorning vazifasi axborotlarni ... iboratdir.",
+      "A": "qayta ishlashdan",
+      "B": "uzatishdan",
+      "C": "saqlashdan",
+      "D": "qabul qilishdan"
     },
     {
-        "savol":"Nuqta(.) va tire(-) lardan foydalangan holda kodlash usuli qanday ataladi?",
-        "A":"Morze kodlash usuli",
-        "B":"Lisandro kodlash usuli",
-        "C":"Sezar kodlash usuli",
-        "D":"o`rin almashtirish usuli"
+      "savol": "Nuqta(.) va tire(-) lardan foydalangan holda kodlash usuli qanday ataladi?",
+      "A": "Morze kodlash usuli",
+      "B": "Lisandro kodlash usuli",
+      "C": "Sezar kodlash usuli",
+      "D": "o`rin almashtirish usuli"
     },
     {
-        "savol":"Kodlashning asosiy usullarni nechta",
-        "A":"3 ta",
-        "B":"2 ta",
-        "C":"4 ta",
-        "D":"5 ta"
+      "savol": "Kodlashning asosiy usullarni nechta",
+      "A": "3 ta",
+      "B": "2 ta",
+      "C": "4 ta",
+      "D": "5 ta"
     },
     {
-        "savol":"Kodlashning asosiy usullari berilgan qatorni aniqlang.",
-        "A":"Raqamli kodlash, belgili kodlash, grafik kodlash",
-        "B":"O`rin almashtirish, alifboni surish",
-        "C":"O`rin almashtirish, alifboni surish, Morze kodlash usuli",
-        "D":"Shifrlash va deshifrlash"
+      "savol": "Kodlashning asosiy usullari berilgan qatorni aniqlang.",
+      "A": "Raqamli kodlash, belgili kodlash, grafik kodlash",
+      "B": "O`rin almashtirish, alifboni surish",
+      "C": "O`rin almashtirish, alifboni surish, Morze kodlash usuli",
+      "D": "Shifrlash va deshifrlash"
     },
     {
-        "savol":"Yuliy Sezar axorotlarni maxfiy saqlashda kodlashnig qanday turidan foydalangan?",
-        "A":"Alifboni surish",
-        "B":"O`rin almashtirish",
-        "C":"Morze kodlash usulidn",
-        "D":"O`rniga qo`yish"
+      "savol": "Yuliy Sezar axorotlarni maxfiy saqlashda kodlashnig qanday turidan foydalangan?",
+      "A": "Alifboni surish",
+      "B": "O`rin almashtirish",
+      "C": "Morze kodlash usulidn",
+      "D": "O`rniga qo`yish"
     },
     {
-        "savol":"Binar sonlarga qanday belgilar kiradi",
-        "A":"1 va 0 raqamlari",
-        "B":"0 dan 9 gacha bo`lgan raqamlar",
-        "C":"0 dan 9gacha raqamlar va A, B, C, D, F harflari",
-        "D":"Alifbo harflari"
+      "savol": "Binar sonlarga qanday belgilar kiradi",
+      "A": "1 va 0 raqamlari",
+      "B": "0 dan 9 gacha bo`lgan raqamlar",
+      "C": "0 dan 9gacha raqamlar va A, B, C, D, F harflari",
+      "D": "Alifbo harflari"
     },
     {
-        "savol":"Axborot o`lchov birligining kompyuter xotirasidagi eng kichik o`lchov birligi qanday ataladi?",
-        "A":"bit",
-        "B":"bayt",
-        "C":"kilobayt",
-        "D":"petabayt"
+      "savol": "Axborot o`lchov birligining kompyuter xotirasidagi eng kichik o`lchov birligi qanday ataladi?",
+      "A": "bit",
+      "B": "bayt",
+      "C": "kilobayt",
+      "D": "petabayt"
     },
     {
-        "savol":"Kompyuter xotirasidagi 4 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
-        "A":"16 ta",
-        "B":"4 ta",
-        "C":"32 ta",
-        "D":"2 ta"
+      "savol": "Kompyuter xotirasidagi 4 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
+      "A": "16 ta",
+      "B": "4 ta",
+      "C": "32 ta",
+      "D": "2 ta"
     },
     {
-        "savol":"Rarzryad atamasi nimani ifodalaydi?",
-        "A":"kompyuter xotirasidagi bir bitni",
-        "B":"0 dan 9 gacha bo`lgan biror raqamni",
-        "C":"alifbo harflarni",
-        "D":"ASCII jadvalidagi belgilarni"
+      "savol": "Rarzryad atamasi nimani ifodalaydi?",
+      "A": "kompyuter xotirasidagi bir bitni",
+      "B": "0 dan 9 gacha bo`lgan biror raqamni",
+      "C": "alifbo harflarni",
+      "D": "ASCII jadvalidagi belgilarni"
     },
     {
-        "savol":"Kompyuter xotirasidagi 8 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
-        "A":"256 ta",
-        "B":"258 ta",
-        "C":"8 ta",
-        "D":"1024 ta"
+      "savol": "Kompyuter xotirasidagi 8 bit hajm bilan nechta turli xil kodlashlarni amalga oshirish mumkin?",
+      "A": "256 ta",
+      "B": "258 ta",
+      "C": "8 ta",
+      "D": "1024 ta"
     },
     {
-        "savol":"1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 2 xonali sonlarni yozish mumkin",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"4 ta",
-        "D":"9 ta"
+      "savol": "1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 2 xonali sonlarni yozish mumkin",
+      "A": "6 ta",
+      "B": "3 ta",
+      "C": "4 ta",
+      "D": "9 ta"
     },
     {
-        "savol":"1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 3 xonali sonlarni yozish mumkin",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"4 ta",
-        "D":"9 ta"
+      "savol": "1, 7, 6 raqamlari yordamida raqamlarni takrorlamasdan nechta 3 xonali sonlarni yozish mumkin",
+      "A": "6 ta",
+      "B": "3 ta",
+      "C": "4 ta",
+      "D": "9 ta"
     },
     {
-        "savol":"Maxfiy kodli kalitni ochish uchun jinoyatchiga kodning 3, 7, 9 raqamlari ma’lum. Lekin u kod kombinatsiyasini eslab qolmagan. Kalitni ochish uchun jinoyatchi qancha kombinatsiyani tekshirib ko`rishi kerak?",
-        "A":"6 ta",
-        "B":"3 ta",
-        "C":"2 ta",
-        "D":"5 ta"
+      "savol": "Maxfiy kodli kalitni ochish uchun jinoyatchiga kodning 3, 7, 9 raqamlari ma’lum. Lekin u kod kombinatsiyasini eslab qolmagan. Kalitni ochish uchun jinoyatchi qancha kombinatsiyani tekshirib ko`rishi kerak?",
+      "A": "6 ta",
+      "B": "3 ta",
+      "C": "2 ta",
+      "D": "5 ta"
     },
     {
-        "savol":"Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
-        "A":"6 xil",
-        "B":"3 xil",
-        "C":"5 xil",
-        "D":"4 xil"
+      "savol": "Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
+      "A": "6 xil",
+      "B": "3 xil",
+      "C": "5 xil",
+      "D": "4 xil"
     },
     {
-        "savol":"Olim, Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
-        "A":"24 xil",
-        "B":"125 xil",
-        "C":"16 xil",
-        "D":"6 xil"
+      "savol": "Olim, Anvar, Karim, Lola, Go`zal va Botir she`r aytish bo`yicha musobaqada qatnashdi. Agar Botir birinchi bo`lib, Lola esa Botirdan keyin she’r aytsa, qolgan bolalar nechta xil ketma-ketlikda chiqishlari mumkin?",
+      "A": "24 xil",
+      "B": "125 xil",
+      "C": "16 xil",
+      "D": "6 xil"
     },
     {
-        "savol":"Qayiqda suzish bo`yicha musobaqada qatnashish uchun bir nechta jamoa tayyorgarlik ko`rdi. Hakamlar hay’ati a’zolari musobaqa paytida jamoalarni adashtirib qo`ymaslik uchun yelkanlarni turli ranglarga bo`yashni maslahat berishdi. Agar har bir qayiqda 3tadan yelkan bo`lib yelkanlar faqatgina qizil, yashil, ko`k ranglarda bo`yalgan bo`lsa, musobaqada nechta jamoa ishtirok etgan?",
-        "A":"6 ta",
-        "B":"8 ta",
-        "C":"4 ta",
-        "D":"3 ta"
+      "savol": "Qayiqda suzish bo`yicha musobaqada qatnashish uchun bir nechta jamoa tayyorgarlik ko`rdi. Hakamlar hay’ati a’zolari musobaqa paytida jamoalarni adashtirib qo`ymaslik uchun yelkanlarni turli ranglarga bo`yashni maslahat berishdi. Agar har bir qayiqda 3tadan yelkan bo`lib yelkanlar faqatgina qizil, yashil, ko`k ranglarda bo`yalgan bo`lsa, musobaqada nechta jamoa ishtirok etgan?",
+      "A": "6 ta",
+      "B": "8 ta",
+      "C": "4 ta",
+      "D": "3 ta"
     },
     {
-        "savol":"Kompyuter xotirasidagi ma’lumotlarni qog`ozga chop etib beruvchi qurilma  qanday ataladi?",
-        "A":"Printer",
-        "B":"Skaner",
-        "C":"Web kamera",
-        "D":"Monitor"
+      "savol": "Kompyuter xotirasidagi ma’lumotlarni qog`ozga chop etib beruvchi qurilma  qanday ataladi?",
+      "A": "Printer",
+      "B": "Skaner",
+      "C": "Web kamera",
+      "D": "Monitor"
     },
     {
-        "savol":"Printer qurilmalarning qanday turlari mavjud?",
-        "A":"Purkagichli, lazerli, matritsali",
-        "B":"Purkagichli, matritsali, nusxalovchi",
-        "C":"Lazerli va pukagichli",
-        "D":"Rangli va rangsiz"
+      "savol": "Printer qurilmalarning qanday turlari mavjud?",
+      "A": "Purkagichli, lazerli, matritsali",
+      "B": "Purkagichli, matritsali, nusxalovchi",
+      "C": "Lazerli va pukagichli",
+      "D": "Rangli va rangsiz"
     },
     {
-        "savol":"Qog`ozdagi matn yoki tasvirni kompyuter xotirasiga kirituvchi qurilma qanday nomlanadi?",
-        "A":"Skaner",
-        "B":"Printer",
-        "C":"Monitor",
-        "D":"CPU"
+      "savol": "Qog`ozdagi matn yoki tasvirni kompyuter xotirasiga kirituvchi qurilma qanday nomlanadi?",
+      "A": "Skaner",
+      "B": "Printer",
+      "C": "Monitor",
+      "D": "CPU"
     },
     {
-        "savol":"Ekranning joriy holarini bufer xotiraga olish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi?",
-        "A":"PrtSc/SysRq",
-        "B":"Ctrl+C",
-        "C":"Insert",
-        "D":"Ctrl+P"
+      "savol": "Ekranning joriy holarini bufer xotiraga olish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi?",
+      "A": "PrtSc/SysRq",
+      "B": "Ctrl+C",
+      "C": "Insert",
+      "D": "Ctrl+P"
     },
     {
-        "savol":"Interfeys nima?",
-        "A":"Dasturning ekrandagi ko`rinishi",
-        "B":"Dasturning boshqarish menyulari",
-        "C":"Kompyuterlarning dasturiy ta`minoti",
-        "D":"Operatsion sistemani boshqaruvchi dastur"
+      "savol": "Interfeys nima?",
+      "A": "Dasturning ekrandagi ko`rinishi",
+      "B": "Dasturning boshqarish menyulari",
+      "C": "Kompyuterlarning dasturiy ta`minoti",
+      "D": "Operatsion sistemani boshqaruvchi dastur"
     },
     {
-        "savol":"Faqatgina operatsion sistemalar berilgan javobni aniqlang.",
-        "A":"Linux, Unix, MacOS, Windows, DOS",
-        "B":"MS Office, Windows, Linux",
-        "C":"Paint.Net, MS Office, NOD32",
-        "D":"Linux, Unix, MS Office"
+      "savol": "Faqatgina operatsion sistemalar berilgan javobni aniqlang.",
+      "A": "Linux, Unix, MacOS, Windows, DOS",
+      "B": "MS Office, Windows, Linux",
+      "C": "Paint.Net, MS Office, NOD32",
+      "D": "Linux, Unix, MS Office"
     },
     {
-        "savol":"Windows OS nig birinchi naqli qachon ishlab chqilgan?",
-        "A":"1985-yilda",
-        "B":"1994-yilda",
-        "C":"1993-yilda",
-        "D":"2012-yilda"
+      "savol": "Windows OS nig birinchi naqli qachon ishlab chqilgan?",
+      "A": "1985-yilda",
+      "B": "1994-yilda",
+      "C": "1993-yilda",
+      "D": "2012-yilda"
     },
     {
-        "savol":"Google koorporatsiyasi tomonidan ishlab chiqilgan OT berilgan javobni aniqlang.",
-        "A":"Android",
-        "B":"Windows",
-        "C":"iOS",
-        "D":"iMac"
+      "savol": "Google koorporatsiyasi tomonidan ishlab chiqilgan OT berilgan javobni aniqlang.",
+      "A": "Android",
+      "B": "Windows",
+      "C": "iOS",
+      "D": "iMac"
     },
     {
-        "savol":"iPhone va iPad qurilmalari uchun ishlab chiqilgan OT ni ko`rsating",
-        "A":"iOS",
-        "B":"Windows",
-        "C":"Android",
-        "D":"iMac"
+      "savol": "iPhone va iPad qurilmalari uchun ishlab chiqilgan OT ni ko`rsating",
+      "A": "iOS",
+      "B": "Windows",
+      "C": "Android",
+      "D": "iMac"
     },
     {
-        "savol":"Bloknot dasturida yaratilgan fayllar qanday kengaytmada bo'ladi?",
-        "A":".txt",
-        "B":".docx",
-        "C":".bmp",
-        "D":".accdb"
+      "savol": "Bloknot dasturida yaratilgan fayllar qanday kengaytmada bo'ladi?",
+      "A": ".txt",
+      "B": ".docx",
+      "C": ".bmp",
+      "D": ".accdb"
     },
     {
-        "savol":"Ma'lumotlar kompyuterda qanday ko'rinishda saqlanadi?",
-        "A":"fayllar ko'rinishida",
-        "B":"papkalar ko'rinishida",
-        "C":"matn ko'rinishida",
-        "D":"garfik ko'rinishda"
+      "savol": "Ma'lumotlar kompyuterda qanday ko'rinishda saqlanadi?",
+      "A": "fayllar ko'rinishida",
+      "B": "papkalar ko'rinishida",
+      "C": "matn ko'rinishida",
+      "D": "garfik ko'rinishda"
     },
     {
-        "savol":".accdb kengaymali fayllar qaysi dastur yordamida hosil qilinadi?",
-        "D":"MS Word",
-        "B":"MS Excel",
-        "C":"Photoshop",
-        "A":"MS Accsess"
+      "savol": ".accdb kengaymali fayllar qaysi dastur yordamida hosil qilinadi?",
+      "D": "MS Word",
+      "B": "MS Excel",
+      "C": "Photoshop",
+      "A": "MS Accsess"
     },
     {
-        "savol":"Quyidagi ko'rsatilgan javoblardan qaysi biri MS Office dasturlar paketiga kirmaydi?",
-        "A":"Photoshop",
-        "B":"Excel",
-        "C":"Publisher",
-        "D":"Outlook"
+      "savol": "Quyidagi ko'rsatilgan javoblardan qaysi biri MS Office dasturlar paketiga kirmaydi?",
+      "A": "Photoshop",
+      "B": "Excel",
+      "C": "Publisher",
+      "D": "Outlook"
     },
     {
-        "savol":"Sizda ikkita gap bor. <br> 1. 2-gap rost <br>  2. 1-gap yolg'on <br> Bu ikkita gapning qaysi biri rost, yolg'onligini aniq bilmaysiz, lekin mantiqan o'ylab ko'rib 1-gapni rost yoki yolg'onligini toping!",
-        "A":"aniqlab bo'lamaydi",
-        "B":"rost",
-        "C":"yolg'on",
-        "D":"malohazalar to'liq emas"
+      "savol": "Sizda ikkita gap bor. <br> 1. 2-gap rost <br>  2. 1-gap yolg'on <br> Bu ikkita gapning qaysi biri rost, yolg'onligini aniq bilmaysiz, lekin mantiqan o'ylab ko'rib 1-gapni rost yoki yolg'onligini toping!",
+      "A": "aniqlab bo'lamaydi",
+      "B": "rost",
+      "C": "yolg'on",
+      "D": "malohazalar to'liq emas"
     },
     {
-        "savol":"Siz xazinalar oroliga tushib qoldingiz va u yerda 3 ta sandiqqa duch keldingiz. Ularning birida xazina yashiringan va ularning har birida quyidagicha yozuvlar bor. <br>   1. Xazina shu sandiqda <br> 2. Xazina bu sandiqda emas <br> 3. Xazina 1-sandiqda emas <br> Siz bilasizki, bu gaplarning yoki hammasi yolg'on, yoki faqat bittasi rost. Xazina qaysi sandiqda ekanligini toping. ",
-        "A":"2-sandiqda",
-        "B":"1-sandiqda",
-        "C":"3-sandiqda",
-        "D":"xazina mavjud emas"
+      "savol": "Siz xazinalar oroliga tushib qoldingiz va u yerda 3 ta sandiqqa duch keldingiz. Ularning birida xazina yashiringan va ularning har birida quyidagicha yozuvlar bor. <br>   1. Xazina shu sandiqda <br> 2. Xazina bu sandiqda emas <br> 3. Xazina 1-sandiqda emas <br> Siz bilasizki, bu gaplarning yoki hammasi yolg'on, yoki faqat bittasi rost. Xazina qaysi sandiqda ekanligini toping. ",
+      "A": "2-sandiqda",
+      "B": "1-sandiqda",
+      "C": "3-sandiqda",
+      "D": "xazina mavjud emas"
     },
     {
-        "savol":"Ritsarlar va Jokerlar orolida Ritsarlar faqat rost, Jokerlar faqat yolg'on gapirishadi. Siz orolda ikkita odamni uchratdingiz: A va B. Ular sizga shunday deyishdi: <br> A: \"B joker\" <br> B: \"A ham, men ham joker emasman\" <br> Ular birini kim ekanligini yaxshi bilishadi. Yuqoridagi gaplardan foydalanib, ularning qaysi biri Ritsar, qaysi biri Joker ekanligini aniqlang.",
-        "A":"A-ritsar, B-Joker",
-        "B":"A-Joker, B-Ritsar",
-        "C":"Ikkalasi ham Ritsar",
-        "D":"Ikkalasi ham Joker"
+      "savol": "Ritsarlar va Jokerlar orolida Ritsarlar faqat rost, Jokerlar faqat yolg'on gapirishadi. Siz orolda ikkita odamni uchratdingiz: A va B. Ular sizga shunday deyishdi: <br> A: \"B joker\" <br> B: \"A ham, men ham joker emasman\" <br> Ular birini kim ekanligini yaxshi bilishadi. Yuqoridagi gaplardan foydalanib, ularning qaysi biri Ritsar, qaysi biri Joker ekanligini aniqlang.",
+      "A": "A-ritsar, B-Joker",
+      "B": "A-Joker, B-Ritsar",
+      "C": "Ikkalasi ham Ritsar",
+      "D": "Ikkalasi ham Joker"
     },
     {
-        "savol":"Modemning tezligi 8388608 bit/sekund bo`lsa, 1 Megabayt axborotni qancha vaqtda uzata oladi?",
-        "A":"1 sekund",
-        "B":"1 soat",
-        "C":"0.1 soat",
-        "D":"100 min"
+      "savol": "Modemning tezligi 8388608 bit/sekund bo`lsa, 1 Megabayt axborotni qancha vaqtda uzata oladi?",
+      "A": "1 sekund",
+      "B": "1 soat",
+      "C": "0.1 soat",
+      "D": "100 min"
     },
     {
-        "savol":"MS Word dasturida qat'iy probel qanday klavishlar majmuasi yordamida qo'yiladi?",
-        "A":"Ctrl+Shift+Probel",
-        "B":"Alt+Shift+Probel",
-        "C":"Ctrl+Alt+(-)",
-        "D":"Ctrl+Alt+Probel"
+      "savol": "MS Word dasturida qat'iy probel qanday klavishlar majmuasi yordamida qo'yiladi?",
+      "A": "Ctrl+Shift+Probel",
+      "B": "Alt+Shift+Probel",
+      "C": "Ctrl+Alt+(-)",
+      "D": "Ctrl+Alt+Probel"
     },
     {
-        "savol":"MS Word dasturida hujjatlarga o'zgartirish kiritish jarayoni qanday ataladi?",
-        "A":"tahrirlash",
-        "B":"formatlash",
-        "C":"yaratish",
-        "D":"nusxalash"
+      "savol": "MS Word dasturida hujjatlarga o'zgartirish kiritish jarayoni qanday ataladi?",
+      "A": "tahrirlash",
+      "B": "formatlash",
+      "C": "yaratish",
+      "D": "nusxalash"
     },
     {
-        "savol":"MS Word dasturida matnning tashqi ko'rinishini o'zgartirish amallari qanday ataladi",
-        "A":"formatlash",
-        "B":"tahrirlash",
-        "C":"nusxa olish",
-        "D":"shifrlash"
+      "savol": "MS Word dasturida matnning tashqi ko'rinishini o'zgartirish amallari qanday ataladi",
+      "A": "formatlash",
+      "B": "tahrirlash",
+      "C": "nusxa olish",
+      "D": "shifrlash"
     },
     {
-        "savol":"Kompyuterda fayl yoki papka nomlari ... tadan oshmaydigan belgilar ketma ketligidan iborat bo'ladi?",
-        "A":"255",
-        "B":"5-6",
-        "C":"3-4",
-        "D":"100"
+      "savol": "Kompyuterda fayl yoki papka nomlari ... tadan oshmaydigan belgilar ketma ketligidan iborat bo'ladi?",
+      "A": "255",
+      "B": "5-6",
+      "C": "3-4",
+      "D": "100"
     },
     {
-        "savol":"\"Axborot tizimi\" nima?",
-        "A":"belgilangan maqsadga erishish uchun axborotlarni uzatish , qayta ishlash va saqlash uchun qo`llaniladigan usullar, shaxslar va vositalarning o`zaro bog`langan shakli",
-        "B":"axborotlarni bir ko`rinishdan ikkinchi mutlaqo yangi ko`rinishga keltiruvchi ma'lumotlarni to`plash, qayta ishlash va uzatishning vosita va usullari majmuasidan foydalanish jarayonidir",
-        "C":"qo`yilayotgan maqsadga erishish borasida barcha harakatlar yig`indisi",
-        "D":"kompyuterning barcha asosiy va qo`shimcha qurilmalarining yig`indisi"
+      "savol": "\"Axborot tizimi\" nima?",
+      "A": "belgilangan maqsadga erishish uchun axborotlarni uzatish , qayta ishlash va saqlash uchun qo`llaniladigan usullar, shaxslar va vositalarning o`zaro bog`langan shakli",
+      "B": "axborotlarni bir ko`rinishdan ikkinchi mutlaqo yangi ko`rinishga keltiruvchi ma'lumotlarni to`plash, qayta ishlash va uzatishning vosita va usullari majmuasidan foydalanish jarayonidir",
+      "C": "qo`yilayotgan maqsadga erishish borasida barcha harakatlar yig`indisi",
+      "D": "kompyuterning barcha asosiy va qo`shimcha qurilmalarining yig`indisi"
     },
     {
-        "savol":"Informatika o`rganadigan asosiy ashyoni aniqlang.",
-        "A":"axborot",
-        "B":"dastur",
-        "C":"kompyuter",
-        "D":"algoritm"
+      "savol": "Informatika o`rganadigan asosiy ashyoni aniqlang.",
+      "A": "axborot",
+      "B": "dastur",
+      "C": "kompyuter",
+      "D": "algoritm"
     },
     {
-        "savol":"Axborotga oid bit atamasi qanday so`z yoki so`zlardan hosil qilingan?",
-        "C":"bitmap",
-        "B":"bigenners information technology",
-        "A":"binary digit",
-        "D":"bank information technology"
+      "savol": "Axborotga oid bit atamasi qanday so`z yoki so`zlardan hosil qilingan?",
+      "C": "bitmap",
+      "B": "bigenners information technology",
+      "A": "binary digit",
+      "D": "bank information technology"
     },
     {
-        "savol":"Disk va fleshkalar ma’lumotlarni … uchun xizmat qiladi.",
-        "A":"saqlash",
-        "B":"uzatish",
-        "C":"izlash",
-        "D":"qayta ishlash"
+      "savol": "Disk va fleshkalar ma’lumotlarni … uchun xizmat qiladi.",
+      "A": "saqlash",
+      "B": "uzatish",
+      "C": "izlash",
+      "D": "qayta ishlash"
     },
     {
-        "savol":"Kodlashning ''Alifboni surish usuli''dan birinchi bo`lib foydalangan shaxs nomi to'g'ri berilgan qatorni aniqlang.",
-        "A":"Yuliy Sezar",
-        "B":"Lisandro",
-        "C":"Samuel Morze",
-        "D":"Al-Farobiy"
+      "savol": "Kodlashning ''Alifboni surish usuli''dan birinchi bo`lib foydalangan shaxs nomi to'g'ri berilgan qatorni aniqlang.",
+      "A": "Yuliy Sezar",
+      "B": "Lisandro",
+      "C": "Samuel Morze",
+      "D": "Al-Farobiy"
     },
     {
-        "savol":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish qanday ataladi",
-        "A":"SMM",
-        "B":"LMS",
-        "C":"CMS",
-        "D":"CMM"
+      "savol": "Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish qanday ataladi",
+      "A": "SMM",
+      "B": "LMS",
+      "C": "CMS",
+      "D": "CMM"
     },
     {
-        "savol":"Ijmoiy media nima?",
-        "A":"Ko‘plab faol foydalanuvchilarga ega internet platforma.",
-        "B":"Marketing faoliyatini amalga oshirish mumkin bo'lgan web sayt",
-        "C":"Bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
-        "D":"o‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi “o‘zak dastur"
+      "savol": "Ijmoiy media nima?",
+      "A": "Ko‘plab faol foydalanuvchilarga ega internet platforma.",
+      "B": "Marketing faoliyatini amalga oshirish mumkin bo'lgan web sayt",
+      "C": "Bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+      "D": "o‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi “o‘zak dastur"
     },
     {
-        "savol":"SMM nima?",
-        "A":"Marketing faoliyatining ijtimoiy mediada amalga oshirilishi",
-        "B":"Ijtimoiy tarmoqlar boshqaruvchisi",
-        "C":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
-        "D":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir"
+      "savol": "SMM nima?",
+      "A": "Marketing faoliyatining ijtimoiy mediada amalga oshirilishi",
+      "B": "Ijtimoiy tarmoqlar boshqaruvchisi",
+      "C": "Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+      "D": "Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir"
     },
     {
-        "savol":"Kontent nima?",
-        "A":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
-        "B":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
-        "C":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish faoliyati",
-        "D":"Ko‘plab faol foydalanuvchilarga ega internet platforma"
+      "savol": "Kontent nima?",
+      "A": "Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+      "B": "Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+      "C": "Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish faoliyati",
+      "D": "Ko‘plab faol foydalanuvchilarga ega internet platforma"
     },
     {
-        "savol":"SMM da mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli         yuqori bo‘lgan shaxslar",
-        "A":"Maqsadli auditoriya",
-        "B":"Kontent",
-        "C":"Platforma",
-        "D":"Brend"
+      "savol": "SMM da mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli         yuqori bo‘lgan shaxslar",
+      "A": "Maqsadli auditoriya",
+      "B": "Kontent",
+      "C": "Platforma",
+      "D": "Brend"
     },
     {
-        "savol":"Brend nima?",
-        "A":"bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
-        "B":"maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
-        "C":"ko‘plab faol foydalanuvchilarga ega internet platforma",
-        "D":"marketing faoliyatining ijtimoiy mediada amalga oshirilishi"
+      "savol": "Brend nima?",
+      "A": "bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+      "B": "maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+      "C": "ko‘plab faol foydalanuvchilarga ega internet platforma",
+      "D": "marketing faoliyatining ijtimoiy mediada amalga oshirilishi"
     },
     {
-        "savol":"O‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi ''o‘zak dastur'' qanday ataladi?",
-        "A":"Platforma",
-        "B":"Kontent",
-        "C":"Brend",
-        "D":"SMM"
+      "savol": "O‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi ''o‘zak dastur'' qanday ataladi?",
+      "A": "Platforma",
+      "B": "Kontent",
+      "C": "Brend",
+      "D": "SMM"
     },
     {
-        "savol":"Mark Suckerberg hamda Eduardo Saverin asos solgan ijtimoiy tarmoq nomi to`g`ri berilgan qatorni aniqlang.",
-        "A":"Facebook",
-        "B":"Instagram",
-        "C":"Google",
-        "D":"YouTube"
+      "savol": "Mark Suckerberg hamda Eduardo Saverin asos solgan ijtimoiy tarmoq nomi to`g`ri berilgan qatorni aniqlang.",
+      "A": "Facebook",
+      "B": "Instagram",
+      "C": "Google",
+      "D": "YouTube"
     },
     {
-        "savol":"Facebook ijtimoiy tarmog`iga qachon asos solingan?",
-        "A":"2004-yilda",
-        "B":"2012-yilda",
-        "C":"1999-yilda",
-        "D":"2006-yilda"
+      "savol": "Facebook ijtimoiy tarmog`iga qachon asos solingan?",
+      "A": "2004-yilda",
+      "B": "2012-yilda",
+      "C": "1999-yilda",
+      "D": "2006-yilda"
     },
     {
-        "savol":"Quyidagi javoblarda ko`rsatilganlardan qaysi biri asosan videoroliklar platformasi hisoblanadi? ",
-        "A":"YouTube",
-        "B":"Facebook",
-        "C":"OK",
-        "D":"Google"
+      "savol": "Quyidagi javoblarda ko`rsatilganlardan qaysi biri asosan videoroliklar platformasi hisoblanadi? ",
+      "A": "YouTube",
+      "B": "Facebook",
+      "C": "OK",
+      "D": "Google"
     },
     {
-        "savol":"Onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘ini to`g`ri ko`rsating.",
-        "A":"Telegram",
-        "B":"Instagram",
-        "C":"Youtube",
-        "D":"Facebook"
+      "savol": "Onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘ini to`g`ri ko`rsating.",
+      "A": "Telegram",
+      "B": "Instagram",
+      "C": "Youtube",
+      "D": "Facebook"
     },
     {
-        "savol":"Facebook bu - ?",
-        "A":"xabarlashish va marketing faoliyatini yurituvchi ijtimoiy tarmoq",
-        "B":"onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘i",
-        "C":"foto va videolarni ulashish uchun mo‘ljallangan tarmoq",
-        "D":"ko‘plab interfaol foydalanuvchilarga ega videoroliklar platformasi"
+      "savol": "Facebook bu - ?",
+      "A": "xabarlashish va marketing faoliyatini yurituvchi ijtimoiy tarmoq",
+      "B": "onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘i",
+      "C": "foto va videolarni ulashish uchun mo‘ljallangan tarmoq",
+      "D": "ko‘plab interfaol foydalanuvchilarga ega videoroliklar platformasi"
     },
     {
-        "savol":"Koreys tilidan tarjima qilinganda ``uchta yulduz`` ma`nosini beradigan brend nomini to`g`ri ko`rsating.",
-        "A":"Samsung",
-        "B":"Apple",
-        "C":"Google",
-        "D":"Instagram"
+      "savol": "Koreys tilidan tarjima qilinganda ``uchta yulduz`` ma`nosini beradigan brend nomini to`g`ri ko`rsating.",
+      "A": "Samsung",
+      "B": "Apple",
+      "C": "Google",
+      "D": "Instagram"
     },
     {
-        "savol":"Lotinchadan tarjima qilnganda 100 ta noldan iborat birlik sonni anglatuvchi so'zni to`g`ri ko`rsating",
-        "A":"Google",
-        "B":"Samsung",
-        "C":"Apple",
-        "D":"Instagram"
+      "savol": "Lotinchadan tarjima qilnganda 100 ta noldan iborat birlik sonni anglatuvchi so'zni to`g`ri ko`rsating",
+      "A": "Google",
+      "B": "Samsung",
+      "C": "Apple",
+      "D": "Instagram"
     },
     {
-        "savol":"Internet tarmog‘ida ijtimoiy media marketingni yurituvchi shaxs qanday ataladi.",
-        "A":"SMM mutaxassisi",
-        "B":"CMS mutaxassisi",
-        "C":"LMS mutaxassisi",
-        "D":"CMM mutaxassisi"
+      "savol": "Internet tarmog‘ida ijtimoiy media marketingni yurituvchi shaxs qanday ataladi.",
+      "A": "SMM mutaxassisi",
+      "B": "CMS mutaxassisi",
+      "C": "LMS mutaxassisi",
+      "D": "CMM mutaxassisi"
     },
     {
-        "savol":"O‘zaro ma’lumotlar almashish imkoniyatiga ega kompyuter yoki qurilmalar guruhi qanday ataladi?",
-        "A":"Tarmoq",
-        "B":"Internet",
-        "C":"Tizim",
-        "D":"Provayder"
+      "savol": "O‘zaro ma’lumotlar almashish imkoniyatiga ega kompyuter yoki qurilmalar guruhi qanday ataladi?",
+      "A": "Tarmoq",
+      "B": "Internet",
+      "C": "Tizim",
+      "D": "Provayder"
     },
     {
-        "savol":"Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega mutaxassis — xodim qanday ataladi?",
-        "A":"Admin",
-        "B":"Foydalanuvchi",
-        "C":"Mehmon foydalanuvchi",
-        "D":"Dasturchi"
+      "savol": "Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega mutaxassis — xodim qanday ataladi?",
+      "A": "Admin",
+      "B": "Foydalanuvchi",
+      "C": "Mehmon foydalanuvchi",
+      "D": "Dasturchi"
     },
     {
-        "savol":"Quyidagi ko'rsatilganlardan qaysi biri internetda ishlashni ta'minlovchi dastur emas?",
-        "A":"AppStore",
-        "B":"Safari",
-        "C":"Google Chrome",
-        "D":"Opera"
+      "savol": "Quyidagi ko'rsatilganlardan qaysi biri internetda ishlashni ta'minlovchi dastur emas?",
+      "A": "AppStore",
+      "B": "Safari",
+      "C": "Google Chrome",
+      "D": "Opera"
     },
     {
-        "savol":"Quyidagilardan qaysi biri internetda ishlashni ta'minlovchi dastur?",
-        "A":"Safari",
-        "B":"AppStore",
-        "C":"Play Market",
-        "D":"Yandex Browser"
+      "savol": "Quyidagilardan qaysi biri internetda ishlashni ta'minlovchi dastur?",
+      "A": "Safari",
+      "B": "AppStore",
+      "C": "Play Market",
+      "D": "Yandex Browser"
     },
     {
-        "savol":"Axborot resursi yoki tizimiga berilgan, ularni internet jahon axborot tarmog‘ida identifikasiyalash uchun xizmat qiladigan noyob nom qanday ataladi?",
-        "A":"Domen",
-        "B":"Ip manzil",
-        "C":"Identifikatsiya",
-        "D":"Autentifikatsiya"
+      "savol": "Axborot resursi yoki tizimiga berilgan, ularni internet jahon axborot tarmog‘ida identifikasiyalash uchun xizmat qiladigan noyob nom qanday ataladi?",
+      "A": "Domen",
+      "B": "Ip manzil",
+      "C": "Identifikatsiya",
+      "D": "Autentifikatsiya"
     },
     {
-        "savol":"foydalanuvchilarga elektron xabarlar almashish imkoniyatini beradigan xizmat turi bu - ... ?",
-        "A":"elektron pochta",
-        "B":"ijtimoiy tarmoq",
-        "C":"telegram",
-        "D":"instagram"
+      "savol": "foydalanuvchilarga elektron xabarlar almashish imkoniyatini beradigan xizmat turi bu - ... ?",
+      "A": "elektron pochta",
+      "B": "ijtimoiy tarmoq",
+      "C": "telegram",
+      "D": "instagram"
     },
     {
-        "savol":"Web-sahifalarni yaratishda keng qo‘llaniladigan tilni ko`rsating.",
-        "A":"HTML",
-        "B":"Python",
-        "C":"CSS",
-        "D":"JavaScript"
+      "savol": "Web-sahifalarni yaratishda keng qo‘llaniladigan tilni ko`rsating.",
+      "A": "HTML",
+      "B": "Python",
+      "C": "CSS",
+      "D": "JavaScript"
     },
     {
-        "savol":"Tarmoq yoki kompyuterga kirish uchun ruxsat beruvchi foydalanuvchi ism yoki taxallusi qanday ataladi?",
-        "A":"login",
-        "B":"parol",
-        "C":"elekron pochta",
-        "D":"autentifikatsiya"
+      "savol": "Tarmoq yoki kompyuterga kirish uchun ruxsat beruvchi foydalanuvchi ism yoki taxallusi qanday ataladi?",
+      "A": "login",
+      "B": "parol",
+      "C": "elekron pochta",
+      "D": "autentifikatsiya"
     },
     {
-        "savol":"Ma’lumotlar bazasi nima?",
-        "A":"elektron hisoblash mashinalari yordamida qidirib topilishi va qayta ishlanishi mumkin bo‘lgan tarzda tartibga solingan va aniq qoidalar asosida tashkil qilingan ma’lumotlar to‘plami",
-        "B":"mijoz kompyuterlarning so‘rovlariga javob beruvchi, yangilangan ma’lumotlarni qabul qiluvchi, bazadan foydalanishga ruxsat beruvchi va h. k. vazifalarni bajaruvchi server",
-        "C":"ma’lumotlarni yig‘ib, kompyuterga kiritish jarayoni. Jarayon avtomatik tarzda yoki qo‘l mehnati bilan amalga oshiriladi",
-        "D":"rasmiylashtirilgan, ya’ni uzatish, izohlash va qayta ishlash uchun mos shaklda taqdim etilgan axborot"
+      "savol": "Ma’lumotlar bazasi nima?",
+      "A": "elektron hisoblash mashinalari yordamida qidirib topilishi va qayta ishlanishi mumkin bo‘lgan tarzda tartibga solingan va aniq qoidalar asosida tashkil qilingan ma’lumotlar to‘plami",
+      "B": "mijoz kompyuterlarning so‘rovlariga javob beruvchi, yangilangan ma’lumotlarni qabul qiluvchi, bazadan foydalanishga ruxsat beruvchi va h. k. vazifalarni bajaruvchi server",
+      "C": "ma’lumotlarni yig‘ib, kompyuterga kiritish jarayoni. Jarayon avtomatik tarzda yoki qo‘l mehnati bilan amalga oshiriladi",
+      "D": "rasmiylashtirilgan, ya’ni uzatish, izohlash va qayta ishlash uchun mos shaklda taqdim etilgan axborot"
     },
     {
-        "savol":"Qurilmani tarmoqqa ulanmagan holda ishlash tartibi qanday ataladi?",
-        "A":"offlayn",
-        "B":"online",
-        "C":"tizimli",
-        "D":"tizimdan tashqari"
+      "savol": "Qurilmani tarmoqqa ulanmagan holda ishlash tartibi qanday ataladi?",
+      "A": "offlayn",
+      "B": "online",
+      "C": "tizimli",
+      "D": "tizimdan tashqari"
     },
     {
-        "savol":"Qurilmani tarmoqqa ulangan holda ishlash tartibi qanday ataladi?",
-        "A":"online",
-        "B":"offline",
-        "C":"tizimli",
-        "D":"tizmdan tashqari"
+      "savol": "Qurilmani tarmoqqa ulangan holda ishlash tartibi qanday ataladi?",
+      "A": "online",
+      "B": "offline",
+      "C": "tizimli",
+      "D": "tizmdan tashqari"
     },
     {
-        "savol":"Yagona maqsad yo‘lida bir vaqtning o‘zida ham yaxlit, ham o‘zaro bog‘langan tarzda faoliyat ko‘rsatadigan bir necha turdagi elementlar majmuasi qanday ataladi",
-        "A":"Tizim",
-        "B":"Web-sayt",
-        "C":"Platforma",
-        "D":"Content"
+      "savol": "Yagona maqsad yo‘lida bir vaqtning o‘zida ham yaxlit, ham o‘zaro bog‘langan tarzda faoliyat ko‘rsatadigan bir necha turdagi elementlar majmuasi qanday ataladi",
+      "A": "Tizim",
+      "B": "Web-sayt",
+      "C": "Platforma",
+      "D": "Content"
     },
     {
-        "savol":"Javed Karim, Chad Hurley va Steve Chen tomonidan ishlab chiqilgan platforma nomini ko`rsating.",
-        "A":"YouTube",
-        "B":"Telegram",
-        "C":"Instagram",
-        "D":"Facebook"
+      "savol": "Javed Karim, Chad Hurley va Steve Chen tomonidan ishlab chiqilgan platforma nomini ko`rsating.",
+      "A": "YouTube",
+      "B": "Telegram",
+      "C": "Instagram",
+      "D": "Facebook"
     },
     {
-        "savol":"Tayyor shablonli tuzilmalar, ma’lumotlarni kiritish va dizayn ishlariga mo‘ljallangan funksiyalar to‘plamidan iborat platforma qanday ataladi?",
-        "A":"CMS",
-        "B":"SMM",
-        "C":"LMS",
-        "D":"CMM"
+      "savol": "Tayyor shablonli tuzilmalar, ma’lumotlarni kiritish va dizayn ishlariga mo‘ljallangan funksiyalar to‘plamidan iborat platforma qanday ataladi?",
+      "A": "CMS",
+      "B": "SMM",
+      "C": "LMS",
+      "D": "CMM"
     },
     {
-        "savol":"Tarkibini ko‘rib chiqish, tahrirlash, o‘zgartirish, unga qo‘shimchalar kiritish mumkin bo'lmagan platformalar qanday ataladi?",
-        "A":"Yopiq kodli platforma",
-        "B":"Ochiq kodli platforma",
-        "C":"CMS platformalari",
-        "D":"Wordpress"
+      "savol": "Tarkibini ko‘rib chiqish, tahrirlash, o‘zgartirish, unga qo‘shimchalar kiritish mumkin bo'lmagan platformalar qanday ataladi?",
+      "A": "Yopiq kodli platforma",
+      "B": "Ochiq kodli platforma",
+      "C": "CMS platformalari",
+      "D": "Wordpress"
     },
     {
-        "savol":"Sayt uchun joy ajratib beruvchi xizmat turi nima deyiladi?",
-        "A":"Hosting",
-        "B":"Domen",
-        "C":"Provayder",
-        "D":"Promount"
+      "savol": "Sayt uchun joy ajratib beruvchi xizmat turi nima deyiladi?",
+      "A": "Hosting",
+      "B": "Domen",
+      "C": "Provayder",
+      "D": "Promount"
     },
     {
-        "savol":"1. O'tgan yil davomida Abdullajon Hoshimjondan ko'ra ko'p kino ko'rdi <br> 2. Hoshimjon esa Akbarjondan ko'ra kam kino ko'rdi <br> 3. Akbarjon Abdullajondan ko'ra ko'p kino ko'rdi. Agar birinchi ikkita gap rost ekanligi aniq bo'lsa, 3-gapni rost, yolg'on ekanligini aniqlang!",
-        "A":"Aniqlab bo`lmaydi",
-        "B":"Rost",
-        "C":"Yolg`on",
-        "D":""
+      "savol": "1. O'tgan yil davomida Abdullajon Hoshimjondan ko'ra ko'p kino ko'rdi <br> 2. Hoshimjon esa Akbarjondan ko'ra kam kino ko'rdi <br> 3. Akbarjon Abdullajondan ko'ra ko'p kino ko'rdi. Agar birinchi ikkita gap rost ekanligi aniq bo'lsa, 3-gapni rost, yolg'on ekanligini aniqlang!",
+      "A": "Aniqlab bo`lmaydi",
+      "B": "Rost",
+      "C": "Yolg`on",
+      "D": ""
     },
     {
-        "savol":"4 ta bola bog'ichi bo'shab ketgan it ortidan quvishmoqda. Sardor shundoqqina it orqasida yugurmoqda, Jamol uning orqasida, Jalol esa Jamolning ortida yugurmoqda. Kamol itning to'g'risidan yugurib kelgan payt, it va bolalar uning oldidan o'tib ketib qolishdi, shunda u ham burilib safga qo'shildi. Kamol Jamolning ortida yugurishni boshladi. Sardor tezlashib, itning o'ng tarafiga o'tib oldi. Jalol ham tezlashib itning chap tarafiga o'tib oldi. Endi kim itning orqasida yugurmoqda?",
-        "A":"Jamol",
-        "B":"Jalol",
-        "C":"Sardor",
-        "D":"Kamol"
+      "savol": "4 ta bola bog'ichi bo'shab ketgan it ortidan quvishmoqda. Sardor shundoqqina it orqasida yugurmoqda, Jamol uning orqasida, Jalol esa Jamolning ortida yugurmoqda. Kamol itning to'g'risidan yugurib kelgan payt, it va bolalar uning oldidan o'tib ketib qolishdi, shunda u ham burilib safga qo'shildi. Kamol Jamolning ortida yugurishni boshladi. Sardor tezlashib, itning o'ng tarafiga o'tib oldi. Jalol ham tezlashib itning chap tarafiga o'tib oldi. Endi kim itning orqasida yugurmoqda?",
+      "A": "Jamol",
+      "B": "Jalol",
+      "C": "Sardor",
+      "D": "Kamol"
     },
     {
-        "savol":"axborot almashish real vaqtda olib boriladigan internetdagi muloqot qanday nomlanadi",
-        "A":"Chat",
-        "B":"Forum",
-        "C":"Pochta",
-        "D":"Kanal"
+      "savol": "axborot almashish real vaqtda olib boriladigan internetdagi muloqot qanday nomlanadi",
+      "A": "Chat",
+      "B": "Forum",
+      "C": "Pochta",
+      "D": "Kanal"
+    },
+    {
+      "savol": "web saytda administrator tomonidan kiritilgan mavzu asosida suhbat olib borish tizimi qanday ataladi?",
+      "A": "Forum",
+      "B": "Chat",
+      "C": "Pochta",
+      "D": "Telefoniya"
+    },
+    {
+      "savol": "MS Wordda jadvalning ajratilgan ustuni klaviatura orqali qanday o‘chiriladi?",
+      "A": "ALT + DELETE klavishlar kombinatsiyasini bosish orqali",
+      "B": "BACKSPACE klavishini bosish orqali",
+      "C": "DELETE klavishini bosish orqali",
+      "D": "ENTER klavishini bosish orqali"
+    },
+    {
+      "savol": "Quyidagi kod natijasini ko‘rsating: x = 70 // 4 % (3 + 2) ** 4 + 15//2 print(x)",
+      "A": "24",
+      "B": "15",
+      "C": "25",
+      "D": "16"
+    },
+    {
+      "savol": "Jumlani to‘ldiring: ________________ -  o‘quv materiallarini turli usllarda uzatish (15 turdagi interfaol vosita), bilimlarni tekshirish va o‘zlashtirish monitoringini yuritish uchun mo‘ljallangan platforma.",
+      "A": "Moodle",
+      "B": "Djoomla",
+      "C": "Skype",
+      "D": "Khan Academy"
+    },
+    {
+      "savol": "Quyida berilgan sonlar ichidan polindrom sonni ko`rsating.",
+      "A": "15651",
+      "B": "2020",
+      "C": "135431",
+      "D": "080800"
+    },
+    {
+      "savol": "A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: A=>B",
+      "A": "yolg`on",
+      "B": "rost",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: B=>A",
+      "A": "rost",
+      "B": "yolg`on",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "A =“972 soni 9 ga karrali”, B =“972 soni raqamlarining yig‘indisi 9 ga karrali”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifoda qiymatini aniqlang. A<=>B",
+      "A": "rost",
+      "B": "yolg`on",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "x = 1,6 va y = 8,7, A = “rost” va B = “yolg‘on” bo‘lganda, (A∨⏋B)&(x>y) mantiqiy ifodaning qiymatini hisoblang",
+      "A": "yolg`on",
+      "B": "rost",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "Bolalar Xo'ja Nasriddinni uchratib qolishdi va undan yoshini so'rashdi. Xo'ja Nasriddin shunday javob beribdi: \"Mening yoshim turli raqamlardan tuzilgan. Agar birinchi va oxirgi raqamlar o'chirilsa, ikki xonali son hosil bo'ladi. Bu ikki xonali son raqamlari yig'indisi 13 bo'lgan eng katta sondir. Birinchi raqam oxirgi raqamdan 4 marta katta. Ana endi yoshimni o'zingiz hisoblab olavering\". Xo'ja Nasriddinning yoshi nechada?",
+      "A": "8942",
+      "B": "2498",
+      "C": "2768",
+      "D": "1944"
+    },
+    {
+      "savol": "Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png' alt='inf1'>",
+      "A": "0, 0, 1, 0",
+      "B": "0, 1, 1, 1",
+      "C": "1, 0, 0, 0",
+      "D": "1, 1, 1, 1"
+    },
+    {
+      "savol": "Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin",
+      "A": "0, 0, 0, 0",
+      "B": "0, 1, 1, 1",
+      "C": "1, 0, 0, 0",
+      "D": "1, 1, 1, 1"
+    },
+    {
+      "savol": "<img src='../img/inf2.png' alt='inf2'> Robot katakchalar bo‘ylab o‘ngga, yuqoriga yoki pastga harakatlana oladi. U bir katakdan bir necha marta o‘tishi ham mumkin. Robot turgan katagidan batareyka joylashgan katakka bora oladigan zaruriy ko‘rsatmalar ketma-ketligini toping. Masalaning shartida ijrochi Robotning ko‘rsatmalar tizimi (RKT) RKT={o‘ngga; yuqoriga; pastga}dan iborat.",
+      "A": "o`ngga, yuqoriga, pastga",
+      "B": "o`ngga, o`ngga, yuqoriga",
+      "C": "pastga, o`ngga, yuqoriga, o`ngga",
+      "D": "yuqoriga, pastga, yuqoriga, o`ngga"
+    },
+    {
+      "savol": "Bu so’z informatika ga televideniyedan kirib  kelgan bo’lib ,  tarjimasi  “xaskash” , “omoch” so’zlaridan olingan siz shu so’zni toping?",
+      "A": "rastr",
+      "B": "vektor",
+      "C": "fraktal",
+      "D": "piksel"
+    },
+    {
+      "savol": ". Grafikadan  animatsiya , kompyuter o’yinlari  va virtual (hayoliy)borliq  yaratishda qaysi grafikadan foydalaniladi? ",
+      "A": "uch olchamli",
+      "B": "ikki o`lchamli",
+      "C": "vektorli",
+      "D": "fractal"
+    },
+    {
+      "savol": "Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish qanday ataladi",
+      "A": "SMM",
+      "B": "LMS",
+      "C": "CMS",
+      "D": "CMM"
+    },
+    {
+      "savol": "Ijmoiy media nima?",
+      "A": "Ko‘plab faol foydalanuvchilarga ega internet platforma.",
+      "B": "Marketing faoliyatini amalga oshirish mumkin bo'lgan web sayt",
+      "C": "Bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+      "D": "o‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi “o‘zak dastur"
+    },
+    {
+      "savol": "SMM nima?",
+      "A": "Marketing faoliyatining ijtimoiy mediada amalga oshirilishi",
+      "B": "Ijtimoiy tarmoqlar boshqaruvchisi",
+      "C": "Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+      "D": "Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir"
+    },
+    {
+      "savol": "Kontent nima?",
+      "A": "Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+      "B": "Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
+      "C": "Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish faoliyati",
+      "D": "Ko‘plab faol foydalanuvchilarga ega internet platforma"
+    },
+    {
+      "savol": "SMM da mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli         yuqori bo‘lgan shaxslar",
+      "A": "Maqsadli auditoriya",
+      "B": "Kontent",
+      "C": "Platforma",
+      "D": "Brend"
+    },
+    {
+      "savol": "Brend nima?",
+      "A": "bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
+      "B": "maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
+      "C": "ko‘plab faol foydalanuvchilarga ega internet platforma",
+      "D": "marketing faoliyatining ijtimoiy mediada amalga oshirilishi"
+    },
+    {
+      "savol": "O‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi ''o‘zak dastur'' qanday ataladi?",
+      "A": "Platforma",
+      "B": "Kontent",
+      "C": "Brend",
+      "D": "SMM"
+    },
+    {
+      "savol": "Mark Suckerberg hamda Eduardo Saverin asos solgan ijtimoiy tarmoq nomi to`g`ri berilgan qatorni aniqlang.",
+      "A": "Facebook",
+      "B": "Instagram",
+      "C": "Google",
+      "D": "YouTube"
+    },
+    {
+      "savol": "Facebook ijtimoiy tarmog`iga qachon asos solingan?",
+      "A": "2004-yilda",
+      "B": "2012-yilda",
+      "C": "1999-yilda",
+      "D": "2006-yilda"
+    },
+    {
+      "savol": "Quyidagi javoblarda ko`rsatilganlardan qaysi biri asosan videoroliklar platformasi hisoblanadi? ",
+      "A": "YouTube",
+      "B": "Facebook",
+      "C": "OK",
+      "D": "Google"
+    },
+    {
+      "savol": "Onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘ini to`g`ri ko`rsating.",
+      "A": "Telegram",
+      "B": "Instagram",
+      "C": "Youtube",
+      "D": "Facebook"
+    },
+    {
+      "savol": "Facebook bu - ?",
+      "A": "xabarlashish va marketing faoliyatini yurituvchi ijtimoiy tarmoq",
+      "B": "onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘i",
+      "C": "foto va videolarni ulashish uchun mo‘ljallangan tarmoq",
+      "D": "ko‘plab interfaol foydalanuvchilarga ega videoroliklar platformasi"
+    },
+    {
+      "savol": "Koreys tilidan tarjima qilinganda ``uchta yulduz`` ma`nosini beradigan brend nomini to`g`ri ko`rsating.",
+      "A": "Samsung",
+      "B": "Apple",
+      "C": "Google",
+      "D": "Instagram"
+    },
+    {
+      "savol": "Lotinchadan tarjima qilnganda 100 ta noldan iborat birlik sonni anglatuvchi so'zni to`g`ri ko`rsating",
+      "A": "Google",
+      "B": "Samsung",
+      "C": "Apple",
+      "D": "Instagram"
+    },
+    {
+      "savol": "Internet tarmog‘ida ijtimoiy media marketingni yurituvchi shaxs qanday ataladi.",
+      "A": "SMM mutaxassisi",
+      "B": "CMS mutaxassisi",
+      "C": "LMS mutaxassisi",
+      "D": "CMM mutaxassisi"
+    },
+    {
+      "savol": "O‘zaro ma’lumotlar almashish imkoniyatiga ega kompyuter yoki qurilmalar guruhi qanday ataladi?",
+      "A": "Tarmoq",
+      "B": "Internet",
+      "C": "Tizim",
+      "D": "Provayder"
+    },
+    {
+      "savol": "Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega mutaxassis — xodim qanday ataladi?",
+      "A": "Admin",
+      "B": "Foydalanuvchi",
+      "C": "Mehmon foydalanuvchi",
+      "D": "Dasturchi"
+    },
+    {
+      "savol": "Quyidagi ko'rsatilganlardan qaysi biri internetda ishlashni ta'minlovchi dastur emas?",
+      "A": "AppStore",
+      "B": "Safari",
+      "C": "Google Chrome",
+      "D": "Opera"
+    },
+    {
+      "savol": "Quyidagilardan qaysi biri internetda ishlashni ta'minlovchi dastur?",
+      "A": "Safari",
+      "B": "AppStore",
+      "C": "Play Market",
+      "D": "Yandex Browser"
+    },
+    {
+      "savol": "Axborot resursi yoki tizimiga berilgan, ularni internet jahon axborot tarmog‘ida identifikasiyalash uchun xizmat qiladigan noyob nom qanday ataladi?",
+      "A": "Domen",
+      "B": "Ip manzil",
+      "C": "Identifikatsiya",
+      "D": "Autentifikatsiya"
+    },
+    {
+      "savol": "foydalanuvchilarga elektron xabarlar almashish imkoniyatini beradigan xizmat turi bu - ... ?",
+      "A": "elektron pochta",
+      "B": "ijtimoiy tarmoq",
+      "C": "telegram",
+      "D": "instagram"
+    },
+    {
+      "savol": "Web-sahifalarni yaratishda keng qo‘llaniladigan tilni ko`rsating.",
+      "A": "HTML",
+      "B": "Python",
+      "C": "CSS",
+      "D": "JavaScript"
+    },
+    {
+      "savol": "Tarmoq yoki kompyuterga kirish uchun ruxsat beruvchi foydalanuvchi ism yoki taxallusi qanday ataladi?",
+      "A": "login",
+      "B": "parol",
+      "C": "elekron pochta",
+      "D": "autentifikatsiya"
+    },
+    {
+      "savol": "Ma’lumotlar bazasi nima?",
+      "A": "elektron hisoblash mashinalari yordamida qidirib topilishi va qayta ishlanishi mumkin bo‘lgan tarzda tartibga solingan va aniq qoidalar asosida tashkil qilingan ma’lumotlar to‘plami",
+      "B": "mijoz kompyuterlarning so‘rovlariga javob beruvchi, yangilangan ma’lumotlarni qabul qiluvchi, bazadan foydalanishga ruxsat beruvchi va h. k. vazifalarni bajaruvchi server",
+      "C": "ma’lumotlarni yig‘ib, kompyuterga kiritish jarayoni. Jarayon avtomatik tarzda yoki qo‘l mehnati bilan amalga oshiriladi",
+      "D": "rasmiylashtirilgan, ya’ni uzatish, izohlash va qayta ishlash uchun mos shaklda taqdim etilgan axborot"
+    },
+    {
+      "savol": "Qurilmani tarmoqqa ulanmagan holda ishlash tartibi qanday ataladi?",
+      "A": "offlayn",
+      "B": "online",
+      "C": "tizimli",
+      "D": "tizimdan tashqari"
+    },
+    {
+      "savol": "Qurilmani tarmoqqa ulangan holda ishlash tartibi qanday ataladi?",
+      "A": "online",
+      "B": "offline",
+      "C": "tizimli",
+      "D": "tizmdan tashqari"
+    },
+    {
+      "savol": "Yagona maqsad yo‘lida bir vaqtning o‘zida ham yaxlit, ham o‘zaro bog‘langan tarzda faoliyat ko‘rsatadigan bir necha turdagi elementlar majmuasi qanday ataladi",
+      "A": "Tizim",
+      "B": "Web-sayt",
+      "C": "Platforma",
+      "D": "Content"
+    },
+    {
+      "savol": "Javed Karim, Chad Hurley va Steve Chen tomonidan ishlab chiqilgan platforma nomini ko`rsating.",
+      "A": "YouTube",
+      "B": "Telegram",
+      "C": "Instagram",
+      "D": "Facebook"
+    },
+    {
+      "savol": "Tayyor shablonli tuzilmalar, ma’lumotlarni kiritish va dizayn ishlariga mo‘ljallangan funksiyalar to‘plamidan iborat platforma qanday ataladi?",
+      "A": "CMS",
+      "B": "SMM",
+      "C": "LMS",
+      "D": "CMM"
+    },
+    {
+      "savol": "Tarkibini ko‘rib chiqish, tahrirlash, o‘zgartirish, unga qo‘shimchalar kiritish mumkin bo'lmagan platformalar qanday ataladi?",
+      "A": "Yopiq kodli platforma",
+      "B": "Ochiq kodli platforma",
+      "C": "CMS platformalari",
+      "D": "Wordpress"
+    },
+    {
+      "savol": "Sayt uchun joy ajratib beruvchi xizmat turi nima deyiladi?",
+      "A": "Hosting",
+      "B": "Domen",
+      "C": "Provayder",
+      "D": "Promount"
+    },
+    {
+      "savol": "1. O'tgan yil davomida Abdullajon Hoshimjondan ko'ra ko'p kino ko'rdi <br> 2. Hoshimjon esa Akbarjondan ko'ra kam kino ko'rdi <br> 3. Akbarjon Abdullajondan ko'ra ko'p kino ko'rdi. Agar birinchi ikkita gap rost ekanligi aniq bo'lsa, 3-gapni rost, yolg'on ekanligini aniqlang!",
+      "A": "Aniqlab bo`lmaydi",
+      "B": "Rost",
+      "C": "Yolg`on",
+      "D": ""
+    },
+    {
+      "savol": "4 ta bola bog'ichi bo'shab ketgan it ortidan quvishmoqda. Sardor shundoqqina it orqasida yugurmoqda, Jamol uning orqasida, Jalol esa Jamolning ortida yugurmoqda. Kamol itning to'g'risidan yugurib kelgan payt, it va bolalar uning oldidan o'tib ketib qolishdi, shunda u ham burilib safga qo'shildi. Kamol Jamolning ortida yugurishni boshladi. Sardor tezlashib, itning o'ng tarafiga o'tib oldi. Jalol ham tezlashib itning chap tarafiga o'tib oldi. Endi kim itning orqasida yugurmoqda?",
+      "A": "Jamol",
+      "B": "Jalol",
+      "C": "Sardor",
+      "D": "Kamol"
+    },
+    {
+      "savol": "axborot almashish real vaqtda olib boriladigan internetdagi muloqot qanday nomlanadi",
+      "A": "Chat",
+      "B": "Forum",
+      "C": "Pochta",
+      "D": "Kanal"
+    },
+    {
+      "savol": "web saytda administrator tomonidan kiritilgan mavzu asosida suhbat olib borish tizimi qanday ataladi?",
+      "A": "Forum",
+      "B": "Chat",
+      "C": "Pochta",
+      "D": "Telefoniya"
+    },
+    {
+      "savol": "MS Wordda jadvalning ajratilgan ustuni klaviatura orqali qanday o‘chiriladi?",
+      "A": "ALT + DELETE klavishlar kombinatsiyasini bosish orqali",
+      "B": "BACKSPACE klavishini bosish orqali",
+      "C": "DELETE klavishini bosish orqali",
+      "D": "ENTER klavishini bosish orqali"
+    },
+    {
+      "savol": "Quyidagi kod natijasini ko‘rsating: x = 70 // 4 % (3 + 2) ** 4 + 15//2 print(x)",
+      "A": "24",
+      "B": "15",
+      "C": "25",
+      "D": "16"
+    },
+    {
+      "savol": "A =“972 soni 9 ga karrali”, B =“972 soni raqamlarining yig‘indisi 9 ga karrali”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifoda qiymatini aniqlang. A<=>B",
+      "A": "rost",
+      "B": "yolg`on",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "x = 1,6 va y = 8,7, A = “rost” va B = “yolg‘on” bo‘lganda, (A∨⏋B)&(x>y) mantiqiy ifodaning qiymatini hisoblang",
+      "A": "yolg`on",
+      "B": "rost",
+      "C": "aniqlab bo`lmaydi",
+      "D": "mulohazalarda xatolik mavjud"
+    },
+    {
+      "savol": "Bolalar Xo'ja Nasriddinni uchratib qolishdi va undan yoshini so'rashdi. Xo'ja Nasriddin shunday javob beribdi: \"Mening yoshim turli raqamlardan tuzilgan. Agar birinchi va oxirgi raqamlar o'chirilsa, ikki xonali son hosil bo'ladi. Bu ikki xonali son raqamlari yig'indisi 13 bo'lgan eng katta sondir. Birinchi raqam oxirgi raqamdan 4 marta katta. Ana endi yoshimni o'zingiz hisoblab olavering\". Xo'ja Nasriddinning yoshi nechada?",
+      "A": "8942",
+      "B": "2498",
+      "C": "2768",
+      "D": "1944"
+    },
+    {
+      "savol": "Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png alt='inf1'>",
+      "A": "0, 0, 1, 0",
+      "B": "0, 1, 1, 1",
+      "C": "1, 0, 0, 0",
+      "D": "1, 1, 1, 1"
+    },
+    {
+      "savol": "Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin",
+      "A": "0, 0, 0, 0",
+      "B": "0, 1, 1, 1",
+      "C": "1, 0, 0, 0",
+      "D": "1, 1, 1, 1"
+    },
+    {
+      "savol": "<img src='../img/inf2.png' alt='inf2'> Robot katakchalar bo‘ylab o‘ngga, yuqoriga yoki pastga harakatlana oladi. U bir katakdan bir necha marta o‘tishi ham mumkin. Robot turgan katagidan batareyka joylashgan katakka bora oladigan zaruriy ko‘rsatmalar ketma-ketligini toping. Masalaning shartida ijrochi Robotning ko‘rsatmalar tizimi (RKT) RKT={o‘ngga; yuqoriga; pastga}dan iborat.",
+      "A": "o`ngga, yuqoriga, pastga",
+      "B": "o`ngga, o`ngga, yuqoriga",
+      "C": "pastga, o`ngga, yuqoriga, o`ngga",
+      "D": "yuqoriga, pastga, yuqoriga, o`ngga"
+    },
+    {
+      "savol": "Bu so’z informatika ga televideniyedan kirib  kelgan bo’lib ,  tarjimasi  “xaskash” , “omoch” so’zlaridan olingan siz shu so’zni toping?",
+      "A": "rastr",
+      "B": "vektor",
+      "C": "fraktal",
+      "D": "piksel"
+    },
+    {
+      "savol": ". Grafikadan  animatsiya , kompyuter o’yinlari  va virtual (hayoliy)borliq  yaratishda qaysi grafikadan foydalaniladi? ",
+      "A": "uch olchamli",
+      "B": "ikki o`lchamli",
+      "C": "vektorli",
+      "D": "fractal"
+    },
+    {
+      "savol": "Excel ish kitoni sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
+      "A": "List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
+      "B": "Fayl menyusidan переместит/скопироват buyrug'i orqali",
+      "C": "List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
+      "D": "Vid menyusidan переместит/скопироват buyrug'i orqali"
+    },
+    {
+      "savol": "Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
+      "A": "Eksponentsial",
+      "B": "Finans",
+      "C": "Pullik",
+      "D": "Umumiy"
+    },
+    {
+      "savol": "Qaysi javobda kimpyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
+      "A": "Turli disklar va tarmoqdan foydalanish",
+      "B": "Bemor odam kompyuterdan foydalanishi",
+      "C": "Man badagi elektr tokini ko'payib yoki kamayib ketishi",
+      "D": "Kompyuterni iflos holda saqlash"
+    },
+    {
+      "savol": "'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
+      "A": "Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",
+      "B": "Maket-Viravneniye buyrug'i tanlanadi",
+      "C": "Konstruktor-Stili tablits buyrug'i tanlanadi",
+      "D": "Maket-Stroki i stolbsi-Udalit buyrug'i tanlanadi"
+    },
+    {
+      "savol": "MS Excel  jadvallarida ustun sarlovhasiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+      "A": "Sichqoncha bosilgan ustun ajraladi",
+      "B": "Sichqoncha bosilgan ustin bosmaga chiqariladi",
+      "C": "Xech qanday o'zgarish bo'lmaydi",
+      "D": "Sichqoncha bosilgan ustun o'chiriladi"
+    },
+    {
+      "savol": "Excel ish kitobida kamida necha sahifa list bo'lishi mumkin?",
+      "A": "1 ta",
+      "B": "Istalgancha",
+      "C": "2 ta",
+      "D": "3 ta"
+    },
+    {
+      "savol": "Elektron jadvalning A1 katakchasiga 10 yozilgan, B1 katakchaga =A1/2, C1 katakchaga =СУММ(A1:B1)*2 kiritilgan. C1 Katakchadagi qiymatni aniqlang.",
+      "A": "30",
+      "B": "10",
+      "C": "20",
+      "D": "15"
+    },
+    {
+      "savol": "MS Excel. A1 katakdagi sonni B1 katakdagi 0 dan farqli songa karrali yoki karrali emasligini aniqlovchi formulani ko'rsating.",
+      "A": "=ЕСЛИ(ОСТАТ(A1;B1)=0; \"Karrali\"; \"Karrali emas\") ",
+      "B": "=ЕСЛИ(A1-B1=B1*ЦЕЛОЕ(A1/B1); \"Karrali\"; \"Karrali emas\")",
+      "C": "=ЕСЛИ(A1-B1*ЦЕЛОЕ(A1/B1)=0; \"Karrali\"; \"Karrali emas\")",
+      "D": "=ЕСЛИ(ОСТАТ(A1;B1)<>0; \"Karrali\"; \"Karrali emas\")"
+    },
+    {
+      "savol": "Ma'lumotlar ombori nima?",
+      "A": "Biror predmet sohasidan olingan aniq obyektlar haqidagi ma'lumotlar to'plami",
+      "B": "Bu ma'lumotlar saqlanadigan fayl",
+      "C": "Ma'lumotlar bilan to'ltirilgan ixtiyoriy jadval",
+      "D": "Ma'lumotlar ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi"
+    },
+    {
+      "savol": "MS Excel  jadvallarida satr tartib raqamiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+      "A": "Sichqoncha bosilgan satr ajraladi",
+      "B": "Sichqoncha bosilgan satr bosmaga chiqariladi",
+      "C": "Xech qanday o'zgarish bo'lmaydi",
+      "D": "Sichqoncha bosilgan satr o'chiriladi"
+    },
+    {
+      "savol": "A1 va B1 taklarga mos ravishda 10 va 12 sonlari kiritilgan. Agar C1 katakka =(A1+B1)/2 va d1 katakka =EСЛИ(КОРEНъ(C1)>8);A1+C1;B1+C1) formulalari kiritilsa D1 katkdagi qiymatni aniqlang.",
+      "A": "23",
+      "B": "22",
+      "C": "21",
+      "D": "24"
+    },
+    {
+      "savol": "Wordda hijjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi?",
+      "A": "CTRL+Home",
+      "B": "CTRL+PageUP",
+      "C": "CRTL+Up",
+      "D": "CTRL+Down"
+    },
+    {
+      "savol": "Wordda CTRL+A klavishlar kombinatsiyasi nima vazifani bajaradi?",
+      "A": "Hujjatning hammasini belgilaydi",
+      "B": "Hujjatni chop etish",
+      "C": "NUsxa olish",
+      "D": "Qidirish oynasini ochish"
+    },
+    {
+      "savol": "Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
+      "A": "http",
+      "B": "www",
+      "C": "ftp",
+      "D": "dns"
+    },
+    {
+      "savol": "Printer nima?",
+      "A": "Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
+      "B": "Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
+      "C": "Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
+      "D": "Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
+    },
+    {
+      "savol": "MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "9"
+    },
+    {
+      "savol": "MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
+      "A": "Grafik",
+      "B": "Matnli",
+      "C": "Raqamli",
+      "D": "Sana va Vaqt"
+    },
+    {
+      "savol": "Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.larsaqlanadigan diskdagi maxsus joyga ... deyiladi.",
+      "A": "katalog",
+      "B": "menyu",
+      "C": "yorliq",
+      "D": "dastur"
+    },
+    {
+      "savol": " MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
+      "A": "3 ta",
+      "B": "2 ta",
+      "C": "4 ta",
+      "D": "1 ta "
+    },
+    {
+      "savol": "MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
+      "A": "A1=-6, B1=15, C1=12",
+      "B": "A1=-4, B1=9, C1=7",
+      "C": "A1=3, B1=6, C1=18",
+      "D": "A1=7, B1=7, C1=7"
+    },
+    {
+      "savol": " MS Excel.  A1=9,  A2=-9, B1=-18, B2=7,   C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+Длстр(C1)  berilgan. Agar  D1 katakni  D2 katakka  nusxalansa,  D1 va D2 kataklarda  hosil  bo'ladigan sonlar  yig'indisini  toping. ",
+      "A": "33",
+      "B": " -11",
+      "C": "30",
+      "D": "38"
+    },
+    {
+      "savol": " MS Excel A1=9, A2=-9, B1=-14, B2= 4, C1=Informatika, C2=Universitet, D1 = ABS($A1+B1) + НАЙТИ(\"x\";$C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
+      "A": "ЗНАЧ xatoligi sodir bo`ladi",
+      "B": "10",
+      "C": "18",
+      "D": "21"
+    },
+    {
+      "savol": " MS Excel A1=9, A2=-9, B1=-18, B2= 7, C1= Informatika, C2=Universitet, D1 = ABS($A1+ B1) + Длстр(C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
+      "A": "33",
+      "B": " -11",
+      "C": "30",
+      "D": "38"
+    },
+    {
+      "savol": " MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "8"
+    },
+    {
+      "savol": " MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
+      "A": "16384",
+      "B": "1048576",
+      "C": "256",
+      "D": "32768"
+    },
+    {
+      "savol": " MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
+      "A": "2019",
+      "B": "2018",
+      "C": "ЛОЖ",
+      "D": "ИСТИНА"
+    },
+    {
+      "savol": " MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
+      "A": "=E15*$AB34",
+      "B": "=D6*$AB$34",
+      "C": "=E15*$BC34",
+      "D": "=D6*$AC25"
+    },
+    {
+      "savol": " 2000 Kbayt axborot necha bitga teng?",
+      "A": "20^3*2^11",
+      "B": "20^3*2^9",
+      "C": "20^2*2^10",
+      "D": "10^2*2^13"
+    },
+    {
+      "savol": " A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>-A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2+A2)",
+      "A": "2",
+      "B": "-1",
+      "C": "0",
+      "D": "4"
+    },
+    {
+      "savol": " A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2-A2)",
+      "A": "-2",
+      "B": "-1",
+      "C": "0",
+      "D": "4"
+    },
+    {
+      "savol": " MS Access dasturining asosiy elementlarini aniqlang.",
+      "A": "jadval, so`rov, forma, makros, modul, hisobot",
+      "B": "tugma, maydon, forma, makros, modul, yozuv",
+      "C": "jadval, so`rov, servis, modul, hisobot",
+      "D": "matn, rasm, forma, makros, modul, jadval"
+    },
+    {
+      "savol": " Uchburchak katetlaridan biri 73 ga teng(11 lik sanoq sistemasida), ikkinchisi esa 17 ga teng(11 lik sanoq sistemasida). Uchburchakning gepotenuzasini 11 lik sanoq sistemasida toping.",
+      "A": "75",
+      "B": "78",
+      "C": "77",
+      "D": "74"
+    },
+    {
+      "savol": " MS Excel. A1=1, A2=-9, B1=-12, B2=14, C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+НАЙТИ(''i'';$C1;5) berilgan. Agar D1 katakni D2 katakka nusxalasa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
+      "A": "33",
+      "B": "30",
+      "C": "38",
+      "D": "-6"
+    },
+    {
+      "savol": " MS Excel. A1=10, B1=20, C1=3, A2=40, B2=50, C2=Universitet berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>19''); C1 ) formula qiymatini toping.",
+      "A": "ite",
+      "B": "rsi",
+      "C": "ive",
+      "D": "Uni"
+    },
+    {
+      "savol": " Ekranning har bir pikseli 58 ta rangning birida aks etadi. Ekran kvadrat shaklda bo`lib, u xotiradan 243 kilobayt joy egallaydi. Ekranning tomoni necha pikselga tengligini aniqlang.",
+      "A": "576",
+      "B": "579",
+      "C": "586",
+      "D": "571"
+    },
+    {
+      "savol": " MS Excel. A1=6, A2=-9, B1=-11, B2=1, C1=Informatika, C2=Universitet, D1=ABS ( $A1+B1) +ДЛСТР(ПСТР($C1;2;8)) berilgan. Agar D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
+      "A": "29",
+      "B": "30",
+      "C": "22",
+      "D": "-13"
+    },
+    {
+      "savol": " $A(1001110;101100)$(2 lik sanoq sistemasida) nuqta va B(42;47) (16 lik sanoq sistemasida) nuqtaning koordinatalari ma`lum bo`lsin. $A$ va $B$ nuqtalar orasidagi eng qisqa masofani (8 lik sanoq sistemasida) aniqlang.",
+      "A": "1111",
+      "B": "1110",
+      "C": "1101",
+      "D": "10000"
+    },
+    {
+      "savol": " MS Excel. A1=3, B1=6, C1=3, A2=12, B2=15, C2=Informatika berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>11''); C1 ) formula qiymatini toping.",
+      "A": "ati",
+      "B": "Info",
+      "C": "mat",
+      "D": "rma"
+    },
+    {
+      "savol": " MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
+      "A": "nik",
+      "B": "anik",
+      "C": "Avtom",
+      "D": "xani"
+    },
+    {
+      "savol": " MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
+      "A": "nik",
+      "B": "anik",
+      "C": "Avtom",
+      "D": "xani"
+    },
+    {
+      "savol": " MS Excel. Berilgan: G1=1, H1=-1, I1=2, J1=5, K1=3. L1 katakka =G$1*H1+I$1-$J$1 formula kiritilgan va shu katak M1, N1, O1, P1 kataklarga nusxalangan. =M1+P1 formulaning qiymatini aniqlang.",
+      "A": "-21",
+      "B": "-17",
+      "C": "-7",
+      "D": "-19"
+    },
+    {
+      "savol": " 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
+      "A": "3DDA",
+      "B": "3DAA",
+      "C": "3DDD",
+      "D": "3DDDA"
+    },
+    {
+      "savol": " Yozilayotgan matnning faqat mazmuni ahamiyatga ega bo`lganda qo`llaniladigan matn yozish dasturlari qanday nomlanadi? ",
+      "A": "matn muharrirlari",
+      "B": "matn protsessorlari",
+      "C": "Bloknot",
+      "D": "MS Word"
+    },
+    {
+      "savol": " Hujjatlar matn yoziladigan dasturlarning qanday turida tayyorlanadi? ",
+      "A": "matn protsessorlari",
+      "B": "matn  muharrirlarida",
+      "C": "matn jamlanmalarida",
+      "D": "elektron jadvallarda"
+    },
+    {
+      "savol": " Matn muharrirlari va matn muharrirlaridagi  alifbo harflari, raqamlar va turli belgilar qanday ataladi?",
+      "A": "shrift",
+      "B": "alifbo",
+      "C": "format",
+      "D": "matn"
+    },
+    {
+      "savol": " ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
+      "A": "so`z",
+      "B": "satr",
+      "C": "matn",
+      "D": "gap"
+    },
+    {
+      "savol": " Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
+      "A": "hujjat",
+      "B": "matn",
+      "C": "loyiha",
+      "D": "satr"
+    },
+    {
+      "savol": " MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
+      "A": "matn",
+      "B": "gap",
+      "C": "satr",
+      "D": "hujjat"
+    },
+    {
+      "savol": " Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
+      "A": "satr",
+      "B": "gap",
+      "C": "matn",
+      "D": "hoshiya"
+    },
+    {
+      "savol": " Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
+      "A": "hoshiya",
+      "B": "abzas",
+      "C": "satr",
+      "D": "bo`sh joy"
+    },
+    {
+      "savol": " Matn protsessorlarida bosh satri bo`lgan satrlar ketma-ketligi qanday ataladi? ",
+      "A": "abzas",
+      "B": "matn",
+      "C": "hujjat",
+      "D": "gap"
+    },
+    {
+      "savol": " Matnning belgilab olingan bo`lagi qanday nomlanadi? ",
+      "A": "fragment",
+      "B": "satr",
+      "C": "soha",
+      "D": "format"
+    },
+    {
+      "savol": " Matn protsessorlarida hujjat chiroyli ko`rinishga keltirilishi uchun shrift turi, rangi va abzas tekislanishi, chegara chizish kabi kabi bezaklar bilan boyitilishi qanday ataladi? ",
+      "A": "Formatlash",
+      "B": "Fragmentlash",
+      "C": "Word Art",
+      "D": "Hujjatlash sozlash"
+    },
+    {
+      "savol": " MS Word dasturida keyingi shrift avvalgi shriftni, keyingi abzas avvalgi abzasni, yangi sahifa avvalgi sahifa formatlarini o`zida to`liq saqlab qolishi qanday ataladi?",
+      "A": "Vorislik",
+      "B": "Fragment",
+      "C": "Bosh satr",
+      "D": "Sozlash"
+    },
+    {
+      "savol": " MS Word dasturida matn fragmentidan nusxa olish uchun qanday klavishlar majmuidan foydalaniladi? ",
+      "A": "Ctrl+C",
+      "B": "Ctrl+A",
+      "C": "Ctrl+S",
+      "D": "Ctrl+V"
+    },
+    {
+      "savol": " MS Word dasturida yurgichdan o`ng tomondagi belgilarni o`chirish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
+      "A": "Delete",
+      "B": "Backspace",
+      "C": "Ctrl+D",
+      "D": "Ctrl+Enter"
+    },
+    {
+      "savol": " MS Word dasturida yangi abzasga o`tish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
+      "A": "Enter",
+      "B": "Ctrl+Enter",
+      "C": "Delete",
+      "D": "Shift"
+    },
+    {
+      "savol": " MS Word daturida matnning belgilangan biror qismi nima deb ataladi? ",
+      "A": "Blok",
+      "B": "Satr",
+      "C": "Sahifa",
+      "D": "Gap"
+    },
+    {
+      "savol": " MS Word dasturida matn yozish qoidalariga oid to`g`ri mulohazani toping. ",
+      "A": "yangi abzasga o`tish uchun Enter klavishi bosiladi",
+      "B": "joriy satr oxiriga o`tish uchun Home klavishi bosiladi",
+      "C": "joriy satr boshiga o`tish uchun End klavishi bosiladi",
+      "D": "hujjat boshiga o`tish uchun  Shift+Home klavishlari bosiladi"
+    },
+    {
+      "savol": " MS Word dasturida hujjatni to`liq belgilash qanday klavishlar majmui yordamida amalga oshiriladi?  ",
+      "A": "Ctrl+A",
+      "B": "Ctrl+C",
+      "C": "Ctrl+D",
+      "D": "Ctrl+S"
+    },
+    {
+      "savol": " Kompyuter xotirasiga kiritilgan ma’lum bir strukturaga ega, o`zaro bir biri bilan bog`langan va tartiblangan ma’lumotlar majmuasi qanday nomlanadi.",
+      "A": "Ma'lumotlar ombori",
+      "B": "Ma'lumotlar modeli",
+      "C": "MOBT",
+      "D": "Axborot"
+    },
+    {
+      "savol": " Ma'lumotlar ombori tuzilish usullariga ko`ra qanday guruhlarga bo`linadi?",
+      "A": "relyatsion, iyerarxik, to`rli",
+      "B": "relyatsion, to`rli, tartiblangan",
+      "C": "tartiblangan va tartiblanmagan",
+      "D": "tuzulmalashtirilgan va tuzulmalashtirilmagan"
+    },
+    {
+      "savol": " MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "8"
+    },
+    {
+      "savol": " MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
+      "A": "16384",
+      "B": "1048576",
+      "C": "256",
+      "D": "32768"
+    },
+    {
+      "savol": " MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
+      "A": "2019",
+      "B": "2018",
+      "C": "ЛОЖ",
+      "D": "ИСТИНА"
+    },
+    {
+      "savol": " MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
+      "A": "=E15*$AB34",
+      "B": "=D6*$AB$34",
+      "C": "=E15*$BC34",
+      "D": "=D6*$AC25"
+    },
+    {
+      "savol": " Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 24 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
+      "A": "270",
+      "B": "180",
+      "C": "360",
+      "D": "240"
+    },
+    {
+      "savol": " Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 12 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
+      "A": "135",
+      "B": "90",
+      "C": "180",
+      "D": "120"
+    },
+    {
+      "savol": "5+6=14 hisoblash qaysi sanoq sistemasida bajarilgan?",
+      "A": "7",
+      "B": "11",
+      "C": "8",
+      "D": "9"
+    },
+    {
+      "savol": "2 lik sanoq sistemasidagi 1010101010 va 11111 sonlarning ko’paytmasini toping.",
+      "A": "01001010010110",
+      "B": "101010101010",
+      "C": "101101101101",
+      "D": "11011111011"
+    },
+    {
+      "savol": "10010 soni qaysi sanoq sistemasida mavjud?",
+      "A": "Barcha sanoq sistemalarida mavjud",
+      "B": "Faqat 2 lik sanoq sistemasida bor",
+      "C": "Faqat 10 lik sanoq sistemasida bor",
+      "D": "Faqat 8 lik sanoq sistemasidabor"
+    },
+    {
+      "savol": "Sonlarni o`sish tartibida joylashtiring: 1) 12<sub>5</sub>*9<sub>16</sub> 2) 7<sub>8</sub>*10<sub>16</sub> 3) 10<sub>16</sub>*4<sub>10</sub>",
+      "A": "2, 3, 1",
+      "B": "3, 1, 2",
+      "C": "1, 3, 2",
+      "D": "1, 2, 3"
+    },
+    {
+      "savol": "Web-sahifaning BODY tegida fonga rang berish uchun qanday parametr ishlatiladi?",
+      "A": "bgcolor",
+      "B": "textbackground ",
+      "C": "textcolor",
+      "D": "background"
+    },
+    {
+      "savol": "Quyidagi mulohaza rost bo’ladigan X ning eng katta butun qiymati nechaga teng (X* (X + 1) ≥ 72) ⋀ (X*X <65 )",
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "7"
+    },
+    {
+      "savol": "2AC1<sub>16</sub> soni ikkilikdagi ko’rinishida nechta 1 qatnashgan?",
+      "A": "6",
+      "B": "7",
+      "C": "5",
+      "D": "8"
+    },
+    {
+      "savol": "2A<sub>16</sub> < x < 61<sub>8</sub> uchun x ni qanoatlantiradigan butun sonlar nechta?",
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "5"
+    },
+    {
+      "savol": "Qaysi o’nlik sanoq sistemasidagi sonning ikkilik sanoq sistemasidagi ko’rinishida 2 ta bir qatnashgan?",
+      "A": "12",
+      "B": "7",
+      "C": "4",
+      "D": "11"
+    },
+    {
+      "savol": "Ikkilik sanoq sistemasidagi ko’rinishida 2 ta bir va 2 ta nol qatnashgan o'n oltilik sanoq sistemasidagi eng katta  sonni toping.",
+      "A": "C",
+      "B": "12",
+      "C": "B",
+      "D": "11"
+    },
+    {
+      "savol": "Ikkilik sanoq sistemasidagi ko’rinishida 2 ta bir va 2 ta nol qatnashgan o'n oltilik sanoq sistemasidagi eng Kichik  sonni toping.",
+      "A": "9",
+      "B": "10",
+      "C": "A",
+      "D": "4"
+    },
+    {
+      "savol": "Qaysi mantiqiv ifoda А ⋀ (A ⋀ В) itodaga teng kuchli",
+      "A": "А ⋀ В",
+      "B": "А⋀¬В",
+      "C": "¬А⋀В",
+      "D": "A"
+    },
+    {
+      "savol": "Qaysi Y soni uchun (Y > 1) V (Y > 4) ⋀ (Y < 2) mulohaza yolg‘on?",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    {
+      "savol": "Quyidagi algoritm bajarilgandan keyin с o'zgaruvchining qiymatini aniqlang: a=5, a=a+6, b = -a, c=a – 2*b.",
+      "A": "33",
+      "B": "-11",
+      "C": "15",
+      "D": "27"
+    },
+    {
+      "savol": "Quyidagi mulohazalardan qaysilari to’g’ri?         1) RAM kompyuteming tezkor xotirasi;         2) Modem kompyuteming asosiy quril- masiga taaluqli;         3) Axborot nazarivasming asoschisi deb Klod Shennon hisoblanadi;         4) Birinchi shaxsiy kompyuter 1945 yilda ishlab chiqarilgan.",
+      "A": "1, 3",
+      "B": "1, 2",
+      "C": "3, 4",
+      "D": "2, 3"
+    },
+    {
+      "savol": "Kamera 1024x768 pikselli suratga oladi. Bitta freymni saqlash uchun 900 Kb ajratilgan. Rasmlar palitrasida mumkin bo'lgan maksimal ranglarni toping.",
+      "A": "512",
+      "B": "256",
+      "C": "128",
+      "D": "9"
+    },
+    {
+      "savol": "MS Excel: A1=78, B1=156, C1=4, A2=312, B2=390, C2='Agrotexnika' berilgan bo’lsa, =ПСТР(C2;1+СЧЁТЕСЛИ(A1:B2; ”>156”); C1) formula qiymatini toping.",
+      "A": "rote",
+      "B": "exni",
+      "C": "otex",
+      "D": "Agrot"
+    },
+    {
+      "savol": "MS Excel Al = -5, B1=6, B2=4 bo’lsin. Quyidagi formula natijasi -24 bolishi uchun A2 katakka kiritish zarur bo’gan qiymatni aniqlang: =ЕСЛИ(ИЛИ(A1+B2>=A2*B1; A1*B1 >0); A1*B2-B1-A2; A1*B1+B2+A2)",
+      "A": "2",
+      "B": "-1",
+      "C": "4",
+      "D": "0"
+    },
+    {
+      "savol": "MS Excel. A1=-6; A2=-1; B1=6; B2=3 bo’lsin. Natijа -1 bo‘ladigan formulani aniqlang",
+      "A": "= ЕСЛИ(А1>В1; B2; A2)",
+      "B": "=OCTAT(Al; B2)+B1+A2",
+      "C": "= СУММ(-А1+В1; A2+B2) ",
+      "D": " CP3HAЧ(A1: B2)*B2"
+    },
+    {
+      "savol": "MS Excel. Quyidagi formula natijasini aniqlang: =ДЛСТР(ПСТР(\"sadoqat\";1;2) + ПСТР(\"samovar\";3;2))",
+      "A": "4",
+      "B": "samo",
+      "C": "sado",
+      "D": "14t"
+    },
+    {
+      "savol": "Disklardagi ma'lumot yoziladigan eng kichik bo`laklar qanday nomlanadi?",
+      "A": "Klaster",
+      "B": "Fragment",
+      "C": "Segment",
+      "D": "Sektor"
+    },
+    {
+      "savol": "Fayllarning diskdagi bo`laklari qanday nomlanadi?",
+      "A": "Fragment",
+      "B": "Klaster",
+      "C": "Segment",
+      "D": "Sektor"
+    },
+    {
+      "savol": "Ekranning har bir pikseli 503 ta rangning birida aks etadi. Ekran to`gri to`rtburchak shaklda bo`lib, uning eni 128 piksel va xotiradan 27 kilobayt joy egallagan. Ekranning bo`yini piksellarda aniqlang.",
+      "A": "192",
+      "B": "202",
+      "C": "187",
+      "D": "195"
+    },
+    {
+      "savol": "Axborotdan hayot faoliyatida foydalana olosh uchun qaysi muhim xususiyatlarga ega bo`lishi lozim?",
+      "A": "qimmatli, ishonchli, to`liq",
+      "B": "ushunarli, qisqa, batafsil",
+      "C": "foydalalik va ortiqchalilik",
+      "D": "ortiqchalilik, to`liqlilik, foydalilik"
+    },
+    {
+      "savol": "Delphi dasturlash tilida Edit componentasini qaysi parametriga ma'lumot kiritiladi?",
+      "A": "Text",
+      "B": "Caption",
+      "C": "Font",
+      "D": "Width"
+    },
+    {
+      "savol": "Delphi dasturlash tilida dastur natijasini aks ettirishda Label componentsining qanday parametridan foydalaniladi?",
+      "A": "Caption",
+      "B": "Text",
+      "C": "Font",
+      "D": "Grid"
+    },
+    {
+      "savol": "MS Accsess dasturida ma'lumotlarni saqlashda qanday elemtdan foydalaniladi? ",
+      "A": "Tablitsa(jadval)",
+      "B": "Forma",
+      "C": "Zapros(So'rov)",
+      "D": "Otchet(Hisobot)"
+    },
+    {
+      "savol": "MS Access dasturi MOBTning qanday turiga mansub",
+      "A": "relyatsion",
+      "B": "iyerarxik",
+      "C": "to'rli",
+      "D": "tarmoqli"
+    },
+    {
+      "savol": "Python dasturida sonni darajaga oshirish uchun qanday matematik amal qo'llaniladi?",
+      "A": "**",
+      "B": "^",
+      "C": "pow(a,b)",
+      "D": "//"
+    },
+    {
+      "savol": "X, А, В, С o'zgamvchilarga mos ravishda 5, 2, 467 va 0 ga teng bo'lgan qiymatlarga berilgach quyidagi algoritm fragmentini bajarish natijasida Y ning qiymati nimaga teng bo'ladi? X, А, В, С  kiritish Y=X^A+B*sin(S) Y ni chiqarish?",
+      "A": "25",
+      "B": "492",
+      "C": "0",
+      "D": "10"
+    },
+    {
+      "savol": "Birinchi avlod elektron hisoblash         mashinaning asosiy elementi nimadan         iborat?",
+      "A": "elektron lampa",
+      "B": "yarim o'tkazgichli transistor ",
+      "C": "integral sxem",
+      "D": " katta integral sxema "
+    },
+    {
+      "savol": "Bilim- ",
+      "A": "bog`langan axborotlar yig`indisi",
+      "B": "darsliklar orqali o`rganilgan mavhum boylik",
+      "C": "axborotlarni diskret usulda qabul qilish",
+      "D": "axborotlarni analog usulda qabul qilish"
+    },
+    {
+      "savol": "Kompyuter grafikasining nuqtalar yordamida tasvirlar hosil qilish turi qanday nomlanadi? ",
+      "A": "rastrli grafika",
+      "B": "2D grafika",
+      "C": "fractal grafika",
+      "D": "vektorli grafika"
+    },
+    {
+      "savol": "Telegraf qurilmasi qachon yaratilgan?",
+      "A": "1837-yil",
+      "B": "1838-yil",
+      "C": "1822-yil",
+      "D": "1831-yil"
+    },
+    {
+      "savol": "Taqdimot namoyishi vaqtida klaviaturadagi PageUp klavishi bosilsa nima sodir bo'ladi?",
+      "A": "Oldingi slaydga o'tiladi",
+      "B": "Keyingi slaydga o'tiladi?",
+      "C": "So'nggi slaydga o'tiladi",
+      "D": "Birinchi slaydga o'tiladi?"
+    },
+    {
+      "savol": "Taqdimot namoyishi vaqtida klaviaturadagi Esc klavishi bosilsa nima sodir bo'ladi?",
+      "A": "Slaydlar namoyishi to'xtatiladi",
+      "B": "Oxirgi slaydga o'tiladi",
+      "C": "Joriy slayd ma'lum vaqtda o'zjoyida qotadi",
+      "D": "So'nggi slaydga o'tiladi"
+    },
+    {
+      "savol": "MS Wordda hujjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi. ",
+      "A": "CTRL+END",
+      "B": "CTRL+HOME",
+      "C": "CTRL+PgDown",
+      "D": "CTRL+PgUp"
+    },
+    {
+      "savol": " MS Excel. Berilgan: G1=1, H1=-1, I1=2, J1=5, K1=3. L1 katakka =G$1*H1+I$1-$J$1 formula kiritilgan va shu katak M1, N1, O1, P1 kataklarga nusxalangan. =M1+P1 formulaning qiymatini aniqlang.",
+      "A": "-21",
+      "B": "-17",
+      "C": "-7",
+      "D": "-19"
+    },
+    {
+      "savol": " 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
+      "A": "3DDA",
+      "B": "3DAA",
+      "C": "3DDD",
+      "D": "3DDDA"
+    },
+    {
+      "savol": " Yozilayotgan matnning faqat mazmuni ahamiyatga ega bo`lganda qo`llaniladigan matn yozish dasturlari qanday nomlanadi? ",
+      "A": "matn muharrirlari",
+      "B": "matn protsessorlari",
+      "C": "Bloknot",
+      "D": "MS Word"
+    },
+    {
+      "savol": " Hujjatlar matn yoziladigan dasturlarning qanday turida tayyorlanadi? ",
+      "A": "matn protsessorlari",
+      "B": "matn  muharrirlarida",
+      "C": "matn jamlanmalarida",
+      "D": "elektron jadvallarda"
+    },
+    {
+      "savol": " Matn muharrirlari va matn muharrirlaridagi  alifbo harflari, raqamlar va turli belgilar qanday ataladi?",
+      "A": "shrift",
+      "B": "alifbo",
+      "C": "format",
+      "D": "matn"
+    },
+    {
+      "savol": " ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
+      "A": "so`z",
+      "B": "satr",
+      "C": "matn",
+      "D": "gap"
+    },
+    {
+      "savol": " Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
+      "A": "hujjat",
+      "B": "matn",
+      "C": "loyiha",
+      "D": "satr"
+    },
+    {
+      "savol": " MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
+      "A": "matn",
+      "B": "gap",
+      "C": "satr",
+      "D": "hujjat"
+    },
+    {
+      "savol": " Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
+      "A": "satr",
+      "B": "gap",
+      "C": "matn",
+      "D": "hoshiya"
+    },
+    {
+      "savol": " Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
+      "A": "hoshiya",
+      "B": "abzas",
+      "C": "satr",
+      "D": "bo`sh joy"
+    },
+    {
+      "savol": " Matn protsessorlarida bosh satri bo`lgan satrlar ketma-ketligi qanday ataladi? ",
+      "A": "abzas",
+      "B": "matn",
+      "C": "hujjat",
+      "D": "gap"
     }
-    ,
-    {
-        "savol":"web saytda administrator tomonidan kiritilgan mavzu asosida suhbat olib borish tizimi qanday ataladi?",
-        "A":"Forum",
-        "B":"Chat",
-        "C":"Pochta",
-        "D":"Telefoniya"
-    }
-    ,
-    {
-        "savol":"MS Wordda jadvalning ajratilgan ustuni klaviatura orqali qanday o‘chiriladi?",
-        "A":"ALT + DELETE klavishlar kombinatsiyasini bosish orqali",
-        "B":"BACKSPACE klavishini bosish orqali",
-        "C":"DELETE klavishini bosish orqali",
-        "D":"ENTER klavishini bosish orqali"
-    }
-    ,
-    {
-        "savol":"Quyidagi kod natijasini ko‘rsating: x = 70 // 4 % (3 + 2) ** 4 + 15//2 print(x)",
-        "A":"24",
-        "B":"15",
-        "C":"25",
-        "D":"16"
-    }
-    ,
-    {
-        "savol":"Jumlani to‘ldiring: ________________ -  o‘quv materiallarini turli usllarda uzatish (15 turdagi interfaol vosita), bilimlarni tekshirish va o‘zlashtirish monitoringini yuritish uchun mo‘ljallangan platforma.",
-        "A":"Moodle",
-        "B":"Djoomla",
-        "C":"Skype",
-        "D":"Khan Academy"
-    }
-    ,
-    {
-        "savol":"Quyida berilgan sonlar ichidan polindrom sonni ko`rsating.",
-        "A":"15651",
-        "B":"2020",
-        "C":"135431",
-        "D":"080800"
-    }
-
-    ,
-    {
-        "savol":"A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: A=>B",
-        "A":"yolg`on",
-        "B":"rost",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: B=>A",
-        "A":"rost",
-        "B":"yolg`on",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"A =“972 soni 9 ga karrali”, B =“972 soni raqamlarining yig‘indisi 9 ga karrali”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifoda qiymatini aniqlang. A<=>B",
-        "A":"rost",
-        "B":"yolg`on",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"x = 1,6 va y = 8,7, A = “rost” va B = “yolg‘on” bo‘lganda, (A∨⏋B)&(x>y) mantiqiy ifodaning qiymatini hisoblang",
-        "A":"yolg`on",
-        "B":"rost",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"Bolalar Xo'ja Nasriddinni uchratib qolishdi va undan yoshini so'rashdi. Xo'ja Nasriddin shunday javob beribdi: \"Mening yoshim turli raqamlardan tuzilgan. Agar birinchi va oxirgi raqamlar o'chirilsa, ikki xonali son hosil bo'ladi. Bu ikki xonali son raqamlari yig'indisi 13 bo'lgan eng katta sondir. Birinchi raqam oxirgi raqamdan 4 marta katta. Ana endi yoshimni o'zingiz hisoblab olavering\". Xo'ja Nasriddinning yoshi nechada?",
-        "A":"8942",
-        "B":"2498",
-        "C":"2768",
-        "D":"1944"
-    }
-    ,
-    {
-        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png' alt='inf1'>",
-        "A":"0, 0, 1, 0",
-        "B":"0, 1, 1, 1",
-        "C":"1, 0, 0, 0",
-        "D":"1, 1, 1, 1"
-    }
-    ,
-    {
-        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin",
-        "A":"0, 0, 0, 0",
-        "B":"0, 1, 1, 1",
-        "C":"1, 0, 0, 0",
-        "D":"1, 1, 1, 1"
-    }
-    ,
-    {
-        "savol":"<img src='../img/inf2.png' alt='inf2'> Robot katakchalar bo‘ylab o‘ngga, yuqoriga yoki pastga harakatlana oladi. U bir katakdan bir necha marta o‘tishi ham mumkin. Robot turgan katagidan batareyka joylashgan katakka bora oladigan zaruriy ko‘rsatmalar ketma-ketligini toping. Masalaning shartida ijrochi Robotning ko‘rsatmalar tizimi (RKT) RKT={o‘ngga; yuqoriga; pastga}dan iborat.",
-        "A":"o`ngga, yuqoriga, pastga",
-        "B":"o`ngga, o`ngga, yuqoriga",
-        "C":"pastga, o`ngga, yuqoriga, o`ngga",
-        "D":"yuqoriga, pastga, yuqoriga, o`ngga"
-    }
-    ,
-    {
-        "savol":"Bu so’z informatika ga televideniyedan kirib  kelgan bo’lib ,  tarjimasi  “xaskash” , “omoch” so’zlaridan olingan siz shu so’zni toping?",
-        "A":"rastr",
-        "B":"vektor",
-        "C":"fraktal",
-        "D":"piksel"
-    },
-    {
-        "savol":". Grafikadan  animatsiya , kompyuter o’yinlari  va virtual (hayoliy)borliq  yaratishda qaysi grafikadan foydalaniladi? ",
-        "A":"uch olchamli",
-        "B":"ikki o`lchamli",
-        "C":"vektorli",
-        "D":"fractal"
-    },
-    {
-        "savol":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish qanday ataladi",
-        "A":"SMM",
-        "B":"LMS",
-        "C":"CMS",
-        "D":"CMM"
-    },
-    {
-        "savol":"Ijmoiy media nima?",
-        "A":"Ko‘plab faol foydalanuvchilarga ega internet platforma.",
-        "B":"Marketing faoliyatini amalga oshirish mumkin bo'lgan web sayt",
-        "C":"Bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
-        "D":"o‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi “o‘zak dastur"
-    },
-    {
-        "savol":"SMM nima?",
-        "A":"Marketing faoliyatining ijtimoiy mediada amalga oshirilishi",
-        "B":"Ijtimoiy tarmoqlar boshqaruvchisi",
-        "C":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
-        "D":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir"
-    },
-    {
-        "savol":"Kontent nima?",
-        "A":"Maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
-        "B":"Mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli yuqori bo‘lgan shaxslar auditoriyasi",
-        "C":"Mahsulot va xizmatlarni targ‘ib qilish, xaridorlarni jalb qilish hamda mahsulotlarni to‘g‘ridan to‘g‘ri sotish faoliyatini ijtimoiy medialarda amalga oshirish faoliyati",
-        "D":"Ko‘plab faol foydalanuvchilarga ega internet platforma"
-    },
-    {
-        "savol":"SMM da mahsulotingizni sotib olish yoki xizmatingizdan foydalanish ehtimoli         yuqori bo‘lgan shaxslar",
-        "A":"Maqsadli auditoriya",
-        "B":"Kontent",
-        "C":"Platforma",
-        "D":"Brend"
-    },
-    {
-        "savol":"Brend nima?",
-        "A":"bir mahsulotning boshqa mahsulotlardan farqlanib turuvchi dizaynga ega belgisi",
-        "B":"maqsadli loyiha uchun yaratilgan sahifa, videorolik yoki tasvir",
-        "C":"ko‘plab faol foydalanuvchilarga ega internet platforma",
-        "D":"marketing faoliyatining ijtimoiy mediada amalga oshirilishi"
-    },
-    {
-        "savol":"O‘zining imkoniyati va funksiyalari orqali boshqa tizimlarni yo‘lga qo‘yishga xizmat qiluvchi ''o‘zak dastur'' qanday ataladi?",
-        "A":"Platforma",
-        "B":"Kontent",
-        "C":"Brend",
-        "D":"SMM"
-    },
-    {
-        "savol":"Mark Suckerberg hamda Eduardo Saverin asos solgan ijtimoiy tarmoq nomi to`g`ri berilgan qatorni aniqlang.",
-        "A":"Facebook",
-        "B":"Instagram",
-        "C":"Google",
-        "D":"YouTube"
-    },
-    {
-        "savol":"Facebook ijtimoiy tarmog`iga qachon asos solingan?",
-        "A":"2004-yilda",
-        "B":"2012-yilda",
-        "C":"1999-yilda",
-        "D":"2006-yilda"
-    },
-    {
-        "savol":"Quyidagi javoblarda ko`rsatilganlardan qaysi biri asosan videoroliklar platformasi hisoblanadi? ",
-        "A":"YouTube",
-        "B":"Facebook",
-        "C":"OK",
-        "D":"Google"
-    },
-    {
-        "savol":"Onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘ini to`g`ri ko`rsating.",
-        "A":"Telegram",
-        "B":"Instagram",
-        "C":"Youtube",
-        "D":"Facebook"
-    },
-    {
-        "savol":"Facebook bu - ?",
-        "A":"xabarlashish va marketing faoliyatini yurituvchi ijtimoiy tarmoq",
-        "B":"onlayn suhbatlashish va turli formatdagi fayllarni almashish tarmog‘i",
-        "C":"foto va videolarni ulashish uchun mo‘ljallangan tarmoq",
-        "D":"ko‘plab interfaol foydalanuvchilarga ega videoroliklar platformasi"
-    },
-    {
-        "savol":"Koreys tilidan tarjima qilinganda ``uchta yulduz`` ma`nosini beradigan brend nomini to`g`ri ko`rsating.",
-        "A":"Samsung",
-        "B":"Apple",
-        "C":"Google",
-        "D":"Instagram"
-    },
-    {
-        "savol":"Lotinchadan tarjima qilnganda 100 ta noldan iborat birlik sonni anglatuvchi so'zni to`g`ri ko`rsating",
-        "A":"Google",
-        "B":"Samsung",
-        "C":"Apple",
-        "D":"Instagram"
-    },
-    {
-        "savol":"Internet tarmog‘ida ijtimoiy media marketingni yurituvchi shaxs qanday ataladi.",
-        "A":"SMM mutaxassisi",
-        "B":"CMS mutaxassisi",
-        "C":"LMS mutaxassisi",
-        "D":"CMM mutaxassisi"
-    },
-    {
-        "savol":"O‘zaro ma’lumotlar almashish imkoniyatiga ega kompyuter yoki qurilmalar guruhi qanday ataladi?",
-        "A":"Tarmoq",
-        "B":"Internet",
-        "C":"Tizim",
-        "D":"Provayder"
-    },
-    {
-        "savol":"Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega mutaxassis — xodim qanday ataladi?",
-        "A":"Admin",
-        "B":"Foydalanuvchi",
-        "C":"Mehmon foydalanuvchi",
-        "D":"Dasturchi"
-    },
-    {
-        "savol":"Quyidagi ko'rsatilganlardan qaysi biri internetda ishlashni ta'minlovchi dastur emas?",
-        "A":"AppStore",
-        "B":"Safari",
-        "C":"Google Chrome",
-        "D":"Opera"
-    },
-    {
-        "savol":"Quyidagilardan qaysi biri internetda ishlashni ta'minlovchi dastur?",
-        "A":"Safari",
-        "B":"AppStore",
-        "C":"Play Market",
-        "D":"Yandex Browser"
-    },
-    {
-        "savol":"Axborot resursi yoki tizimiga berilgan, ularni internet jahon axborot tarmog‘ida identifikasiyalash uchun xizmat qiladigan noyob nom qanday ataladi?",
-        "A":"Domen",
-        "B":"Ip manzil",
-        "C":"Identifikatsiya",
-        "D":"Autentifikatsiya"
-    },
-    {
-        "savol":"foydalanuvchilarga elektron xabarlar almashish imkoniyatini beradigan xizmat turi bu - ... ?",
-        "A":"elektron pochta",
-        "B":"ijtimoiy tarmoq",
-        "C":"telegram",
-        "D":"instagram"
-    },
-    {
-        "savol":"Web-sahifalarni yaratishda keng qo‘llaniladigan tilni ko`rsating.",
-        "A":"HTML",
-        "B":"Python",
-        "C":"CSS",
-        "D":"JavaScript"
-    },
-    {
-        "savol":"Tarmoq yoki kompyuterga kirish uchun ruxsat beruvchi foydalanuvchi ism yoki taxallusi qanday ataladi?",
-        "A":"login",
-        "B":"parol",
-        "C":"elekron pochta",
-        "D":"autentifikatsiya"
-    },
-    {
-        "savol":"Ma’lumotlar bazasi nima?",
-        "A":"elektron hisoblash mashinalari yordamida qidirib topilishi va qayta ishlanishi mumkin bo‘lgan tarzda tartibga solingan va aniq qoidalar asosida tashkil qilingan ma’lumotlar to‘plami",
-        "B":"mijoz kompyuterlarning so‘rovlariga javob beruvchi, yangilangan ma’lumotlarni qabul qiluvchi, bazadan foydalanishga ruxsat beruvchi va h. k. vazifalarni bajaruvchi server",
-        "C":"ma’lumotlarni yig‘ib, kompyuterga kiritish jarayoni. Jarayon avtomatik tarzda yoki qo‘l mehnati bilan amalga oshiriladi",
-        "D":"rasmiylashtirilgan, ya’ni uzatish, izohlash va qayta ishlash uchun mos shaklda taqdim etilgan axborot"
-    },
-    {
-        "savol":"Qurilmani tarmoqqa ulanmagan holda ishlash tartibi qanday ataladi?",
-        "A":"offlayn",
-        "B":"online",
-        "C":"tizimli",
-        "D":"tizimdan tashqari"
-    },
-    {
-        "savol":"Qurilmani tarmoqqa ulangan holda ishlash tartibi qanday ataladi?",
-        "A":"online",
-        "B":"offline",
-        "C":"tizimli",
-        "D":"tizmdan tashqari"
-    },
-    {
-        "savol":"Yagona maqsad yo‘lida bir vaqtning o‘zida ham yaxlit, ham o‘zaro bog‘langan tarzda faoliyat ko‘rsatadigan bir necha turdagi elementlar majmuasi qanday ataladi",
-        "A":"Tizim",
-        "B":"Web-sayt",
-        "C":"Platforma",
-        "D":"Content"
-    },
-    {
-        "savol":"Javed Karim, Chad Hurley va Steve Chen tomonidan ishlab chiqilgan platforma nomini ko`rsating.",
-        "A":"YouTube",
-        "B":"Telegram",
-        "C":"Instagram",
-        "D":"Facebook"
-    },
-    {
-        "savol":"Tayyor shablonli tuzilmalar, ma’lumotlarni kiritish va dizayn ishlariga mo‘ljallangan funksiyalar to‘plamidan iborat platforma qanday ataladi?",
-        "A":"CMS",
-        "B":"SMM",
-        "C":"LMS",
-        "D":"CMM"
-    },
-    {
-        "savol":"Tarkibini ko‘rib chiqish, tahrirlash, o‘zgartirish, unga qo‘shimchalar kiritish mumkin bo'lmagan platformalar qanday ataladi?",
-        "A":"Yopiq kodli platforma",
-        "B":"Ochiq kodli platforma",
-        "C":"CMS platformalari",
-        "D":"Wordpress"
-    },
-    {
-        "savol":"Sayt uchun joy ajratib beruvchi xizmat turi nima deyiladi?",
-        "A":"Hosting",
-        "B":"Domen",
-        "C":"Provayder",
-        "D":"Promount"
-    },
-    {
-        "savol":"1. O'tgan yil davomida Abdullajon Hoshimjondan ko'ra ko'p kino ko'rdi <br> 2. Hoshimjon esa Akbarjondan ko'ra kam kino ko'rdi <br> 3. Akbarjon Abdullajondan ko'ra ko'p kino ko'rdi. Agar birinchi ikkita gap rost ekanligi aniq bo'lsa, 3-gapni rost, yolg'on ekanligini aniqlang!",
-        "A":"Aniqlab bo`lmaydi",
-        "B":"Rost",
-        "C":"Yolg`on",
-        "D":""
-    },
-    {
-        "savol":"4 ta bola bog'ichi bo'shab ketgan it ortidan quvishmoqda. Sardor shundoqqina it orqasida yugurmoqda, Jamol uning orqasida, Jalol esa Jamolning ortida yugurmoqda. Kamol itning to'g'risidan yugurib kelgan payt, it va bolalar uning oldidan o'tib ketib qolishdi, shunda u ham burilib safga qo'shildi. Kamol Jamolning ortida yugurishni boshladi. Sardor tezlashib, itning o'ng tarafiga o'tib oldi. Jalol ham tezlashib itning chap tarafiga o'tib oldi. Endi kim itning orqasida yugurmoqda?",
-        "A":"Jamol",
-        "B":"Jalol",
-        "C":"Sardor",
-        "D":"Kamol"
-    },
-    {
-        "savol":"axborot almashish real vaqtda olib boriladigan internetdagi muloqot qanday nomlanadi",
-        "A":"Chat",
-        "B":"Forum",
-        "C":"Pochta",
-        "D":"Kanal"
-    }
-    ,
-    {
-        "savol":"web saytda administrator tomonidan kiritilgan mavzu asosida suhbat olib borish tizimi qanday ataladi?",
-        "A":"Forum",
-        "B":"Chat",
-        "C":"Pochta",
-        "D":"Telefoniya"
-    }
-    ,
-    {
-        "savol":"MS Wordda jadvalning ajratilgan ustuni klaviatura orqali qanday o‘chiriladi?",
-        "A":"ALT + DELETE klavishlar kombinatsiyasini bosish orqali",
-        "B":"BACKSPACE klavishini bosish orqali",
-        "C":"DELETE klavishini bosish orqali",
-        "D":"ENTER klavishini bosish orqali"
-    }
-    ,
-    {
-        "savol":"Quyidagi kod natijasini ko‘rsating: x = 70 // 4 % (3 + 2) ** 4 + 15//2 print(x)",
-        "A":"24",
-        "B":"15",
-        "C":"25",
-        "D":"16"
-    }
-    ,
-    {
-        "savol":"Jumlani to‘ldiring: ________________ -  o‘quv materiallarini turli usullarda uzatish (15 turdagi interfaol vosita), bilimlarni tekshirish va o‘zlashtirish monitoringini yuritish uchun mo‘ljallangan platforma.",
-        "A":"Moodle",
-        "B":"Djoomla",
-        "C":"Skype",
-        "D":"Khan Academy"
-    }
-    ,
-    {
-        "savol":"Quyida berilgan sonlar ichidan polindrom sonni ko`rsating.",
-        "A":"15651",
-        "B":"2020",
-        "C":"135431",
-        "D":"080800"
-    }
-
-    ,
-    {
-        "savol":"A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: A=>B",
-        "A":"yolg`on",
-        "B":"rost",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"A =“Agar 72 soni 9 ga karrali bo‘lsa, u holda bu son 3 ga ham karrali bo‘ladi”, B =“Agar –3<–1 bo‘lsa, u holda 9<8 bo‘ladi”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifodaning qiymatini aniqlang: B=>A",
-        "A":"rost",
-        "B":"yolg`on",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"A =“972 soni 9 ga karrali”, B =“972 soni raqamlarining yig‘indisi 9 ga karrali”. Ushubu mulohazalar natijasida quyidagi mantiqiy ifoda qiymatini aniqlang. A<=>B",
-        "A":"rost",
-        "B":"yolg`on",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"x = 1,6 va y = 8,7, A = “rost” va B = “yolg‘on” bo‘lganda, (A∨⏋B)&(x>y) mantiqiy ifodaning qiymatini hisoblang",
-        "A":"yolg`on",
-        "B":"rost",
-        "C":"aniqlab bo`lmaydi",
-        "D":"mulohazalarda xatolik mavjud"
-    }
-    ,
-    {
-        "savol":"Bolalar Xo'ja Nasriddinni uchratib qolishdi va undan yoshini so'rashdi. Xo'ja Nasriddin shunday javob beribdi: \"Mening yoshim turli raqamlardan tuzilgan. Agar birinchi va oxirgi raqamlar o'chirilsa, ikki xonali son hosil bo'ladi. Bu ikki xonali son raqamlari yig'indisi 13 bo'lgan eng katta sondir. Birinchi raqam oxirgi raqamdan 4 marta katta. Ana endi yoshimni o'zingiz hisoblab olavering\". Xo'ja Nasriddinning yoshi nechada?",
-        "A":"8942",
-        "B":"2498",
-        "C":"2768",
-        "D":"1944"
-    }
-    ,
-    {
-        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin? <img src='../img/inf1.png alt='inf1'>",
-        "A":"0, 0, 1, 0",
-        "B":"0, 1, 1, 1",
-        "C":"1, 0, 0, 0",
-        "D":"1, 1, 1, 1"
-    }
-    ,
-    {
-        "savol":"Quyidagi sxemaning chiqishida 1 hosil bо‘lishi uchun, kirishida qanday qiymatlar bо‘lishi mumkin",
-        "A":"0, 0, 0, 0",
-        "B":"0, 1, 1, 1",
-        "C":"1, 0, 0, 0",
-        "D":"1, 1, 1, 1"
-    }
-    ,
-    {
-        "savol":"<img src='../img/inf2.png' alt='inf2'> Robot katakchalar bo‘ylab o‘ngga, yuqoriga yoki pastga harakatlana oladi. U bir katakdan bir necha marta o‘tishi ham mumkin. Robot turgan katagidan batareyka joylashgan katakka bora oladigan zaruriy ko‘rsatmalar ketma-ketligini toping. Masalaning shartida ijrochi Robotning ko‘rsatmalar tizimi (RKT) RKT={o‘ngga; yuqoriga; pastga}dan iborat.",
-        "A":"o`ngga, yuqoriga, pastga",
-        "B":"o`ngga, o`ngga, yuqoriga",
-        "C":"pastga, o`ngga, yuqoriga, o`ngga",
-        "D":"yuqoriga, pastga, yuqoriga, o`ngga"
-    }
-    ,
-    {
-        "savol":"Bu so’z informatika ga televideniyedan kirib  kelgan bo’lib ,  tarjimasi  “xaskash” , “omoch” so’zlaridan olingan siz shu so’zni toping?",
-        "A":"rastr",
-        "B":"vektor",
-        "C":"fraktal",
-        "D":"piksel"
-    },
-    {
-        "savol":". Grafikadan  animatsiya , kompyuter o’yinlari  va virtual (hayoliy)borliq  yaratishda qaysi grafikadan foydalaniladi? ",
-        "A":"uch olchamli",
-        "B":"ikki o`lchamli",
-        "C":"vektorli",
-        "D":"fractal"
-    },
-    
-	{"savol": "Excel ish kitoni sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
-        "A": "List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
-        "B": "Fayl menyusidan переместит/скопироват buyrug'i orqali",
-        "C": "List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
-        "D": "Vid menyusidan переместит/скопироват buyrug'i orqali"},
-    
-        {"savol": "Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
-        "A": "Eksponentsial",
-        "B": "Finans",
-        "C": "Pullik",
-        "D": "Umumiy"},
-    
-        {"savol": "Qaysi javobda kimpyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
-        "A": "Turli disklar va tarmoqdan foydalanish",
-        "B": "Bemor odam kompyuterdan foydalanishi",
-        "C": "Man badagi elektr tokini ko'payib yoki kamayib ketishi",
-        "D": "Kompyuterni iflos holda saqlash"},	
-    
-        {"savol": "'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
-        "A": "Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",
-        "B": "Maket-Viravneniye buyrug'i tanlanadi",
-        "C": "Konstruktor-Stili tablits buyrug'i tanlanadi",
-        "D": "Maket-Stroki i stolbsi-Udalit buyrug'i tanlanadi"},
-    
-        {"savol": "MS Excel  jadvallarida ustun sarlovhasiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
-        "A": "Sichqoncha bosilgan ustun ajraladi",
-        "B": "Sichqoncha bosilgan ustin bosmaga chiqariladi",
-        "C": "Xech qanday o'zgarish bo'lmaydi",
-        "D": "Sichqoncha bosilgan ustun o'chiriladi"},
-    
-        {"savol": "Excel ish kitobida kamida necha sahifa list bo'lishi mumkin?",
-        "A": "1 ta",
-        "B": "Istalgancha",
-        "C": "2 ta",
-        "D": "3 ta"},
-    
-        {"savol": "Elektron jadvalning A1 katakchasiga 10 yozilgan, B1 katakchaga =A1/2, C1 katakchaga =СУММ(A1:B1)*2 kiritilgan. C1 Katakchadagi qiymatni aniqlang.",
-        "A": "30",
-        "B": "10",
-        "C": "20",
-        "D": "15"},
-    
-        {"savol": "MS Excel. A1 katakdagi sonni B1 katakdagi 0 dan farqli songa karrali yoki karrali emasligini aniqlovchi formulani ko'rsating.",
-        "A": "=ЕСЛИ(ОСТАТ(A1;B1)=0; \"Karrali\"; \"Karrali emas\") ",
-        "B": "=ЕСЛИ(A1-B1=B1*ЦЕЛОЕ(A1/B1); \"Karrali\"; \"Karrali emas\")",
-        "C": "=ЕСЛИ(A1-B1*ЦЕЛОЕ(A1/B1)=0; \"Karrali\"; \"Karrali emas\")",
-        "D": "=ЕСЛИ(ОСТАТ(A1;B1)<>0; \"Karrali\"; \"Karrali emas\")"},
-    
-        {"savol": "Ma'lumotlar ombori nima?",
-        "A": "Biror predmet sohasidan olingan aniq obyektlar haqidagi ma'lumotlar to'plami",
-        "B": "Bu ma'lumotlar saqlanadigan fayl",
-        "C": "Ma'lumotlar bilan to'ltirilgan ixtiyoriy jadval",
-        "D": "Ma'lumotlar ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi"},
-    
-        {"savol": "MS Excel  jadvallarida satr tartib raqamiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
-        "A": "Sichqoncha bosilgan satr ajraladi",
-        "B": "Sichqoncha bosilgan satr bosmaga chiqariladi",
-        "C": "Xech qanday o'zgarish bo'lmaydi",
-        "D": "Sichqoncha bosilgan satr o'chiriladi"},
-    
-        {"savol": "A1 va B1 taklarga mos ravishda 10 va 12 sonlari kiritilgan. Agar C1 katakka =(A1+B1)/2 va d1 katakka =EСЛИ(КОРEНъ(C1)>8);A1+C1;B1+C1) formulalari kiritilsa D1 katkdagi qiymatni aniqlang.",
-        "A": "23",
-        "B": "22",
-        "C": "21",
-        "D": "24"},
-    
-        {"savol": "Wordda hijjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi?",
-        "A": "CTRL+Home",
-        "B": "CTRL+PageUP",
-        "C": "CRTL+Up",
-        "D": "CTRL+Down"},
-    
-        {"savol": "Wordda CTRL+A klavishlar kombinatsiyasi nima vazifani bajaradi?",
-        "A": "Hujjatning hammasini belgilaydi",
-        "B": "Hujjatni chop etish",
-        "C": "NUsxa olish",
-        "D": "Qidirish oynasini ochish"},
-    
-        {"savol": "Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
-        "A": "http",
-        "B": "www",
-        "C": "ftp",
-        "D": "dns"},
-    
-        {"savol": "Printer nima?",
-        "A": "Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
-        "B": "Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
-        "C": "Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
-        "D": "Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"},
-    
-        {"savol": "MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
-        "A": "12",
-        "B": "15",
-        "C": "18",
-        "D": "9"},
-    
-        {"savol": "MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
-        "A": "Grafik",
-        "B": "Matnli",
-        "C": "Raqamli",
-        "D": "Sana va Vaqt"},
-    
-        {"savol": "Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.larsaqlanadigan diskdagi maxsus joyga ... deyiladi.",
-        "A": "katalog",
-        "B": "menyu",
-        "C": "yorliq",
-        "D": "dastur"},
-    
-        {"savol": " MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
-        "A": "3 ta",
-        "B": "2 ta",
-        "C": "4 ta",
-        "D": "1 ta "},
-    
-        {"savol": "MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
-        "A": "A1=-6, B1=15, C1=12",
-        "B": "A1=-4, B1=9, C1=7",
-        "C": "A1=3, B1=6, C1=18",
-        "D": "A1=7, B1=7, C1=7"},
-    
-        {"savol": " MS Excel.  A1=9,  A2=-9, B1=-18, B2=7,   C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+Длстр(C1)  berilgan. Agar  D1 katakni  D2 katakka  nusxalansa,  D1 va D2 kataklarda  hosil  bo'ladigan sonlar  yig'indisini  toping. ",
-        "A": "33",
-        "B": " -11",
-        "C": "30",
-        "D": "38"},
-    
-        {"savol": " MS Excel A1=9, A2=-9, B1=-14, B2= 4, C1=Informatika, C2=Universitet, D1 = ABS($A1+B1) + НАЙТИ(\"x\";$C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
-        "A":  "ЗНАЧ xatoligi sodir bo`ladi",
-        "B": "10",
-        "C": "18",
-        "D": "21"},
-    
-        {"savol": " MS Excel A1=9, A2=-9, B1=-18, B2= 7, C1= Informatika, C2=Universitet, D1 = ABS($A1+ B1) + Длстр(C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
-        "A": "33",
-        "B": " -11",
-        "C": "30",
-        "D": "38"},
-    
-        {"savol": " MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
-        "A": "6",
-        "B": "5",
-        "C": "4",
-        "D": "8"},
-    
-        {"savol": " MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
-        "A": "16384",
-        "B": "1048576",
-        "C": "256",
-        "D": "32768"},
-    
-        {"savol": " MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
-        "A": "2019",
-        "B": "2018",
-        "C": "ЛОЖ",
-        "D": "ИСТИНА"},
-    
-        {"savol": " MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
-        "A": "=E15*$AB34",
-        "B": "=D6*$AB$34",
-        "C": "=E15*$BC34",
-        "D": "=D6*$AC25"},
-    
-        {"savol": " 2000 Kbayt axborot necha bitga teng?",
-        "A": "20^3*2^11",
-        "B": "20^3*2^9",
-        "C": "20^2*2^10",
-        "D": "10^2*2^13"},
-    
-        {"savol": " A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>-A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2+A2)",
-        "A": "2",
-        "B": "-1",
-        "C": "0",
-        "D": "4"},
-    
-        {"savol": " A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2-A2)",
-        "A": "-2",
-        "B": "-1",
-        "C": "0",
-        "D": "4"},
-    
-        {"savol": " MS Access dasturining asosiy elementlarini aniqlang.",
-        "A": "jadval, so`rov, forma, makros, modul, hisobot",
-        "B": "tugma, maydon, forma, makros, modul, yozuv",
-        "C": "jadval, so`rov, servis, modul, hisobot",
-        "D": "matn, rasm, forma, makros, modul, jadval"},
-    
-        {"savol": " Uchburchak katetlaridan biri 73 ga teng(11 lik sanoq sistemasida), ikkinchisi esa 17 ga teng(11 lik sanoq sistemasida). Uchburchakning gepotenuzasini 11 lik sanoq sistemasida toping.",
-        "A": "75",
-        "B": "78",
-        "C": "77",
-        "D": "74"},
-    
-        {"savol": " MS Excel. A1=1, A2=-9, B1=-12, B2=14, C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+НАЙТИ(''i'';$C1;5) berilgan. Agar D1 katakni D2 katakka nusxalasa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
-        "A": "33",
-        "B": "30",
-        "C": "38",
-        "D": "-6"},
-    
-        {"savol": " MS Excel. A1=10, B1=20, C1=3, A2=40, B2=50, C2=Universitet berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>19''); C1 ) formula qiymatini toping.",
-        "A": "ite",
-        "B": "rsi",
-        "C": "ive",
-        "D": "Uni"},
-    
-        {"savol": " Ekranning har bir pikseli 58 ta rangning birida aks etadi. Ekran kvadrat shaklda bo`lib, u xotiradan 243 kilobayt joy egallaydi. Ekranning tomoni necha pikselga tengligini aniqlang.",
-        "A": "576",
-        "B": "579",
-        "C": "586",
-        "D": "571"},
-    
-        {"savol": " MS Excel. A1=6, A2=-9, B1=-11, B2=1, C1=Informatika, C2=Universitet, D1=ABS ( $A1+B1) +ДЛСТР(ПСТР($C1;2;8)) berilgan. Agar D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
-        "A": "29",
-        "B": "30",
-        "C": "22",
-        "D": "-13"},
-    
-        {	
-        "savol": " $A(1001110;101100)$(2 lik sanoq sistemasida) nuqta va B(42;47) (16 lik sanoq sistemasida) nuqtaning koordinatalari ma`lum bo`lsin. $A$ va $B$ nuqtalar orasidagi eng qisqa masofani (8 lik sanoq sistemasida) aniqlang.",
-        "A": "1111",
-        "B": "1110",
-        "C": "1101",
-        "D": "10000"},
-    
-        {"savol": " MS Excel. A1=3, B1=6, C1=3, A2=12, B2=15, C2=Informatika berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>11''); C1 ) formula qiymatini toping.",
-        "A": "ati",
-        "B": "Info",
-        "C": "mat",
-        "D": "rma"},
-    
-        {"savol": " MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
-        "A": "nik",
-        "B": "anik",
-        "C": "Avtom",
-        "D": "xani"},
-    
-        {"savol": " MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
-        "A": "nik",
-        "B": "anik",
-        "C": "Avtom",
-        "D": "xani"},
-    
-        {	
-        "savol": " MS Excel. Berilgan: G1=1, H1=-1, I1=2, J1=5, K1=3. L1 katakka =G$1*H1+I$1-$J$1 formula kiritilgan va shu katak M1, N1, O1, P1 kataklarga nusxalangan. =M1+P1 formulaning qiymatini aniqlang.",
-        "A": "-21",
-        "B": "-17",
-        "C": "-7",
-        "D": "-19"},
-    
-        {"savol": " 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
-        "A": "3DDA",
-        "B": "3DAA",
-        "C": "3DDD",
-        "D": "3DDDA"},
-    
-        {"savol": " Yozilayotgan matnning faqat mazmuni ahamiyatga ega bo`lganda qo`llaniladigan matn yozish dasturlari qanday nomlanadi? ",
-        "A": "matn muharrirlari",
-        "B": "matn protsessorlari",
-        "C": "Bloknot",
-        "D": "MS Word"},
-    
-        {"savol": " Hujjatlar matn yoziladigan dasturlarning qanday turida tayyorlanadi? ",
-        "A": "matn protsessorlari",
-        "B": "matn  muharrirlarida",
-        "C": "matn jamlanmalarida",
-        "D": "elektron jadvallarda"},
-    
-        {"savol": " Matn muharrirlari va matn muharrirlaridagi  alifbo harflari, raqamlar va turli belgilar qanday ataladi?",
-        "A": "shrift",
-        "B": "alifbo",
-        "C": "format",
-        "D": "matn"},
-    
-        {"savol": " ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
-        "A": "so`z",
-        "B": "satr",
-        "C": "matn",
-        "D": "gap"},
-    
-        {"savol": " Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
-        "A": "hujjat",
-        "B": "matn",
-        "C": "loyiha",
-        "D": "satr"},
-    
-        {"savol": " MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
-        "A": "matn",
-        "B": "gap",
-        "C": "satr",
-        "D": "hujjat"},
-    
-        {"savol": " Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
-        "A": "satr",
-        "B": "gap",
-        "C": "matn",
-        "D": "hoshiya"},
-    
-        {"savol": " Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
-        "A": "hoshiya",
-        "B": "abzas",
-        "C": "satr",
-        "D": "bo`sh joy"},
-    
-        {"savol": " Matn protsessorlarida bosh satri bo`lgan satrlar ketma-ketligi qanday ataladi? ",
-        "A": "abzas",
-        "B": "matn",
-        "C": "hujjat",
-        "D": "gap"},
-    
-        {"savol": " Matnning belgilab olingan bo`lagi qanday nomlanadi? ",
-        "A": "fragment",
-        "B": "satr",
-        "C": "soha",
-        "D": "format"},
-    
-        {"savol": " Matn protsessorlarida hujjat chiroyli ko`rinishga keltirilishi uchun shrift turi, rangi va abzas tekislanishi, chegara chizish kabi kabi bezaklar bilan boyitilishi qanday ataladi? ",
-        "A": "Formatlash",
-        "B": "Fragmentlash",
-        "C": "Word Art",
-        "D": "Hujjatlash sozlash"},
-    
-        {"savol": " MS Word dasturida keyingi shrift avvalgi shriftni, keyingi abzas avvalgi abzasni, yangi sahifa avvalgi sahifa formatlarini o`zida to`liq saqlab qolishi qanday ataladi?",
-        "A": "Vorislik",
-        "B": "Fragment",
-        "C": "Bosh satr",
-        "D": "Sozlash"},
-    
-        {"savol": " MS Word dasturida matn fragmentidan nusxa olish uchun qanday klavishlar majmuidan foydalaniladi? ",
-        "A": "Ctrl+C",
-        "B": "Ctrl+A",
-        "C": "Ctrl+S",
-        "D": "Ctrl+V"},
-    
-        {"savol": " MS Word dasturida yurgichdan o`ng tomondagi belgilarni o`chirish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
-        "A": "Delete",
-        "B": "Backspace",
-        "C": "Ctrl+D",
-        "D": "Ctrl+Enter"},
-    
-        {"savol": " MS Word dasturida yangi abzasga o`tish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
-        "A": "Enter",
-        "B": "Ctrl+Enter",
-        "C": "Delete",
-        "D": "Shift"},
-    
-        {"savol": " MS Word daturida matnning belgilangan biror qismi nima deb ataladi? ",
-        "A": "Blok",
-        "B": "Satr",
-        "C": "Sahifa",
-        "D": "Gap"},
-    
-        {"savol": " MS Word dasturida matn yozish qoidalariga oid to`g`ri mulohazani toping. ",
-        "A": "yangi abzasga o`tish uchun Enter klavishi bosiladi",
-        "B": "joriy satr oxiriga o`tish uchun Home klavishi bosiladi",
-        "C": "joriy satr boshiga o`tish uchun End klavishi bosiladi",
-        "D": "hujjat boshiga o`tish uchun  Shift+Home klavishlari bosiladi"},
-    
-        {	
-        "savol": " MS Word dasturida hujjatni to`liq belgilash qanday klavishlar majmui yordamida amalga oshiriladi?  ",
-        "A": "Ctrl+A",
-        "B": "Ctrl+C",
-        "C": "Ctrl+D",
-        "D": "Ctrl+S"},
-    
-        {"savol": " Kompyuter xotirasiga kiritilgan ma’lum bir strukturaga ega, o`zaro bir biri bilan bog`langan va tartiblangan ma’lumotlar majmuasi qanday nomlanadi.",
-        "A": "Ma'lumotlar ombori",
-        "B": "Ma'lumotlar modeli",
-        "C": "MOBT",
-        "D": "Axborot"},
-    
-        {"savol": " Ma'lumotlar ombori tuzilish usullariga ko`ra qanday guruhlarga bo`linadi?",
-        "A": "relyatsion, iyerarxik, to`rli",
-        "B": "relyatsion, to`rli, tartiblangan",
-        "C": "tartiblangan va tartiblanmagan",
-        "D": "tuzulmalashtirilgan va tuzulmalashtirilmagan"},
-    
-        {"savol": " MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
-        "A": "6",
-        "B": "5",
-        "C": "4",
-        "D": "8"},
-    
-        {"savol": " MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
-        "A": "16384",
-        "B": "1048576",
-        "C": "256",
-        "D": "32768"},
-    
-        {"savol": " MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
-        "A": "2019",
-        "B": "2018",
-        "C": "ЛОЖ",
-        "D": "ИСТИНА"},
-    
-        {"savol": " MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
-        "A": "=E15*$AB34",
-        "B": "=D6*$AB$34",
-        "C": "=E15*$BC34",
-        "D": "=D6*$AC25"},
-    
-        {	"savol": " Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 24 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
-        "A": "270",
-        "B": "180",
-        "C": "360",
-        "D": "240"},
-    
-        {"savol": " Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 12 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
-        "A": "135",
-        "B": "90",
-        "C": "180",
-        "D": "120"
-        }
-]
+  ]

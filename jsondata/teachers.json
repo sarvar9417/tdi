@@ -1543,5 +1543,27 @@
         "fan":"Matematika",
         "toifa":"Ikkinchi toifa",
         "passport":"AA1765934"
+    },
+    {
+        "surname":"Murtozayev",
+        "name":"Sahaddin",
+        "fathername":"Quvvatovich",
+        "viloyat":"Samarqand",
+        "tuman":"Paxtachi tumani",
+        "maktab":"13-maktab",
+        "fan":"Informatika",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AA5738784"
+    },
+    {
+        "surname":"Toxtaniyozova",
+        "name":"Dilnoza",
+        "fathername":"Absolomovna",
+        "viloyat":"Samarqand",
+        "tuman":"Paxtachi tumani",
+        "maktab":"41-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa":"Ikkinchi toifa",
+        "passport":"AB0916664"
     }
 ]

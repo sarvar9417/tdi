@@ -1565,5 +1565,27 @@
         "fan":"Boshlang`ich ta`lim",
         "toifa":"Ikkinchi toifa",
         "passport":"AB0916664"
+    },
+    {
+        "surname":"Mirzayev",
+        "name":"Karimjon",
+        "fathername":"Tolibjon ogli",
+        "viloyat":"Samarqand",
+        "tuman":"Paxtachi tumani",
+        "maktab":"10-maktab",
+        "fan":"Tarix",
+        "toifa":"Ikkinchi toifa",
+        "passport":""
+    },
+    {
+        "surname":"Pirmamatova",
+        "name":"Mohina",
+        "fathername":"Oktamovna",
+        "viloyat":"Samarqand",
+        "tuman":"Paxtachi tumani",
+        "maktab":"10-maktab",
+        "fan":"Matematika",
+        "toifa":"Ikkinchi toifa",
+        "passport":""
     }
 ]
